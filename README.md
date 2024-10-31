@@ -45,6 +45,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Outils CTI et de prévention des menaces cyber**](/Outils%20CTI%20et%20de%20prévention%20des%20menaces%20cyber.md)
 - [**Outils de communication et de visioconférence**](/Outils%20de%20communication%20et%20de%20visioconf%C3%A9rence.md)
 - [**Outils de reporting**](/Outils%20de%20reporting.md)
+- [**Outils de supervision**](/Outils%20de%20supervision.md)
 - [**Sauvegarde et récupération de données**](/Sauvegarde%20et%20r%C3%A9cup%C3%A9ration%20de%20donn%C3%A9es.md)
 - [**Sécurité**](/S%C3%A9curit%C3%A9.md)
 - [**Serveurs web**](/Serveurs%20web.md)
