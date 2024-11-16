@@ -109,6 +109,11 @@
 - [The Sleuth Kit](https://www.sleuthkit.org/) (Suite d'outils forensiques)
 - [Volatility](https://www.volatilityfoundation.org/) (Analyse de la mémoire)
 - [GRR](https://grr.dev/) (Google Rapid Response - Framework d’investigation à distance)
+- [FastIR](https://github.com/SekoiaLab/Fastir_Collector) (Un outil de collecte d'artéfacts sur une machine Windows
+- [Velociraptor](https://docs.velociraptor.app/) (Une plateforme de forensics et de réponse aux incidents à distance)
+- [LiME](https://github.com/504ensicsLabs/LiME) (Un extracteur de mémoire pour Linux)
+- [Xplico](https://www.xplico.org/) (Une plateforme de forensics sur les packets réseaux PCAP)
+- [Moloch](https://github.com/martinpaljak/moloch) (Une palteforme de captures de packets réseaux, et qui peut-être utilisée dans le cadre de forensics)
 
 </details>
 
