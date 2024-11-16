@@ -13,6 +13,7 @@
   - [ComplianceAsCode](https://complianceascode.github.io/) (Projet open source visant à automatiser la gestion de la conformité avec des politiques codées en machine)
   - [Wazuh](https://wazuh.com/) (Plateforme open source de sécurité et gestion des événements, avec modules pour l'audit de conformité)
   - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) (Outil open source pour les CISO et responsables de la sécurité, facilitant la gestion des risques, des audits et de la conformité)
+  - [Lynis](https://cisofy.com/lynis/) Outil open-source d'audit de configuration, utilisé pour le Linux Hardening conformément à certains référentiels
 
 
 ## Gestion des risques liés à la sécurité informatique
