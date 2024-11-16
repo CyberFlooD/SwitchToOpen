@@ -114,6 +114,8 @@
 - [LiME](https://github.com/504ensicsLabs/LiME) (Un extracteur de mémoire pour Linux)
 - [Xplico](https://www.xplico.org/) (Une plateforme de forensics sur les packets réseaux PCAP)
 - [Moloch](https://github.com/martinpaljak/moloch) (Une palteforme de captures de packets réseaux, et qui peut-être utilisée dans le cadre de forensics)
+- [Bulk_Extractor](https://github.com/simsong/bulk_extractor) (Un outil d'analyse forensics permettant d'extraire des infos utiles (des numéros de carte bancaire, des adresses e-mail, des URL, des adresses IP ...etc) depuis un dump mémoire, binaire, images disques ...etc
+- [UAC](https://github.com/tclahr/uac) (Un outil de collecte d'artéfacts pour la réponse aux incidents sur les système Unix-Like)
 
 </details>
 
