@@ -10,6 +10,7 @@
   - [Prelude SIEM](https://www.prelude-siem.org/) : SIEM open source axé sur la corrélation des événements de sécurité
   - [MozDef](https://github.com/mozilla/MozDef) : SIEM open source développé par Mozilla pour automatiser la réponse aux incidents de sécurité
   - [SIEMonster](https://siemonster.com/) : Solution SIEM open source scalable pour la surveillance des événements de sécurité
+  - [OpenEDR](https://www.openedr.com/) : C'est plutôt un EDR, gratuit et open source
 
 
 
