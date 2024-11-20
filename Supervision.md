@@ -8,6 +8,7 @@ Liste des outils open-source pour la supervision des serveurs, réseaux et appli
 - **[Nagios](https://www.nagios.org/)** : Solution populaire et polyvalente pour la supervision d’infrastructures, avec des extensions pour la surveillance de différents services.
 - **[Icinga](https://icinga.com/)** : Fork de Nagios, moderne et extensible, idéal pour surveiller des environnements distribués avec des alertes et des rapports personnalisables.
 - **[Prometheus](https://prometheus.io/)** : Outil de monitoring basé sur la collecte de données métriques, utilisé souvent avec Grafana pour la visualisation.
+- **[Eyes Of Network](https://www.eyesofnetwork.com/fr)** : Solution complète de supervision réseau basée sur Nagios, incluant Business Process, NagVis, Cacti(+ plugins comme Weathermap), Lilac, Grafana. La solution ne semble plus être mise à jour depuis 2021
 
 ## Supervision des Applications
 - **[Netdata](https://www.netdata.cloud/)** : Outil de monitoring en temps réel pour serveurs et applications, facile à installer et avec des visualisations en direct.
