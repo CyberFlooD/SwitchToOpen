@@ -1,15 +1,37 @@
-# Gestion des accès distants sécurisés
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>🌐 Gestion des accès distants sécurisés</h1>
+  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+</div>
+---
 
-## Bastions SSH (serveurs bastion)
-  - [Teleport](https://goteleport.com/) : Serveur d'accès sécurisé open source qui centralise la gestion des accès SSH et RDP, idéal pour les environnements cloud et multi-cloud
-  - [OpenSSH](https://www.openssh.com/) : Suite d'outils open source pour le contrôle et la gestion des connexions SSH, avec des fonctionnalités de proxy SSH
-  - [Bastillion](http://www.bastillion.io/) : Serveur d'accès centralisé open source, avec interface web pour gérer les connexions SSH via un bastion
-  - [SSOwat](https://github.com/YunoHost/SSOwat) : Proxy d'authentification unique open source pour YunoHost, utilisé pour sécuriser les connexions SSH
+## Sommaire 📖 <a id="sommaire"></a>
+1. [🔑 Bastions SSH (serveurs bastion)](#bastion-ssh)
+2. [🌐 Outils de gestion des accès distants](#outils-gestion-acces-distants)
 
-## Outils de gestion des accès distants (Remote Access Management)
-  - [Guacamole](https://guacamole.apache.org/) : Passerelle open source d'accès distant avec prise en charge de SSH, RDP, et VNC via un navigateur web
-  - [rdesktop](https://www.rdesktop.org/) : Client RDP open source pour se connecter à des environnements Windows via un bureau à distance sécurisé
-  - [Remmina](https://remmina.org/) : Client open source pour la gestion des connexions à distance via SSH, RDP, VNC, et autres protocoles
-  - [TigerVNC](https://tigervnc.org/) : Serveur et client VNC open source, offrant des connexions sécurisées pour l'accès distant avec des performances améliorées
-  - [TightVNC](https://www.tightvnc.com/) : Outil VNC open source pour l'accès distant, permettant de contrôler des postes de travail via une connexion Internet
-  - [MeshCentral](https://meshcentral.com/) : Outil open source pour l'administration et le contrôle à distance des ordinateurs, offrant une interface web simple et un chiffrement de bout en bout
+---
+
+## 🔑 Bastions SSH (serveurs bastion) <a id="bastion-ssh"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Teleport** | Open Source | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **OpenSSH** | Open Source | Contrôle et gestion des connexions SSH | Suite d'outils pour connexions SSH avec fonctionnalités de proxy SSH | <div align="center"><a href="https://www.openssh.com/">🔗</a></div> |
+| **Bastillion** | Open Source | Interface web pour SSH | Serveur d'accès centralisé avec gestion via interface web | <div align="center"><a href="http://www.bastillion.io/">🔗</a></div> |
+| **SSOwat** | Open Source | Proxy d'authentification unique | Authentification unique pour sécuriser les connexions SSH via YunoHost | <div align="center"><a href="https://github.com/YunoHost/SSOwat">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🌐 Outils de gestion des accès distants <a id="outils-gestion-acces-distants"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Guacamole** | Open Source | Passerelle d'accès distant | Prise en charge de SSH, RDP, et VNC via navigateur web | <div align="center"><a href="https://guacamole.apache.org/">🔗</a></div> |
+| **rdesktop** | Open Source | Client RDP | Connexion sécurisée à des environnements Windows | <div align="center"><a href="https://www.rdesktop.org/">🔗</a></div> |
+| **Remmina** | Open Source | Gestion des connexions à distance | Prise en charge de SSH, RDP, VNC avec interface utilisateur | <div align="center"><a href="https://remmina.org/">🔗</a></div> |
+| **TigerVNC** | Open Source | Connexions VNC performantes | Serveur et client VNC pour l'accès distant avec meilleures performances | <div align="center"><a href="https://tigervnc.org/">🔗</a></div> |
+| **TightVNC** | Open Source | Contrôle de bureau à distance | Outil pour contrôler des postes de travail via Internet | <div align="center"><a href="https://www.tightvnc.com/">🔗</a></div> |
+| **MeshCentral** | Open Source | Administration et contrôle à distance | Interface web simple et chiffrement de bout en bout pour l'accès distant | <div align="center"><a href="https://meshcentral.com/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)

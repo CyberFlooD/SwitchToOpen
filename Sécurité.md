@@ -1,152 +1,188 @@
-# Sécurité
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>️🛡️ Sécurité</h1>
+  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+</div>
 
-## Antivirus et protection des endpoints
+---
 
-<details>
-<summary>Déplier</summary>
+## Sommaire 📖 <a id="sommaire"></a>
+1. [🛡️ Antivirus et protection des endpoints](#antivirus)
+2. [🔥 Pare-feu et prévention des intrusions (IDS/IPS)](#pare-feu)
+3. [📊 Analyse de logs et monitoring](#analyse-logs)
+4. [🔍 Gestion des vulnérabilités](#gestion-vulnerabilites)
+5. [📈 Plateformes de gestion et de visualisation des vulnérabilités](#plateformes-gestion)
+6. [🔑 Cryptographie et gestion des clés](#cryptographie)
+7. [🛡️ Chiffrement de disque et protection des données](#chiffrement-disque)
+8. [🔎 Gestion des informations et événements de sécurité (SIEM)](#gestion-informations)
+9. [👤 Gestion des identités et accès (IAM)](#gestion-identites)
+10. [🔬 Forensic et réponse aux incidents](#forensic)
+11. [📋 Audit de sécurité et conformité](#audit-securite)
+12. [📧 Outils de protection des emails](#protection-emails)
+13. [🕵️ Création de honeypots](#honeypots)
 
-- [ClamAV](https://www.clamav.net/) (Antivirus)
-- [Wazuh](https://wazuh.com/) (Surveillance des endpoints et détection des menaces)
+---
 
-</details>
+## 🛡️ Antivirus et protection des endpoints <a id="antivirus"></a>
 
-## Pare-feu et prévention des intrusions (IDS/IPS)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **ClamAV** | Open source | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **Wazuh** | Open source | Surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
 
-<details>
-<summary>Déplier</summary>
+[🔝 Retour au sommaire](#sommaire)
 
-- [pfSense](https://www.pfsense.org/) (Pare-feu basé sur FreeBSD)
-- [OPNsense](https://opnsense.org/) (Pare-feu avec IDS/IPS intégré)
-- [Snort](https://www.snort.org/) (IDS/IPS)
-- [Suricata](https://suricata.io/) (IDS/IPS avec fonctionnalités avancées)
+---
 
-</details>
+## 🔥 Pare-feu et prévention des intrusions (IDS/IPS) <a id="pare-feu"></a>
 
-## Analyse de logs et monitoring
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **pfSense** | Open source | Pare-feu et routeur | Basé sur FreeBSD, offre des fonctionnalités de pare-feu | <div align="center"><a href="https://www.pfsense.org/">🔗</a></div> |
+| **OPNsense** | Open source | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
+| **Snort** | Open source | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
+| **Suricata** | Open source | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
 
-<details>
-<summary>Déplier</summary>
+[🔝 Retour au sommaire](#sommaire)
 
-- [Graylog](https://www.graylog.org/) (Gestion et analyse des logs)
-- [ELK Stack](https://www.elastic.co/elk-stack) (Elasticsearch, Logstash, Kibana)
-- [OSSEC](https://www.ossec.net/) (Analyse des logs et détection des intrusions)
+---
 
-</details>
+## 📊 Analyse de logs et monitoring <a id="analyse-logs"></a>
 
-## Gestion des vulnérabilités
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Graylog** | Open source | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
+| **ELK Stack** | Open source | Elasticsearch, Logstash, Kibana | Suite d'outils pour la recherche, l'analyse et la visualisation des logs | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
+| **OSSEC** | Open source | Analyse des logs et détection des intrusions | Analyse et corrélation des journaux système | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 
-<details>
-<summary>Déplier</summary>
+[🔝 Retour au sommaire](#sommaire)
 
-- [Nessus Essentials](https://fr.tenable.com/products/nessus/nessus-essentials)) (Scanner de vulnérabilités)
-- [OpenVAS](https://www.openvas.org/) (Scanner de vulnérabilités)
-- [Nikto](https://cirt.net/Nikto2) (Scanner de vulnérabilités web)
-- [Wapiti](http://wapiti.sourceforge.net/) (Scanner de vulnérabilités web)
-- [ArcherySec](https://archerysec.github.io/archerysec/) (Gestion des vulnérabilités et tests de sécurité)
-- [Drozer](https://github.com/WithSecureLabs/drozer) (Un framework Open source, pour les audits de sécurité des applications mobiles)
- 
-</details>
-    
-## Plateformes de gestion et de visualisation des vulnérabilités
+---
 
-<details>
-<summary>Déplier</summary>
+## 🔍 Gestion des vulnérabilités <a id="gestion-vulnerabilites"></a>
 
-- [Faraday](https://faradaysec.com/) (Plateforme open source permettant aux équipes de sécurité de collaborer, d'analyser et de gérer les vulnérabilités de manière centralisée)
-- [DefectDojo](https://www.defectdojo.org/) (Outil open source conçu pour centraliser et gérer les résultats des scans de vulnérabilités, avec des tableaux de bord pour la gestion des risques)
-- [Dradis](https://dradisframework.com/) (Plateforme open source pour la gestion des vulnérabilités et des rapports de tests de sécurité)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Nessus Essentials** | Freemium | Scanner de vulnérabilités | Scanner de vulnérabilités réseau de base | <div align="center"><a href="https://fr.tenable.com/products/nessus/nessus-essentials">🔗</a></div> |
+| **OpenVAS** | Open source | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
+| **Nikto** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
+| **Wapiti** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
+| **ArcherySec** | Open source | Gestion des vulnérabilités et tests | Tests de sécurité automatisés et gestion des vulnérabilités | <div align="center"><a href="https://archerysec.github.io/archerysec/">🔗</a></div> |
+| **Drozer** | Open source | Sécurité des applications mobiles | Audits de sécurité des applications mobiles | <div align="center"><a href="https://github.com/WithSecureLabs/drozer">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Cryptographie et gestion des clés
+---
 
-<details>
-<summary>Déplier</summary>
+## 📈 Plateformes de gestion et de visualisation des vulnérabilités <a id="plateformes-gestion"></a>
 
-- [GnuPG](https://gnupg.org/) (Chiffrement et signature)
-- [HashiCorp Vault](https://www.vaultproject.io/) (Gestion des secrets et des clés de chiffrement)
-- [Let’s Encrypt](https://letsencrypt.org/) (Certificats SSL/TLS gratuits et automatisés)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Faraday** | Open source | Collaboration et gestion des vulnérabilités | Plateforme pour la gestion centralisée des vulnérabilités | <div align="center"><a href="https://faradaysec.com/">🔗</a></div> |
+| **DefectDojo** | Open source | Gestion des vulnérabilités | Outil pour centraliser et gérer les résultats des scans de vulnérabilités | <div align="center"><a href="https://www.defectdojo.org/">🔗</a></div> |
+| **Dradis** | Open source | Gestion des vulnérabilités et rapports | Plateforme pour la gestion des vulnérabilités et la génération de rapports de tests de sécurité | <div align="center"><a href="https://dradisframework.com/">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Chiffrement de disque et protection des données
+---
 
-<details>
-<summary>Déplier</summary>
+## 🔑 Cryptographie et gestion des clés <a id="cryptographie"></a>
 
-- [VeraCrypt](https://www.veracrypt.fr/) (Chiffrement de disque)
-- [LUKS](https://gitlab.com/cryptsetup/cryptsetup) (Chiffrement des volumes sous Linux)
-- [Cryptomator](https://cryptomator.org/) (Chiffrement de fichiers pour le cloud)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **GnuPG** | Open source | Chiffrement et signature | Outil de chiffrement et de signature numérique | <div align="center"><a href="https://gnupg.org/">🔗</a></div> |
+| **HashiCorp Vault** | Open source | Gestion des secrets et des clés | Gestion des secrets et des clés de chiffrement | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
+| **Let’s Encrypt** | Gratuit | Certificats SSL/TLS | Certificats SSL/TLS gratuits et automatisés | <div align="center"><a href="https://letsencrypt.org/">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Gestion des informations et événements de sécurité (SIEM)
+---
 
-<details>
-<summary>Déplier</summary>
+## 🛡️ Chiffrement de disque et protection des données <a id="chiffrement-disque"></a>
 
-- [Wazuh](https://wazuh.com/) (SIEM, surveillance des hôtes et gestion des incidents)
-- [OSSIM](https://cybersecurity.att.com/products/ossim) (AlienVault Open Source SIEM)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **VeraCrypt** | Open source | Chiffrement de disque | Outil de chiffrement de disque complet | <div align="center"><a href="https://www.veracrypt.fr/">🔗</a></div> |
+| **LUKS** | Open source | Chiffrement de disque | Chiffrement des volumes sous Linux | <div align="center"><a href="https://gitlab.com/cryptsetup/cryptsetup">🔗</a></div> |
+| **Cryptomator** | Open source | Chiffrement de fichiers | Chiffrement de fichiers pour le cloud | <div align="center"><a href="https://cryptomator.org/">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Gestion des identités et accès (IAM)
+---
 
-<details>
-<summary>Déplier</summary>
+## 🔎 Gestion des informations et événements de sécurité (SIEM) <a id="gestion-informations"></a>
 
-- [Keycloak](https://www.keycloak.org/) (Gestion des identités et accès)
-- [Gluu](https://www.gluu.org/) (IAM open source)
-- [FreeIPA](https://www.freeipa.org/) (Authentification centralisée, domaine et sécurité pour Linux)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Wazuh** | Open source | SIEM et surveillance des hôtes | Outil de gestion des incidents et de surveillance des hôtes | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **OSSIM** | Open source | SIEM | AlienVault Open Source SIEM | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Forensic et réponse aux incidents
+---
 
-<details>
-<summary>Déplier</summary>
+## 👤 Gestion des identités et accès (IAM) <a id="gestion-identites"></a>
 
-- [Autopsy](https://www.sleuthkit.org/autopsy/) (Analyse forensique)
-- [The Sleuth Kit](https://www.sleuthkit.org/) (Suite d'outils forensiques)
-- [Volatility](https://www.volatilityfoundation.org/) (Analyse de la mémoire)
-- [GRR](https://grr.dev/) (Google Rapid Response - Framework d’investigation à distance)
-- [FastIR](https://github.com/SekoiaLab/Fastir_Collector) (Un outil de collecte d'artéfacts sur une machine Windows
-- [Velociraptor](https://docs.velociraptor.app/) (Une plateforme de forensics et de réponse aux incidents à distance)
-- [LiME](https://github.com/504ensicsLabs/LiME) (Un extracteur de mémoire pour Linux)
-- [Xplico](https://www.xplico.org/) (Une plateforme de forensics sur les packets réseaux PCAP)
-- [Moloch](https://github.com/martinpaljak/moloch) (Une palteforme de captures de packets réseaux, et qui peut-être utilisée dans le cadre de forensics)
-- [Bulk_Extractor](https://github.com/simsong/bulk_extractor) (Un outil d'analyse forensics permettant d'extraire des infos utiles (des numéros de carte bancaire, des adresses e-mail, des URL, des adresses IP ...etc) depuis un dump mémoire, binaire, images disques ...etc
-- [UAC](https://github.com/tclahr/uac) (Un outil de collecte d'artéfacts pour la réponse aux incidents sur les système Unix-Like)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Keycloak** | Open source | Gestion des identités et accès | Gestion des authentifications et des autorisations | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
+| **Gluu** | Open source | IAM | Système IAM open source | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
+| **FreeIPA** | Open source | Gestion des identités | Authentification centralisée et sécurité pour Linux | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Audit de sécurité et conformité
+---
 
-<details>
-<summary>Déplier</summary>
+## 🔬 Forensic et réponse aux incidents <a id="forensic"></a>
 
-- [Lynis](https://cisofy.com/lynis/) (Audit de sécurité sous Linux)
-- [Scout Suite](https://github.com/nccgroup/ScoutSuite) (Audit de sécurité multi-cloud)
-- [OpenSCAP](https://www.open-scap.org/) (Audit de conformité et scanner de vulnérabilités)
-- [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) (Plateforme GRC pour centraliser et piloter les activités cyber, y compris les audits)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Autopsy** | Open source | Analyse forensique | Outil d'analyse forensique de disques durs | <div align="center"><a href="https://www.sleuthkit.org/autopsy/">🔗</a></div> |
+| **The Sleuth Kit** | Open source | Suite d'outils forensiques | Ensemble d'outils pour l'analyse forensique | <div align="center"><a href="https://www.sleuthkit.org/">🔗</a></div> |
+| **Volatility** | Open source | Analyse de la mémoire | Analyse forensique de la mémoire vive | <div align="center"><a href="https://www.volatilityfoundation.org/">🔗</a></div> |
+| **GRR** | Open source | Framework forensique | Google Rapid Response - Framework d’investigation à distance | <div align="center"><a href="https://grr.dev/">🔗</a></div> |
+| **FastIR** | Open source | Collecte d'artéfacts | Collecte d'artéfacts sur une machine Windows | <div align="center"><a href="https://github.com/SekoiaLab/Fastir_Collector">🔗</a></div> |
+| **Velociraptor** | Open source | Forensics et réponse aux incidents | Plateforme de forensics et de réponse aux incidents à distance | <div align="center"><a href="https://docs.velociraptor.app/">🔗</a></div> |
+| **LiME** | Open source | Extracteur de mémoire | Outil d'extraction de mémoire pour Linux | <div align="center"><a href="https://github.com/504ensicsLabs/LiME">🔗</a></div> |
+| **Xplico** | Open source | Forensics réseau | Plateforme de forensics sur les packets réseaux PCAP | <div align="center"><a href="https://www.xplico.org/">🔗</a></div> |
+| **Moloch** | Open source | Forensics réseau | Plateforme de captures de packets réseaux | <div align="center"><a href="https://github.com/aol/moloch">🔗</a></div> |
+| **Bulk_Extractor** | Open source | Analyse forensique | Extraction d'infos depuis un dump mémoire ou des images disques | <div align="center"><a href="https://github.com/simsong/bulk_extractor">🔗</a></div> |
+| **UAC** | Open source | Collecte d'artéfacts | Collecte d'artéfacts pour la réponse aux incidents sur Unix-Like | <div align="center"><a href="https://github.com/tclahr/uac">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Outils de protection des emails
+---
 
-<details>
-<summary>Déplier</summary>
+## 📋 Audit de sécurité et conformité <a id="audit-securite"></a>
 
-- [MailScanner](https://www.mailscanner.info/) (Protection des emails contre les virus et les spams)
-- [SpamAssassin](https://spamassassin.apache.org/) (Filtrage anti-spam)
-- [ClamAV](https://www.clamav.net/) (Antivirus pour les emails)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Lynis** | Open source | Audit de sécurité sous Linux | Outil d'audit de sécurité pour Linux | <div align="center"><a href="https://cisofy.com/lynis/">🔗</a></div> |
+| **Scout Suite** | Open source | Audit de sécurité multi-cloud | Outil d'audit de sécurité pour les environnements multi-cloud | <div align="center"><a href="https://github.com/nccgroup/ScoutSuite">🔗</a></div> |
+| **OpenSCAP** | Open source | Audit de conformité | Audit de conformité et scanner de vulnérabilités | <div align="center"><a href="https://www.open-scap.org/">🔗</a></div> |
+| **CISO Assistant** | Open source | Gestion des risques cyber | Gestion des activités cyber et des audits | <div align="center"><a href="https://github.com/intuitem/ciso-assistant-community">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Création de honeypots
+---
 
-<details>
-<summary>Déplier</summary>
+## 📧 Outils de protection des emails <a id="protection-emails"></a>
 
-- [Trapster Community](https://github.com/0xBallpoint/trapster-community) (Création de honeypots)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **MailScanner** | Open source | Protection contre les virus et les spams | Outil de protection des emails contre les virus et les spams | <div align="center"><a href="https://www.mailscanner.info/">🔗</a></div> |
+| **SpamAssassin** | Open source | Filtrage anti-spam | Outil de filtrage anti-spam open source | <div align="center"><a href="https://spamassassin.apache.org/">🔗</a></div> |
+| **ClamAV** | Open source | Antivirus pour les emails | Outil antivirus pour scanner les emails | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
 
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🕵️ Création de honeypots <a id="honeypots"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Trapster Community** | Open source | Création de honeypots | Plateforme pour la création de honeypots | <div align="center"><a href="https://github.com/0xBallpoint/trapster-community">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---

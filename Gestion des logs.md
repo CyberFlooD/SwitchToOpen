@@ -1,33 +1,79 @@
-# Gestion de logs
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>📝 Gestion de logs</h1>
+  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+</div>
 
-## Collecte, analyse et gestion centralisée des logs
-  - [Graylog](https://www.graylog.org/) (Plateforme open source pour la collecte, l'analyse et la gestion des logs avec interface web intuitive)
-  - [ELK Stack](https://www.elastic.co/what-is/elk-stack) (Suite composée de Elasticsearch, Logstash, et Kibana pour la gestion des logs, l'analyse et la visualisation)
-  - [Fluentd](https://www.fluentd.org/) (Collecteur de logs open source, compatible avec plusieurs plateformes)
-  - [Loki](https://grafana.com/oss/loki/) (Système de gestion de logs développé par Grafana, conçu pour l'efficacité et l'intégration avec Prometheus)
+---
 
-## Surveillance des événements et détection d'intrusions (SIEM)
-  - [Wazuh](https://wazuh.com/) (Plateforme open source de gestion des logs, SIEM et détection des menaces, avec intégration Elasticsearch)
-  - [OSSIM](https://cybersecurity.att.com/products/ossim) (SIEM open source d'AlienVault pour la gestion centralisée des événements de sécurité)
-  - [Prelude](https://www.prelude-siem.org/) (SIEM open source modulaire pour la gestion des incidents et la détection d'intrusions)
-  - [Security Onion](https://securityonion.net/) (Distribution open source pour la détection des menaces, la surveillance du réseau et la gestion des logs)
-  - [T-Guard](https://docs.tguard.org/) (T-Guard est une solution de sécurité open-source unifiée conçue pour renforcer la cybersécurité des organisations. Elle intègre des outils tels que Wazuh pour la surveillance en temps réel, DFIR-IRIS pour la réponse aux incidents, Shuffle pour l'automatisation des workflows et MISP pour le partage de renseignements sur les menaces.)
+## Sommaire 📖 <a id="sommaire"></a>
+1. [📊 Collecte, analyse et gestion centralisée des logs](#collecte-logs)
+2. [🔍 Surveillance des événements et détection d'intrusions (SIEM)](#siem)
+3. [🛠️ Collecte et routage des logs](#collecte-routage)
+4. [📈 Monitoring et visualisation des logs](#monitoring-visualisation)
+5. [🚀 Outils de gestion des logs spécifiques aux environnements conteneurisés](#gestion-logs-conteneurises)
 
-## Collecte et routage des logs
-  - [Rsyslog](https://www.rsyslog.com/) (Collecteur de logs puissant et flexible, largement utilisé pour les systèmes Linux/Unix)
-  - [Fluentd](https://www.fluentd.org/) (Solution de collecte et routage des logs, utilisée pour agréger les logs de différentes sources)
-  - [Logstash](https://www.elastic.co/logstash) (Outil open source pour collecter, transformer, et envoyer des logs vers des systèmes d'analyse comme Elasticsearch)
-  - [Syslog-ng](https://www.syslog-ng.com/) (Collecteur de logs avancé et flexible, avec des fonctionnalités de filtrage et de transformation)
+---
 
-## Monitoring et visualisation des logs
-  - [Kibana](https://www.elastic.co/kibana) (Interface de visualisation pour Elasticsearch, utilisée pour l'analyse et la présentation des logs)
-  - [Grafana](https://grafana.com/) (Outil de visualisation open source, qui peut être utilisé avec Loki pour afficher et analyser les logs)
-  - [Piwik PRO Analytics](https://piwik.pro/) (Outil de visualisation de données, incluant la gestion des logs)
-  - [GoAccess](https://goaccess.io/) (Outil open source léger pour la visualisation en temps réel des logs d'accès web)
+## 📊 Collecte, analyse et gestion centralisée des logs <a id="collecte-logs"></a>
 
-## Outils de gestion des logs spécifiques aux environnements conteneurisés
-  - [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/) (Client pour récupérer et envoyer les logs des conteneurs Docker vers Loki)
-  - [Fluent Bit](https://fluentbit.io/) (Collecteur de logs léger pour les environnements conteneurisés comme Kubernetes)
-  - [Vector](https://vector.dev/) (Plateforme open source de collecte et transformation des logs, conçue pour les environnements modernes)
-  - [Filebeat](https://www.elastic.co/beats/filebeat) (Agent léger pour collecter et transférer les logs des conteneurs et systèmes dans l'ELK Stack)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Graylog** | Open Source | Collecte et analyse des logs | Plateforme avec interface web intuitive | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
+| **ELK Stack** | Open Source | Gestion complète des logs | Composé de Elasticsearch, Logstash, et Kibana | <div align="center"><a href="https://www.elastic.co/what-is/elk-stack">🔗</a></div> |
+| **Fluentd** | Open Source | Collecteur de logs | Compatible avec plusieurs plateformes | <div align="center"><a href="https://www.fluentd.org/">🔗</a></div> |
+| **Loki** | Open Source | Intégration avec Prometheus | Développé par Grafana pour efficacité | <div align="center"><a href="https://grafana.com/oss/loki/">🔗</a></div> |
 
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🔍 Surveillance des événements et détection d'intrusions (SIEM) <a id="siem"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Wazuh** | Open Source | SIEM et détection des menaces | Intégration avec Elasticsearch | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **OSSIM** | Open Source | Gestion des événements de sécurité | SIEM d'AlienVault | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
+| **Prelude** | Open Source | Détection d'intrusions | SIEM modulaire | <div align="center"><a href="https://www.prelude-siem.org/">🔗</a></div> |
+| **Security Onion** | Open Source | Détection des menaces réseau | Distribution complète pour la sécurité | <div align="center"><a href="https://securityonion.net/">🔗</a></div> |
+| **T-Guard** | Open Source | Solution unifiée de sécurité | Intégration de Wazuh, DFIR, etc. | <div align="center"><a href="https://docs.tguard.org/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🛠️ Collecte et routage des logs <a id="collecte-routage"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Rsyslog** | Open Source | Collecteur de logs puissant | Utilisé pour les systèmes Linux/Unix | <div align="center"><a href="https://www.rsyslog.com/">🔗</a></div> |
+| **Fluentd** | Open Source | Collecte et routage des logs | Agrégation de différentes sources | <div align="center"><a href="https://www.fluentd.org/">🔗</a></div> |
+| **Logstash** | Open Source | Transformation et envoi des logs | Intégré avec Elasticsearch | <div align="center"><a href="https://www.elastic.co/logstash">🔗</a></div> |
+| **Syslog-ng** | Open Source | Collecteur de logs avancé | Filtrage et transformation | <div align="center"><a href="https://www.syslog-ng.com/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 📈 Monitoring et visualisation des logs <a id="monitoring-visualisation"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Kibana** | Open Source | Visualisation de logs | Interface pour Elasticsearch | <div align="center"><a href="https://www.elastic.co/kibana">🔗</a></div> |
+| **Grafana** | Open Source | Monitoring et visualisation | Utilisé avec Loki | <div align="center"><a href="https://grafana.com/">🔗</a></div> |
+| **Piwik PRO Analytics** | Open Source | Visualisation de données | Gestion des logs incluse | <div align="center"><a href="https://piwik.pro/">🔗</a></div> |
+| **GoAccess** | Open Source | Visualisation en temps réel | Logs d'accès web | <div align="center"><a href="https://goaccess.io/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🚀 Outils de gestion des logs spécifiques aux environnements conteneurisés <a id="gestion-logs-conteneurises"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Promtail** | Open Source | Gestion des logs des conteneurs | Envoi vers Loki | <div align="center"><a href="https://grafana.com/docs/loki/latest/clients/promtail/">🔗</a></div> |
+| **Fluent Bit** | Open Source | Collecteur de logs léger | Pour environnements Kubernetes | <div align="center"><a href="https://fluentbit.io/">🔗</a></div> |
+| **Vector** | Open Source | Collecte et transformation des logs | Conçu pour environnements modernes | <div align="center"><a href="https://vector.dev/">🔗</a></div> |
+| **Filebeat** | Open Source | Agent léger pour logs | Pour conteneurs et systèmes | <div align="center"><a href="https://www.elastic.co/beats/filebeat">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
