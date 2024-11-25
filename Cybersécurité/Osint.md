@@ -17,6 +17,7 @@
 - **[Amass](https://github.com/OWASP/Amass)** : Framework open source pour la découverte de sous-domaines, la cartographie réseau et la collecte d'informations sur une infrastructure cible.
 - **[DNSRecon](https://github.com/darkoperator/dnsrecon)** : Outil de reconnaissance DNS qui collecte des informations DNS sur une cible, y compris les enregistrements de zones DNS.
 - **[MassDNS](https://github.com/blechschmidt/massdns)** : Outil de résolution DNS rapide pour découvrir des sous-domaines ou d'autres informations à partir de l'infrastructure DNS.
+- **[WebCheck](https://web-check.xyz/)** : Outil complet donnant une analyse détaillée sur un nom de domaine
 
 ## Recherche sur les adresses IP et les infrastructures
 - **[Shodan](https://www.shodan.io/)** : Moteur de recherche pour découvrir des équipements connectés à Internet (serveurs, routeurs, systèmes IoT, etc.).

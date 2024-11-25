@@ -1,76 +1,50 @@
-# Annuaire d'entreprise
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>📒 Annuaire d'entreprise</h1>
+  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+</div>
 
-## Serveurs d'annuaires LDAP
+---
 
-<details>
-<summary>Déplier</summary>
-  
-  - [OpenLDAP](https://www.openldap.org/) (Serveur d'annuaire LDAP open source, largement utilisé pour la gestion des identités et des accès en entreprise)
-  - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
-  - [389 Directory Server](https://directory.fedoraproject.org/) (Serveur d'annuaire LDAP open source, stable et performant, conçu pour les grandes entreprises)
-  - [Apache Directory Server](https://directory.apache.org/) (Serveur d'annuaire LDAP open source, avec une interface utilisateur graphique pour gérer les données LDAP)
-  - [FreeIPA](https://www.freeipa.org/) (Système de gestion d'identités et d'annuaire LDAP complet, intégrant également la gestion des politiques de sécurité)
+## Sommaire 📖 <a id="sommaire"></a>
+1. [📂 Serveurs d'annuaires LDAP](#serveurs-ldap)
+2. [🔐 Plateformes de gestion d'identités (IAM)](#gestion-identités)
+3. [📇 Gestion des contacts](#gestion-des-contacts)
+4. [🛠️ Autres solutions d'annuaire d'entreprise](#autres-solutions)
+5. [🔄 Outils de synchronisation des annuaires](#synchronisation-annuaires)
+6. [📦 Annuaire d'entreprise pour la gestion des ressources](#ressources)
 
- </details>   
+---
 
-## Plateformes de gestion d'identités (IAM)
+## 📂 Serveurs d'annuaires LDAP <a id="serveurs-ldap"></a>
 
-<details>
-<summary>Déplier</summary>
-  
-  - [Keycloak](https://www.keycloak.org/) (Plateforme open source de gestion des identités et des accès, avec des fonctionnalités d'authentification unique (SSO) et de fédération d'identités)
-  - [Gluu](https://www.gluu.org/) (Suite de gestion d'identités open source pour l'authentification, l'autorisation et la fédération des identités)
-  - [FreeIPA](https://www.freeipa.org/) (Système de gestion des identités basé sur LDAP, Kerberos et d'autres technologies pour une solution IAM complète)
-  - [FusionAuth](https://fusionauth.io/) (Solution open source de gestion des identités, facile à intégrer avec des applications web et mobiles)
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| OpenLDAP | Open Source | Serveur d'annuaire LDAP | Gestion des identités et des accès | <div align="center"><a href="https://www.openldap.org/">🔗</a></div> |
+| Univention Corporate Server (UCS) | Commercial | Serveur d'annuaire, gestion multiplateforme | Système complet de gestion de serveur | <div align="center"><a href="https://www.univention.com/products/ucs/">🔗</a></div> |
+| 389 Directory Server | Open Source | Serveur d'annuaire LDAP | Performant, conçu pour grandes entreprises | <div align="center"><a href="https://directory.fedoraproject.org/">🔗</a></div> |
+| Apache Directory Server | Open Source | Serveur d'annuaire LDAP | Interface graphique pour gestion LDAP | <div align="center"><a href="https://directory.apache.org/">🔗</a></div> |
+| FreeIPA | Open Source | Système de gestion d'identités et d'annuaire LDAP | Gestion des politiques de sécurité | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
 
-    </details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Annuaire d'entreprise et gestion des contacts
+---
 
-<details>
-<summary>Déplier</summary>
+## 🔐 Plateformes de gestion d'identités (IAM) <a id="gestion-identités"></a>
 
-  - [EGroupware](https://www.egroupware.org/) (Suite open source de collaboration, intégrant un annuaire d'entreprise pour la gestion des contacts et des utilisateurs)
-  - [SOGo](https://sogo.nu/) (Serveur open source collaboratif avec des fonctionnalités d'annuaire d'entreprise, compatible avec des clients Outlook et Thunderbird)
-  - [Zimbra](https://www.zimbra.com/) (Suite de messagerie et collaboration open source, incluant un annuaire d'entreprise et la gestion des contacts)
-  - [Nextcloud Contacts](https://nextcloud.com/) (Application de gestion des contacts intégrée à la suite Nextcloud, offrant des fonctionnalités d'annuaire d'entreprise)
+| 🌐 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| Keycloak | Open Source | Authentification unique (SSO), IAM | Fédération d'identités | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
+| Gluu | Open Source | IAM, Authentification, Autorisation | Fédération d'identités | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
+| FreeIPA | Open Source | IAM basé sur LDAP, Kerberos | Solution IAM complète | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+| FusionAuth | Open Source | IAM pour web et mobile | Facile à intégrer | <div align="center"><a href="https://fusionauth.io/">🔗</a></div> |
 
-</details>
+[🔝 Retour au sommaire](#sommaire)
 
-## Solutions d'annuaire d'entreprise avec intégration LDAP
+---
 
-<details>
-<summary>Déplier</summary>
+## 📇 Gestion des contacts <a id="gestion-des-contacts"></a>
 
-  - [FusionDirectory](https://www.fusiondirectory.org/) (Interface de gestion pour OpenLDAP, facilitant la gestion des utilisateurs, des groupes et des ressources dans l'annuaire)
-  - [LDAP Account Manager](https://www.ldap-account-manager.org/lamcms/) (Interface web open source pour gérer les utilisateurs et les groupes dans un annuaire LDAP)
-  - [GOsa²](https://gosa-project.org/) (Outil open source pour la gestion centralisée des systèmes via LDAP, avec une interface utilisateur conviviale)
-  - [phpLDAPadmin](https://phpldapadmin.sourceforge.io/wiki/index.php/Main_Page) (Interface web open source pour l'administration des serveurs LDAP)
-
-</details>
-
-
-## Outils de synchronisation des annuaires
-
-<details>
-<summary>Déplier</summary>
-
-  - [Lsc (LDAP Synchronization Connector)](https://lsc-project.org/) (Outil open source de synchronisation d'annuaires LDAP, avec support pour plusieurs sources de données)
-  - [Univention Corporate Server (UCS)](https://www.univention.com/) (Univention Corporate Server est un système d'exploitation de serveur, dérivé de Debian GNU/Linux, doté d'un système de gestion intégré pour l'administration multiplateformes de serveurs, de services, de clients, de bureaux et d'utilisateurs, ainsi que de machines virtuelles...)
-  - [Syncope](https://syncope.apache.org/) (Plateforme open source de gestion des identités et des accès (IAM), avec des fonctionnalités avancées de synchronisation des utilisateurs entre annuaires)
-
-</details>
-
-## Annuaire d'entreprise pour la gestion des ressources
-
-<details>
-<summary>Déplier</summary>
-  
-  - [iTop](https://www.itophub.io/) (Outil open source de gestion de la configuration (CMDB) et des ressources, avec des fonctionnalités d'annuaire d'entreprise)
-  - [GLPI](https://glpi-project.org/) (Système open source de gestion des ressources et des services IT, avec des fonctionnalités d'annuaire et d'inventaire)
-  - [NetBox](https://netbox.readthedocs.io/en/stable/) (Outil open source de gestion d'infrastructure réseau et de documentation des ressources, incluant la gestion des utilisateurs et des accès)
-  - [RackTables](https://www.racktables.org/) (Outil open source de gestion des centres de données et de documentation des ressources, avec des fonctionnalités d'annuaire pour la gestion des utilisateurs)
-
-</details>
-
-
+| 📇 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| EGroupware | Open Source | Suite collaborative, Annuaire d'entreprise | Gestion des contacts | <div align="center"><a href="https://www.egroupware.org/">🔗</a></div> |
+| SOGo | Open Source | Serveur collaboratif | Compatible Outlook et Thunderbird | <div align="center"><a href="https://www.sogo.nu/">🔗</a></div> |
