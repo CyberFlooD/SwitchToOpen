@@ -1,4 +1,4 @@
-# Welcome to the SwitchToOpen - Your Open soure shift
+# Welcome to the SwitchToOpen - Your Open source shift
 
 
 <img src="./Img/switchtoopen2.png" alt="drawing" width="360" style="display: block;margin-left: auto;margin-right: auto;"/>
