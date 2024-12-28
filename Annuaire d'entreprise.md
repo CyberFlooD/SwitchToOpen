@@ -12,7 +12,7 @@
 4. [🛠️ Autres solutions d'annuaire d'entreprise](#autres-solutions)
 5. [🔄 Outils de synchronisation des annuaires](#synchronisation-annuaires)
 6. [📦 Annuaire d'entreprise pour la gestion des ressources](#ressources)
-
+7. [📂 Contrôleur de domaine](#domain-controller)
 ---
 
 ## 📂 Serveurs d'annuaires LDAP <a id="serveurs-ldap"></a>
@@ -48,3 +48,13 @@
 |---|---|---|---|---|
 | EGroupware | Open Source | Suite collaborative, Annuaire d'entreprise | Gestion des contacts | <div align="center"><a href="https://www.egroupware.org/">🔗</a></div> |
 | SOGo | Open Source | Serveur collaboratif | Compatible Outlook et Thunderbird | <div align="center"><a href="https://www.sogo.nu/">🔗</a></div> |
+
+---
+
+## 📂 Contrôleur de domaine <a id="domain-controller"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| Samba4-AD | Open Source | Contrôleur de domaine | Contrôleur de domaine de type Active Dirctory sous Linux, adminstrable avec les outils RSAT | <div align="center"><a href="https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
