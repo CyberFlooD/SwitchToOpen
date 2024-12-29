@@ -1,17 +1,17 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>📑 Inventaire</h1>
+  <h1>☑ Inventaire</h1>
   <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
 ---
 
 ## Sommaire 📖 <a id="sommaire"></a>
-1. [🔎 Common Management Database open source](#cmdb-open-source)
-2. [🔎 IP Adress Management open source](#ipam-open-source)
+1. [☑ Common Management Database open source](#cmdb-open-source)
+2. [☑ IP Adress Management open source](#ipam-open-source)
 
 ---
 
-## 🔎 Common Management Database open source <a id="cmdb-open-source"></a>
+## ☑ Common Management Database open source <a id="cmdb-open-source"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## 🔎 IP Adress Management open source <a id="ipam-open-source"></a>
+## ☑ IP Adress Management open source <a id="ipam-open-source"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
