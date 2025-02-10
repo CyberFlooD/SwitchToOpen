@@ -61,6 +61,7 @@
 | **Déjà Dup** | Sauvegardes automatiques avec chiffrement | Solution open source pour les sauvegardes automatiques sur Linux avec chiffrement | <div align="center"><a href="https://wiki.gnome.org/Apps/DejaDup">🔗</a></div> |
 | **rsnapshot** | Basé sur rsync | Outil de sauvegarde open source pour les systèmes Linux/Unix basé sur rsync | <div align="center"><a href="http://rsnapshot.org/">🔗</a></div> |
 | **rsync** | Synchronisation et sauvegarde | Outil de synchronisation et de sauvegarde open source, largement utilisé sous Linux/Unix | <div align="center"><a href="https://rsync.samba.org/">🔗</a></div> |
+| **Bareos** | Sauvegarde et restauration | Outil de sauvegarde open source, permettant également de restaurer les données | <div align="center"><a href="https://www.bareos.com/frfr/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
