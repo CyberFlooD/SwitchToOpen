@@ -122,6 +122,7 @@
 | **Ajenti** | Open Source | Panneau de contrôle | Panneau de contrôle open source pour la gestion des serveurs web et des applications | <div align="center"><a href="https://ajenti.org/">🔗</a></div> |
 | **Stork** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs DNS et DHCP | <div align="center"><a href="https://www.isc.org/stork/">🔗</a></div> |
 | **phpLDAPadmin** | Open Source | Gestion web | Interface web open source pour la gestion des serveurs LDAP | <div align="center"><a href="https://sourceforge.net/projects/phpldapadmin/">🔗</a></div> |
+| **Self Service Password** | Open Source | Gestion web | Interface web open source pour permettre à un utilisateur de changer son mot de passe sur un serveur LDAP | <div align="center"><a href="https://github.com/ltb-project/self-service-password">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
