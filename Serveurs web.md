@@ -14,6 +14,7 @@
 6. [🗄️ Serveurs de cache web](#serveurs-cache-web)
 7. [📄 Serveurs web légers pour des sites statiques](#serveurs-web-legers)
 8. [🛠️ Outils de gestion de serveurs web](#outils-gestion-serveurs-web)
+8. [🖼️ Dashboard](#dashboard)
 
 ---
 
@@ -119,6 +120,17 @@
 | **ISPConfig** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs web, DNS, bases de données et FTP | <div align="center"><a href="https://www.ispconfig.org/">🔗</a></div> |
 | **Ajenti** | Open Source | Panneau de contrôle | Panneau de contrôle open source pour la gestion des serveurs web et des applications | <div align="center"><a href="https://ajenti.org/">🔗</a></div> |
 | **Stork** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs DNS et DHCP | <div align="center"><a href="https://www.isc.org/stork/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🖼️ Dashboard <a id="dashboard"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Homepage** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://gethomepage.dev/">🔗</a></div> |
+| **Homer** | Open Source | Dashboard d'applications | Créer une page web avec les applications du SI depuis un fichier YAML | <div align="center"><a href="https://github.com/bastienwirtz/homer">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
