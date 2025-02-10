@@ -103,6 +103,9 @@
 | **Jekyll** | Open Source | Statique, GitHub Pages | Outil open source pour la création de sites web statiques, souvent utilisé avec GitHub Pages | <div align="center"><a href="https://jekyllrb.com/">🔗</a></div> |
 | **Pelican** | Open Source | Python, statique | Générateur de sites statiques en Python, adapté aux blogs et aux documentations | <div align="center"><a href="https://blog.getpelican.com/">🔗</a></div> |
 | **Caddy** | Open Source | HTTPS automatique | Serveur web qui gère nativement les sites statiques avec HTTPS automatique | <div align="center"><a href="https://caddyserver.com/">🔗</a></div> |
+| **Docusaurus** | Open Source | Optimisé | Créer des sites, pour de la documentation, rapidement et interactivement | <div align="center"><a href="https://docusaurus.io/">🔗</a></div> |
+| **MkDocs** | Open Source | Simple, rapide | Créer des documentations en Markdown et YAML | <div align="center"><a href="https://www.mkdocs.org/">🔗</a></div> |
+| **Sphinx** | Open Source | Simple, rapide | Générateur de sites statiques en Python pour de la documentation | <div align="center"><a href="https://www.sphinx-doc.org/en/master/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -115,6 +118,7 @@
 | **Webmin** | Open Source | Gestion web | Interface web open source pour la gestion des serveurs Linux/Unix, avec gestion des serveurs web et des services | <div align="center"><a href="http://www.webmin.com/">🔗</a></div> |
 | **ISPConfig** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs web, DNS, bases de données et FTP | <div align="center"><a href="https://www.ispconfig.org/">🔗</a></div> |
 | **Ajenti** | Open Source | Panneau de contrôle | Panneau de contrôle open source pour la gestion des serveurs web et des applications | <div align="center"><a href="https://ajenti.org/">🔗</a></div> |
+| **Stork** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs DNS et DHCP | <div align="center"><a href="https://www.isc.org/stork/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
