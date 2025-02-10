@@ -132,6 +132,7 @@
 |---|---|---|---|---|
 | **Homepage** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://gethomepage.dev/">🔗</a></div> |
 | **Homer** | Open Source | Dashboard d'applications | Créer une page web avec les applications du SI depuis un fichier YAML | <div align="center"><a href="https://github.com/bastienwirtz/homer">🔗</a></div> |
+| **Dashy** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://dashy.to/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
