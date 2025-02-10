@@ -120,6 +120,7 @@
 | **ISPConfig** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs web, DNS, bases de données et FTP | <div align="center"><a href="https://www.ispconfig.org/">🔗</a></div> |
 | **Ajenti** | Open Source | Panneau de contrôle | Panneau de contrôle open source pour la gestion des serveurs web et des applications | <div align="center"><a href="https://ajenti.org/">🔗</a></div> |
 | **Stork** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs DNS et DHCP | <div align="center"><a href="https://www.isc.org/stork/">🔗</a></div> |
+| **phpLDAPadmin** | Open Source | Gestion web | Interface web open source pour la gestion des serveurs LDAP | <div align="center"><a href="https://sourceforge.net/projects/phpldapadmin/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
