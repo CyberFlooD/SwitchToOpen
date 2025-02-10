@@ -66,6 +66,7 @@
 | **Nginx** | Open Source | Polyvalent | Utilisé non seulement comme serveur HTTP, mais aussi comme proxy inverse et équilibrage de charge | <div align="center"><a href="https://www.nginx.com/">🔗</a></div> |
 | **Traefik** | Open Source | Microservices | Serveur open source de proxy inverse et d'équilibrage de charge spécialement conçu pour les environnements microservices et conteneurs | <div align="center"><a href="https://traefik.io/">🔗</a></div> |
 | **Varnish** | Open Source | Cache HTTP | Serveur de cache HTTP et proxy inverse conçu pour accélérer les sites web très fréquentés | <div align="center"><a href="https://varnish-cache.org/">🔗</a></div> |
+| **Nginx Proxy Manager** | Open Source | Reverse-Proxy | Exposition des services interne avec du SSL, auto-hébergé sur Docker | <div align="center"><a href="https://nginxproxymanager.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
