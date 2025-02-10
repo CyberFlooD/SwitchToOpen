@@ -21,6 +21,7 @@
 | **Bitwarden** | Open Source | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
 | **KeePass** | Open Source | Local, extensible | Gestionnaire local avec plugins | <div align="center"><a href="https://keepass.info/">🔗</a></div> |
 | **Padlock** | Open Source | Simple et léger | Gestionnaire de mots de passe simple | <div align="center"><a href="https://padlock.io/">🔗</a></div> |
+| **Proton Pass** | Open Source | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://proton.me/fr/pass">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -34,6 +35,7 @@
 | **Passbolt** | Open Source | Partage sécurisé | Gestionnaire pour les équipes | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
 | **Teampass** | Open Source | Gestion des utilisateurs et permissions | Solution pour entreprises | <div align="center"><a href="http://teampass.net/">🔗</a></div> |
 | **Vaultwarden** | Open Source | Version auto-hébergée de Bitwarden | Légère et pour petites équipes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+| **Infisical** | Open Source | Partage sécurisé | Gestion des secrets, certfificats, clés SSH ... | <div align="center"><a href="https://infisical.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
