@@ -42,6 +42,7 @@
 | **CryptPad** | Open Source | Suite collaborative, partage chiffré | Suite collaborative open source avec un outil de partage de fichiers chiffré, permettant aussi l'édition de documents de manière sécurisée | <div align="center"><a href="https://cryptpad.fr/">🔗</a></div> |
 | **SparkleShare** | Open Source | Partage basé sur Git, collaboration | Outil de partage de fichiers open source conçu pour les équipes, basé sur Git, idéal pour les fichiers de projet et la collaboration | <div align="center"><a href="https://sparkleshare.org/">🔗</a></div> |
 | **Plik** | Open Source | Partage sécurisé, temporaire | Application de partage de fichiers auto-hébergée, permettant des transferts sécurisés et un stockage temporaire des fichiers | <div align="center"><a href="https://github.com/root-gg/plik">🔗</a></div> |
+| **Microbin** | Open Source | Partage sécurisé | Application de partage de fichiers auto-hébergée, permettant des transferts sécurisés avec une date d'expiration | <div align="center"><a href="https://microbin.eu/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
