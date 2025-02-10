@@ -38,6 +38,7 @@
 | FreeIPA | Open Source | IAM basé sur LDAP, Kerberos | Solution IAM complète | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
 | FusionAuth | Open Source | IAM pour web et mobile | Facile à intégrer | <div align="center"><a href="https://fusionauth.io/">🔗</a></div> |
 | LemonLDAP | Open Source | IAM, Authentification, Autorisation | Fédération d'identités | <div align="center"><a href="https://lemonldap-ng.org/">🔗</a></div> |
+| Authelia | Open Source | Authentification unique (SSO) | Fédération d'identités | <div align="center"><a href="https://www.authelia.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
