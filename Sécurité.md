@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>️🛡️ Sécurité</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
 ---
@@ -19,6 +18,7 @@
 11. [📋 Audit de sécurité et conformité](#audit-securite)
 12. [📧 Outils de protection des emails](#protection-emails)
 13. [🕵️ Création de honeypots](#honeypots)
+14. [📋 Hygiène informatique](#hygiene)
 
 ---
 
@@ -186,3 +186,11 @@
 [🔝 Retour au sommaire](#sommaire)
 
 ---
+
+## 📋 Hygiène informatique personnelle <a id="hygiene"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Personal Security Checklist** | Open source, MIT, CC4.0 | Checklist, guide d’auto-évaluation de la posture cyber| Une checklist complète et accessible qui vous guide pas à pas pour renforcer votre posture cyber personnelle | <div align="center"><a href="[https://www.clamav.net/](https://digital-defense.io/)">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
