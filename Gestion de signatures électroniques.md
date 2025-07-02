@@ -16,5 +16,6 @@
 |---|---|---|---|---|
 | **DocuSeal** | SaaS/Auto-hébergé | Création de signatures électroniques | Permet de créer des signatures électroniques soit en mode SaaS soit hébergé sur son propre serveur | <div align="center"><a href="https://www.docuseal.co/">🔗</a></div> |
 | **Documenso** | SaaS/Auto-hébergé | Création de signatures électroniques | Permet de créer des signatures électroniques soit en mode SaaS soit hébergé sur son propre serveur. Alternative Open Source à DocuSign | <div align="center"><a href="https://github.com/documenso/documenso">🔗</a></div> |
+| **OpenSign** | SaaS/Auto-hébergé | Création de signatures électroniques | La solution de signature de document open source (alternative DocuSign) | <div align="center"><a href="https://github.com/OpenSignLabs/OpenSign">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
