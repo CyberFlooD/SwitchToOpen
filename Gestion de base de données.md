@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>📚 Gestion de bases de données (BDD)</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
 ---
