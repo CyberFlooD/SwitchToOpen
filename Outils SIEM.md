@@ -1,9 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>🛡️ SIEM Open Source</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
-
----
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🔎 Security information and event management open source](#siem-open-source)
