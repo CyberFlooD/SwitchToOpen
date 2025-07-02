@@ -3,7 +3,6 @@
   <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
-
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🖥️ Hyperviseurs de type 1 (Bare-metal)](#hyperviseur-type-1)
 2. [💻 Hyperviseurs de type 2 (Virtualisation hébergée)](#hyperviseur-type-2)
