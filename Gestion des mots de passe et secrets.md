@@ -1,40 +1,85 @@
-# Outils de gestion des mots de passe et des secrets
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>🔐 Outils de gestion des mots de passe et des secrets</h1>
+  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+</div>
 
-## Gestionnaires de mots de passe pour les utilisateurs individuels
-  - [Bitwarden](https://bitwarden.com/) (Gestionnaire de mots de passe open source, en SaaS, avec des applications pour les plateformes mobiles et de bureau)
-  - [KeePass](https://keepass.info/) (Gestionnaire de mots de passe local, open source et extensible avec des plugins)
-   - [Padlock](https://padlock.io/) (Gestionnaire de mots de passe open source simple et léger)
+---
 
-## Gestionnaires de mots de passe pour les équipes et les entreprises
-  - [KeePassXC](https://keepassxc.org/) (Fork de KeePass, il permet notamment de partager un coffre de mots de passe au sein d'une équipe IT)
-  - [Passbolt](https://www.passbolt.com/) (Gestionnaire de mots de passe open source pour les équipes, avec des fonctionnalités de partage sécurisé)
-  - [Teampass](http://teampass.net/) (Solution de gestion de mots de passe open source pour les entreprises, avec gestion des utilisateurs et des permissions)
-  - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) (Version légère et auto-hébergée de Bitwarden pour les petites équipes et entreprises)
+## Sommaire 📖 <a id="sommaire"></a>
+1. [👤 Gestionnaires de mots de passe pour les utilisateurs individuels](#utilisateurs-individuels)
+2. [🏢 Gestionnaires de mots de passe pour les équipes et les entreprises](#equipes-entreprises)
+3. [🔑 Outils de gestion des secrets et des accès](#secrets-acces)
+4. [🛠️ Outils open source pour la gestion des secrets et des accès](#open-source-secrets-acces)
+5. [🔧 Gestion des mots de passe spécifiques à certaines applications ou environnements](#mots-de-passe-specifiques)
 
-## Outils de gestion des secrets et des accès
-  - [HashiCorp Vault](https://www.vaultproject.io/) (Outil open source pour la gestion des secrets, des tokens et des clés d'API)
-  - [CyberArk Conjur (open source)](https://www.conjur.org/) (Solution open source pour la gestion des secrets et des accès privilégiés dans les environnements DevOps)
-  - [Secrethub](https://secrethub.io/) (Service open source de gestion de secrets pour les infrastructures cloud et DevOps)
-  - [Gopass](https://www.gopass.pw/) (Gestionnaire de mots de passe en ligne de commande basé sur GPG et Git pour le stockage et la synchronisation sécurisés des secrets)
+---
 
-## Outils open source pour la gestion des secrets et des accès
+## 👤 Gestionnaires de mots de passe pour les utilisateurs individuels <a id="utilisateurs-individuels"></a>
 
-  - [HashiCorp Vault](https://www.vaultproject.io/) : Solution de gestion des secrets et de protection des informations sensibles, offrant des fonctionnalités de gestion d'accès, de chiffrement, et de génération de certificats.
-  - [Bitwarden (self-hosted)](https://bitwarden.com/) : Gestionnaire de mots de passe open source, disponible en version auto-hébergée, avec un stockage sécurisé des mots de passe et un partage d'accès.
-  - [Passbolt](https://www.passbolt.com/) : Gestionnaire de mots de passe open source, conçu pour les équipes, offrant une interface simple et un chiffrement de bout en bout.
-  - [KeePassXC](https://keepassxc.org/) : Fork de KeePass, open source et multi-plateforme, avec des fonctionnalités pour la gestion de mots de passe locaux et un accès sécurisé.
-  - [CyberArk Conjur Open Source](https://www.conjur.org/) : Solution de gestion des secrets pour les environnements DevOps et cloud, permettant de contrôler et de sécuriser l'accès aux applications, aux conteneurs et aux microservices.
-  - [Gopass](https://www.gopass.pw/) : Gestionnaire de mots de passe et de secrets en ligne de commande, basé sur le standard UNIX "pass", permettant une intégration dans les workflows DevOps.
-  - [Doppler](https://www.doppler.com/) : Plateforme de gestion des secrets compatible avec Git et CI/CD, permettant un accès centralisé et sécurisé aux secrets dans le cadre des workflows DevOps.
-  - [Secrethub](https://secrethub.io/) : Plateforme open source de gestion des secrets pour les développeurs, permettant l'intégration dans les pipelines CI/CD et les applications cloud.
-  - [AWS Secrets Manager (version open source via AWS Labs)](https://github.com/aws-samples/aws-secrets-manager-key-rotation) : Service de gestion des secrets développé par AWS, avec un support open source pour la rotation et le chiffrement des secrets.
-  - [Keycloak](https://www.keycloak.org/) : Solution open source de gestion des accès et des identités, offrant des fonctionnalités d’authentification et de fédération pour les applications et les API.
-  - [Psono](https://psono.com/) : Gestionnaire de mots de passe open source et de partage sécurisé de secrets, conçu pour les équipes avec une version auto-hébergeable.
-  - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) : Version légère et auto-hébergeable de Bitwarden, idéale pour les petites équipes ou les auto-entrepreneurs cherchant une gestion sécurisée des mots de passe.
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Bitwarden** | Open Source | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
+| **KeePass** | Open Source | Local, extensible | Gestionnaire local avec plugins | <div align="center"><a href="https://keepass.info/">🔗</a></div> |
+| **Padlock** | Open Source | Simple et léger | Gestionnaire de mots de passe simple | <div align="center"><a href="https://padlock.io/">🔗</a></div> |
 
-## Gestion des mots de passe spécifiques à certaines applications ou environnements
-  - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) (Outil pour chiffrer et stocker des secrets dans des fichiers Ansible)
-  - [Sops](https://github.com/mozilla/sops) (Outil open source pour le chiffrement des fichiers secrets comme des clés d'API, compatible avec Git et KMS)
-  - [Doppler](https://www.doppler.com/) (Gestionnaire de secrets et de mots de passe pour les environnements DevOps et cloud)
-  - [Confidant](https://github.com/lyft/confidant) (Outil de gestion des secrets utilisé par Lyft, conçu pour les environnements cloud)
+[🔝 Retour au sommaire](#sommaire)
 
+---
+
+## 🏢 Gestionnaires de mots de passe pour les équipes et les entreprises <a id="equipes-entreprises"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **KeePassXC** | Open Source | Partage d'équipe | Fork de KeePass pour partager des coffres | <div align="center"><a href="https://keepassxc.org/">🔗</a></div> |
+| **Passbolt** | Open Source | Partage sécurisé | Gestionnaire pour les équipes | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
+| **Teampass** | Open Source | Gestion des utilisateurs et permissions | Solution pour entreprises | <div align="center"><a href="http://teampass.net/">🔗</a></div> |
+| **Vaultwarden** | Open Source | Version auto-hébergée de Bitwarden | Légère et pour petites équipes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🔑 Outils de gestion des secrets et des accès <a id="secrets-acces"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **HashiCorp Vault** | Open Source | Gestion des secrets et clés | Gestion des tokens, clés d'API | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
+| **CyberArk Conjur** | Open Source | Secrets pour DevOps | Gestion des accès privilégiés | <div align="center"><a href="https://www.conjur.org/">🔗</a></div> |
+| **Secrethub** | Open Source | Gestion de secrets CI/CD | Pour infrastructures cloud et DevOps | <div align="center"><a href="https://secrethub.io/">🔗</a></div> |
+| **Gopass** | Open Source | Gestion CLI de secrets | Basé sur GPG et Git | <div align="center"><a href="https://www.gopass.pw/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🛠️ Outils open source pour la gestion des secrets et des accès <a id="open-source-secrets-acces"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **HashiCorp Vault** | Open Source | Gestion des secrets | Accès, chiffrement, certificats | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
+| **Bitwarden (self-hosted)** | Open Source | Auto-hébergé | Stockage et partage de mots de passe | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
+| **Passbolt** | Open Source | Partage de mots de passe | Conçu pour les équipes, chiffrement complet | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
+| **KeePassXC** | Open Source | Multi-plateforme | Gestion locale de mots de passe | <div align="center"><a href="https://keepassxc.org/">🔗</a></div> |
+| **CyberArk Conjur** | Open Source | Sécurité DevOps | Gestion des secrets, accès | <div align="center"><a href="https://www.conjur.org/">🔗</a></div> |
+| **Gopass** | Open Source | CLI | Gestion des mots de passe et secrets | <div align="center"><a href="https://www.gopass.pw/">🔗</a></div> |
+| **Doppler** | Open Source | Gestion CI/CD | Centralisation des secrets | <div align="center"><a href="https://www.doppler.com/">🔗</a></div> |
+| **Secrethub** | Open Source | Gestion CI/CD | Secrets pour pipelines et cloud | <div align="center"><a href="https://secrethub.io/">🔗</a></div> |
+| **AWS Secrets Manager** | Open Source | Rotation des secrets | Supporte rotation, chiffrement | <div align="center"><a href="https://github.com/aws-samples/aws-secrets-manager-key-rotation">🔗</a></div> |
+| **Keycloak** | Open Source | Identités et accès | Authentification, fédération | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
+| **Psono** | Open Source | Mots de passe et secrets | Gestion et partage sécurisé | <div align="center"><a href="https://psono.com/">🔗</a></div> |
+| **Vaultwarden** | Open Source | Version légère | Auto-hébergée pour petits groupes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🔧 Gestion des mots de passe spécifiques à certaines applications ou environnements <a id="mots-de-passe-specifiques"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Ansible Vault** | Open Source | Chiffrement de secrets | Pour fichiers Ansible | <div align="center"><a href="https://docs.ansible.com/ansible/latest/user_guide/vault.html">🔗</a></div> |
+| **Sops** | Open Source | Chiffrement de fichiers | Compatible avec Git et KMS | <div align="center"><a href="https://github.com/mozilla/sops">🔗</a></div> |
+| **Doppler** | Open Source | Gestion CI/CD | Secrets pour DevOps et cloud | <div align="center"><a href="https://www.doppler.com/">🔗</a></div> |
+| **Confidant** | Open Source | Secrets pour cloud | Utilisé par Lyft | <div align="center"><a href="https://github.com/lyft/confidant">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
