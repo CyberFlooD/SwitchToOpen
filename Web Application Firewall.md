@@ -5,7 +5,6 @@
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🛡️ WAF (Web Application Firewall)](#liste-waf)
-   ...
 
 ---
 
