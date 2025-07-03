@@ -50,8 +50,8 @@
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
 | **Graylog** | SSPL (non reconnue comme open source par l’Open Source Initiative (OSI) | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
-| **OpenSearch** | Apache 2.0 | Alternative libre à Elastic | suite open source de recherche et d’analytique distribuée, issue d’un fork d’Elasticsearch 7.10, développée par Amazon | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
-| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
+| **OpenSearch** | Apache 2.0 | Alternative libre à Elastic | Suite open source de recherche et d’analytique distribuée, issue d’un fork d’Elasticsearch 7.10, développée par Amazon | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
+| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | Un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -88,9 +88,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **GnuPG** | Open source | Chiffrement et signature | Outil de chiffrement et de signature numérique | <div align="center"><a href="https://gnupg.org/">🔗</a></div> |
-| **HashiCorp Vault** | Open source | Gestion des secrets et des clés | Gestion des secrets et des clés de chiffrement | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
-| **Let’s Encrypt** | Gratuit | Certificats SSL/TLS | Certificats SSL/TLS gratuits et automatisés | <div align="center"><a href="https://letsencrypt.org/">🔗</a></div> |
+| **GnuPG** | GPLv3 | Chiffrement et signature | Outil de chiffrement et de signature numérique | <div align="center"><a href="https://gnupg.org/">🔗</a></div> |
+| **Let’s Encrypt** | MPL 2.0 | Certificats SSL/TLS | Certificats SSL/TLS gratuits et automatisés | <div align="center"><a href="https://letsencrypt.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -112,7 +111,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Wazuh** | Open source | SIEM et surveillance des hôtes | Outil de gestion des incidents et de surveillance des hôtes | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | Un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 | **OSSIM** | Open source | SIEM | AlienVault Open Source SIEM | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
@@ -193,3 +193,5 @@
 | **Personal Security Checklist** | Open source, MIT, CC4.0 | Checklist, guide d’auto-évaluation de la posture cyber| Une checklist complète et accessible qui vous guide pas à pas pour renforcer votre posture cyber personnelle | <div align="center"><a href="[https://www.clamav.net/](https://digital-defense.io/)">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+
