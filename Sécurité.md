@@ -25,8 +25,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **ClamAV** | Open source | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
-| **Wazuh** | Open source | Surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **ClamAV** | GPL-2.0 | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -36,10 +36,10 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **pfSense** | Open source | Pare-feu et routeur | Basé sur FreeBSD, offre des fonctionnalités de pare-feu | <div align="center"><a href="https://www.pfsense.org/">🔗</a></div> |
-| **OPNsense** | Open source | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
-| **Snort** | Open source | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
-| **Suricata** | Open source | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
+| **pfSense** | Apache 2.0 | Pare-feu et routeur | Basé sur FreeBSD, offre des fonctionnalités de pare-feu | <div align="center"><a href="https://www.pfsense.org/">🔗</a></div> |
+| **OPNsense** | BSD 2-Clause | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
+| **Snort** | GPLv2 | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
+| **Suricata** | GPLv2 | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -49,9 +49,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Graylog** | Open source | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
-| **ELK Stack** | Open source | Elasticsearch, Logstash, Kibana | Suite d'outils pour la recherche, l'analyse et la visualisation des logs | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
-| **OSSEC** | Open source | Analyse des logs et détection des intrusions | Analyse et corrélation des journaux système | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
+| **Graylog** | SSPL (non reconnue comme open source par l’Open Source Initiative (OSI) | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
+| **OpenSearch** | Apache 2.0 | Alternative libre à Elastic | suite open source de recherche et d’analytique distribuée, issue d’un fork d’Elasticsearch 7.10, développée par Amazon | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
+| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
