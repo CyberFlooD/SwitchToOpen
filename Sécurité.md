@@ -61,7 +61,6 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Nessus Essentials** | Freemium | Scanner de vulnérabilités | Scanner de vulnérabilités réseau de base | <div align="center"><a href="https://fr.tenable.com/products/nessus/nessus-essentials">🔗</a></div> |
 | **OpenVAS** | Open source | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
 | **Nikto** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
 | **Wapiti** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
