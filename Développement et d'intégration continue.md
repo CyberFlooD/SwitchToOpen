@@ -18,7 +18,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Visual Studio Code** | Open Source | Éditeur de code extensible | Éditeur de code open source de Microsoft, très populaire pour son extensibilité et ses fonctionnalités de développement. | <div align="center"><a href="https://code.visualstudio.com/">🔗</a></div> |
+| **Visual Studio Code** | Licence propriétaire gratuite Microsoft + Code - OSS (GitHub)	Licence MIT | Éditeur de code extensible | Éditeur de code open source de Microsoft, très populaire pour son extensibilité et ses fonctionnalités de développement. | <div align="center"><a href="https://code.visualstudio.com/">🔗</a></div> |
 | **Atom** | Open Source | Éditeur de code riche en plugins | Éditeur de code open source, développé par GitHub, avec un riche écosystème de plugins. | <div align="center"><a href="https://atom.io/">🔗</a></div> |
 | **Eclipse** | Open Source | IDE pour les projets Java | Environnement de développement intégré open source, largement utilisé pour les projets Java. | <div align="center"><a href="https://www.eclipse.org/">🔗</a></div> |
 | **Geany** | Open Source | Éditeur de texte léger | Éditeur de texte léger avec des fonctionnalités d'environnement de développement intégré. | <div align="center"><a href="https://www.geany.org/">🔗</a></div> |
