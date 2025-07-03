@@ -1,8 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>️🛡️ Sécurité</h1>
+  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
-
----
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🛡️ Antivirus et protection des endpoints](#antivirus)
@@ -26,8 +25,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **ClamAV** | Open source | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
-| **Wazuh** | Open source | Surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **ClamAV** | GPL-2.0 | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -37,10 +36,10 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **pfSense** | Open source | Pare-feu et routeur | Basé sur FreeBSD, offre des fonctionnalités de pare-feu | <div align="center"><a href="https://www.pfsense.org/">🔗</a></div> |
-| **OPNsense** | Open source | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
-| **Snort** | Open source | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
-| **Suricata** | Open source | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
+| **pfSense** | Apache 2.0 | Pare-feu et routeur | Basé sur FreeBSD, offre des fonctionnalités de pare-feu | <div align="center"><a href="https://www.pfsense.org/">🔗</a></div> |
+| **OPNsense** | BSD 2-Clause | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
+| **Snort** | GPLv2 | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
+| **Suricata** | GPLv2 | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -50,9 +49,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Graylog** | Open source | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
-| **ELK Stack** | Open source | Elasticsearch, Logstash, Kibana | Suite d'outils pour la recherche, l'analyse et la visualisation des logs | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
-| **OSSEC** | Open source | Analyse des logs et détection des intrusions | Analyse et corrélation des journaux système | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
+| **Graylog** | SSPL (non reconnue comme open source par l’Open Source Initiative (OSI) | Gestion et analyse des logs | Collecte et analyse des logs de manière centralisée | <div align="center"><a href="https://www.graylog.org/">🔗</a></div> |
+| **OpenSearch** | Apache 2.0 | Alternative libre à Elastic | Suite open source de recherche et d’analytique distribuée, issue d’un fork d’Elasticsearch 7.10, développée par Amazon | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
+| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | Un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -62,7 +61,6 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Nessus Essentials** | Freemium | Scanner de vulnérabilités | Scanner de vulnérabilités réseau de base | <div align="center"><a href="https://fr.tenable.com/products/nessus/nessus-essentials">🔗</a></div> |
 | **OpenVAS** | Open source | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
 | **Nikto** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
 | **Wapiti** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
@@ -89,9 +87,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **GnuPG** | Open source | Chiffrement et signature | Outil de chiffrement et de signature numérique | <div align="center"><a href="https://gnupg.org/">🔗</a></div> |
-| **HashiCorp Vault** | Open source | Gestion des secrets et des clés | Gestion des secrets et des clés de chiffrement | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
-| **Let’s Encrypt** | Gratuit | Certificats SSL/TLS | Certificats SSL/TLS gratuits et automatisés | <div align="center"><a href="https://letsencrypt.org/">🔗</a></div> |
+| **GnuPG** | GPLv3 | Chiffrement et signature | Outil de chiffrement et de signature numérique | <div align="center"><a href="https://gnupg.org/">🔗</a></div> |
+| **Let’s Encrypt** | MPL 2.0 | Certificats SSL/TLS | Certificats SSL/TLS gratuits et automatisés | <div align="center"><a href="https://letsencrypt.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -113,7 +110,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Wazuh** | Open source | SIEM et surveillance des hôtes | Outil de gestion des incidents et de surveillance des hôtes | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | Un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
 | **OSSIM** | Open source | SIEM | AlienVault Open Source SIEM | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
@@ -194,3 +192,5 @@
 | **Personal Security Checklist** | Open source, MIT, CC4.0 | Checklist, guide d’auto-évaluation de la posture cyber| Une checklist complète et accessible qui vous guide pas à pas pour renforcer votre posture cyber personnelle | <div align="center"><a href="[https://www.clamav.net/](https://digital-defense.io/)">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+

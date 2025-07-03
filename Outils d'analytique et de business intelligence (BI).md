@@ -1,9 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>📈 Outils d'analytique et de Business Intelligence (BI)</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
-
----
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Outils de Business Intelligence (BI)](#outils-bi)

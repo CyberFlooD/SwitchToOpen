@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>📚 Gestion de projets</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 ---
 
@@ -65,6 +65,8 @@
 | **[DokuWiki](https://www.dokuwiki.org/dokuwiki)** | Open Source | Wiki léger | Documentation de projets | <div align="center"><a href="https://www.dokuwiki.org/dokuwiki">🔗</a></div> |
 | **[BookStack](https://www.bookstackapp.com/)** | Open Source | Gestion de documentation | Plateforme pour organisation de la documentation | <div align="center"><a href="https://www.bookstackapp.com/">🔗</a></div> |
 | **[TiddlyWiki](https://tiddlywiki.com/)** | Open Source | Documentation personnelle | Gestion de documentation | <div align="center"><a href="https://tiddlywiki.com/">🔗</a></div> |
+| **[Outline](https://www.getoutline.com/)** | Open Source | Base de connaissance | Gestion de documentation | <div align="center"><a href="https://www.getoutline.com/">🔗</a></div> |
+| **[Docmost](https://docmost.com/)** | Open Source | Base de connaissance | Gestion de documentation | <div align="center"><a href="https://docmost.com/">🔗</a></div>
 
 [🔝 Retour au sommaire](#sommaire)
 

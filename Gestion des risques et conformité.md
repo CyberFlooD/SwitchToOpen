@@ -32,6 +32,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
+| **CISO Assistant** | Open Source | Gestion des risques, audits et conformité | Outil pour CISO et responsables de la sécurité | <div align="center"><a href="https://github.com/intuitem/ciso-assistant-community">🔗</a></div> |
 | **OpenSCAP** | Open Source | Audit de conformité | Gestion des politiques de sécurité | <div align="center"><a href="https://www.open-scap.org/">🔗</a></div> |
 | **Osquery** | Open Source | Surveillance des configurations | Audit de conformité en temps réel | <div align="center"><a href="https://osquery.io/">🔗</a></div> |
 | **ComplianceAsCode** | Open Source | Automatisation de la conformité | Politiques codées en machine | <div align="center"><a href="https://complianceascode.github.io/">🔗</a></div> |
@@ -64,6 +65,7 @@
 | **Cloud Custodian** | Open Source | Politiques de sécurité cloud | Gestion de la sécurité et conformité | <div align="center"><a href="https://cloudcustodian.io/">🔗</a></div> |
 | **Prowler** | Open Source | Audit de sécurité cloud | Spécifique à AWS | <div align="center"><a href="https://github.com/prowler-cloud/prowler">🔗</a></div> |
 | **CloudQuery** | Open Source | Audit de sécurité cloud | Surveillance des infrastructures | <div align="center"><a href="https://www.cloudquery.io/">🔗</a></div> |
+| **CISO Assistant** | Open Source | Gestion des risques, audits et conformité | Outil pour CISO et responsables de la sécurité | <div align="center"><a href="https://github.com/intuitem/ciso-assistant-community">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
