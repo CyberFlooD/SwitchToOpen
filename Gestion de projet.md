@@ -19,7 +19,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **[OpenProject](https://www.openproject.org/)** | Open Source | Gantt, tâches, suivi des ressources | Outil complet de gestion de projets | <div align="center"><a href="https://www.openproject.org/">🔗</a></div> |
+| **[OpenProject](https://www.openproject.org/)** | GPLv3 | Gantt, tâches, suivi des ressources | Outil complet de gestion de projets | <div align="center"><a href="https://www.openproject.org/">🔗</a></div> |
 | **[Taiga](https://www.taiga.io/)** | Open Source | Gestion agile, tâches, sprints | Plateforme de gestion de projets agile | <div align="center"><a href="https://www.taiga.io/">🔗</a></div> |
 | **[Wekan](https://wekan.github.io/)** | Open Source | Kanban | Alternative open source à Trello | <div align="center"><a href="https://wekan.github.io/">🔗</a></div> |
 | **[Kanboard](https://kanboard.org/)** | Open Source | Kanban | Outil simple de gestion de projets | <div align="center"><a href="https://kanboard.org/">🔗</a></div> |
