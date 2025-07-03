@@ -7,7 +7,6 @@
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🛡️ Outils open source et gratuits d'antivirus et de détection de malwares](#outils-gratuits)
-2. [🔍 Outils commerciaux et propriétaires](#outils-commerciaux)
 
 ---
 
@@ -26,15 +25,4 @@
 
 [🔝 Retour au sommaire](#sommaire)
 
----
 
-## 🔍 Outils commerciaux et propriétaires <a id="outils-commerciaux"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|---|
-| **Norton Antivirus** | Commercial | Protection complète contre les malwares | Un des antivirus les plus connus avec des fonctionnalités avancées de protection | <div align="center"><a href="https://fr.norton.com/">🔗</a></div> |
-| **McAfee Antivirus** | Commercial | Protection en temps réel, gestion des mots de passe | Antivirus commercial avec protection complète et gestion de la sécurité Internet | <div align="center"><a href="https://www.mcafee.com/fr-fr/index.html">🔗</a></div> |
-| **Kaspersky Antivirus** | Commercial | Protection en temps réel, sécurité avancée | Antivirus primé offrant une protection complète contre les menaces | <div align="center"><a href="https://www.kaspersky.fr/">🔗</a></div> |
-| **Bitdefender Antivirus** | Commercial | Protection contre les virus et malwares, sécurité Internet | Antivirus avec protection renforcée contre les menaces en ligne | <div align="center"><a href="https://www.bitdefender.fr/">🔗</a></div> |
-
-[🔝 Retour au sommaire](#sommaire)
