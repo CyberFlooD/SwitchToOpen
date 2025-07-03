@@ -22,10 +22,10 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **[MySQL](https://www.mysql.com/)** | Open Source | Populaire pour les applications web | SGBDR open source [En savoir plus](https://www.mysql.com/) | <div align="center"><a href="https://www.mysql.com/">🔗</a></div> |
-| **[PostgreSQL](https://www.postgresql.org/)** | Open Source | Haute disponibilité, conformité ACID | SGBDR avancé [En savoir plus](https://www.postgresql.org/) | <div align="center"><a href="https://www.postgresql.org/">🔗</a></div> |
-| **[MariaDB](https://mariadb.org/)** | Open Source | Fonctionnalités avancées, optimisations | Fork de MySQL [En savoir plus](https://mariadb.org/) | <div align="center"><a href="https://mariadb.org/">🔗</a></div> |
-| **[SQLite](https://www.sqlite.org/)** | Open Source | Légère, sans serveur | Base de données relationnelle [En savoir plus](https://www.sqlite.org/) | <div align="center"><a href="https://www.sqlite.org/">🔗</a></div> | 
+| **[MySQL Community](https://www.mysql.com/)** | GPLv2	 | Populaire pour les applications web | SGBDR open source [En savoir plus](https://www.mysql.com/) | <div align="center"><a href="https://www.mysql.com/">🔗</a></div> |
+| **[PostgreSQL](https://www.postgresql.org/)** | PostgreSQL License (=MIT) | Haute disponibilité, conformité ACID | SGBDR avancé [En savoir plus](https://www.postgresql.org/) | <div align="center"><a href="https://www.postgresql.org/">🔗</a></div> |
+| **[MariaDB](https://mariadb.org/)** | GPLv2 + exception FLOSS | Fonctionnalités avancées, optimisations | Fork de MySQL [En savoir plus](https://mariadb.org/) | <div align="center"><a href="https://mariadb.org/">🔗</a></div> |
+| **[SQLite](https://www.sqlite.org/)** | Domaine public (ou CC0) | Légère, sans serveur | Base de données relationnelle [En savoir plus](https://www.sqlite.org/) | <div align="center"><a href="https://www.sqlite.org/">🔗</a></div> | 
 
 [🔝 Retour au sommaire](#sommaire)
 
