@@ -13,7 +13,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Teleport** | Open Source | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **Teleport - Community Edition ≤ v15** | Apache 2.0 | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **Teleport - Community Edition ≥ v16** | Licence commerciale | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **Teleport - Code source (toutes versions)** | AGPLv3 | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
 | **OpenSSH** | Open Source | Contrôle et gestion des connexions SSH | Suite d'outils pour connexions SSH avec fonctionnalités de proxy SSH | <div align="center"><a href="https://www.openssh.com/">🔗</a></div> |
 | **Bastillion** | Open Source | Interface web pour SSH | Serveur d'accès centralisé avec gestion via interface web | <div align="center"><a href="http://www.bastillion.io/">🔗</a></div> |
 | **SSOwat** | Open Source | Proxy d'authentification unique | Authentification unique pour sécuriser les connexions SSH via YunoHost | <div align="center"><a href="https://github.com/YunoHost/SSOwat">🔗</a></div> |
