@@ -17,11 +17,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Proxmox VE** | Open source | Support des conteneurs et des machines virtuelles KVM | Solution de virtualisation open source avec support des conteneurs et des machines virtuelles KVM | <div align="center"><a href="https://www.proxmox.com/en/proxmox-ve">🔗</a></div> |
-| **XCP-ng** | Open source | Gestion complète des machines virtuelles et du réseau | Hyperviseur open source basé sur XenServer | <div align="center"><a href="https://xcp-ng.org/">🔗</a></div> |
-| **KVM (Kernel-based Virtual Machine)** | Open source | Virtualisation native sous Linux | Technologie permettant d'exécuter des systèmes d'exploitation invités sur des serveurs | <div align="center"><a href="https://www.linux-kvm.org/">🔗</a></div> |
-| **Xen Project** | Open source | Exécution de plusieurs systèmes d'exploitation invités | Hyperviseur permettant d'exécuter plusieurs systèmes d'exploitation invités sur des serveurs physiques | <div align="center"><a href="https://xenproject.org/">🔗</a></div> |
-| **oVirt** | Open source | Gestion des datacenters | Plateforme de gestion de la virtualisation basée sur KVM | <div align="center"><a href="https://www.ovirt.org/">🔗</a></div> |
+| **Proxmox VE** | AGPLv3 | Support des conteneurs et des machines virtuelles KVM | Solution de virtualisation open source avec support des conteneurs et des machines virtuelles KVM | <div align="center"><a href="https://www.proxmox.com/en/proxmox-ve">🔗</a></div> |
+| **XCP-ng** | GPLv2 (Linux, Xen), LGPLv2+, BSD et autres licences libres selon composants | Gestion complète des machines virtuelles et du réseau | Hyperviseur open source basé sur XenServer | <div align="center"><a href="https://xcp-ng.org/">🔗</a></div> |
+| **KVM (Kernel-based Virtual Machine)** | GNU General Public License (GPL) | Virtualisation native sous Linux | Technologie permettant d'exécuter des systèmes d'exploitation invités sur des serveurs | <div align="center"><a href="https://www.linux-kvm.org/">🔗</a></div> |
+| **Xen Project** | GPLv2 | Exécution de plusieurs systèmes d'exploitation invités | Hyperviseur permettant d'exécuter plusieurs systèmes d'exploitation invités sur des serveurs physiques | <div align="center"><a href="https://xenproject.org/">🔗</a></div> |
+| **oVirt** | Apache License 2.0 | Gestion des datacenters | Plateforme de gestion de la virtualisation basée sur KVM | <div align="center"><a href="https://www.ovirt.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
