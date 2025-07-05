@@ -3,8 +3,6 @@
   <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
----
-
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📂 Serveurs d'annuaires LDAP](#serveurs-ldap)
 2. [🔐 Plateformes de gestion d'identités (IAM)](#gestion-identités)
