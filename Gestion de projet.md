@@ -3,7 +3,7 @@
   <h1>📚 Gestion de projets</h1>
   <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
----
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🗂️ Outils de gestion de projets](#outils-gestion)
