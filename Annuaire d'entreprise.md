@@ -27,8 +27,8 @@
 
 | 🌐 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| Keycloak | Apache 2.0 | Authentification unique (SSO), IAM | Fédération d'identités | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
-| Gluu | MIT | IAM, Authentification, Autorisation | Fédération d'identités | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
-| FreeIPA | GPLv3 | IAM basé sur LDAP, Kerberos | Solution IAM complète | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+| Keycloak | Apache 2.0 | Authentification unique (SSO), IAM | Solution open source complète pour l’authentification, l’autorisation, supporte OpenID Connect, OAuth2, SAML. Intégration facile avec LDAP/Active Directory.	 | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
+| Gluu | MIT | IAM, Authentification, Autorisation | Plateforme IAM open source avec SSO, MFA, gestion centralisée des identités, supporte OAuth2, OpenID Connect, SAML, SCIM. Plus gourmande en ressources que Keycloak.	 | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
+| FreeIPA | GPLv3 | Gestion centralisée des identités LDAP/Kerberos, gestion des hôtes, certificats	 | Solution IAM complète orientée Linux, intégrant LDAP, Kerberos, CA, gestion des politiques de sécurité, avec console web et CLI. | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
