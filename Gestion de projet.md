@@ -7,11 +7,10 @@
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🗂️ Outils de gestion de projets](#outils-gestion)
-2. [👥 Gestion des équipes et collaboration](#gestion-equipes)
-3. [📊 Outils de gestion de projets agiles (Scrum, Kanban)](#outils-agiles)
-4. [📜 Outils de gestion de documentation et suivi de projets](#gestion-documentation)
-5. [⏱️ Suivi du temps et gestion des ressources](#suivi-temps)
-6. [⚠️ Gestion des risques et des portefeuilles de projets](#gestion-risques)
+2. [📊 Outils de gestion de projets agiles (Scrum, Kanban)](#outils-agiles)
+3. [📜 Outils de gestion de documentation et suivi de projets](#gestion-documentation)
+4. [⏱️ Suivi du temps et gestion des ressources](#suivi-temps)
+5. [⚠️ Gestion des risques et des portefeuilles de projets](#gestion-risques)
 
 ---
 
@@ -26,19 +25,8 @@
 | **[Focalboard](https://github.com/mattermost-community/focalboard)** | Open Source | Multilingue, auto-hébergé | Alternative open source à Trello | <div align="center"><a href="https://github.com/mattermost-community/focalboard">🔗</a></div> |
 | **[Restyaboard](https://restya.com/board/)** | Open Source | Multiples fonctionnalités | Alternative open source à Trello | <div align="center"><a href="https://restya.com/board/">🔗</a></div> |
 | **[Leantime](https://github.com/Leantime/leantime)** | Open Source | Adapté pour TDAH, dyslexie, autisme | Outil de gestion de projet | <div align="center"><a href="https://github.com/Leantime/leantime">🔗</a></div> |
+| **[ProjeQtOr](https://sourceforge.net/projects/projectorria/)** | AGPL-3.0-only | Outil de gestion de projet | OuOrganisateur de projet ouvert, complet, collaboratif et basé sur la qualité.  | <div align="center"><a href="https://sourceforge.net/projects/projectorria/">🔗</a></div> |
 
-[🔝 Retour au sommaire](#sommaire)
-
----
-
-## 👥 Gestion des équipes et collaboration <a id="gestion-equipes"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🔗 **Lien Web** |
-|---|---|---|---|---|
-| **[Mattermost](https://mattermost.com/)** | Open Source | Collaboration d'équipe | Gestion des tâches et communication | <div align="center"><a href="https://mattermost.com/">🔗</a></div> |
-| **[Zulip](https://zulip.com/)** | Open Source | Conversations par threads | Outil de communication d'équipe | <div align="center"><a href="https://zulip.com/">🔗</a></div> |
-| **[Nextcloud](https://nextcloud.com/)** | Open Source | Gestion de fichiers, calendriers, tâches | Plateforme collaborative | <div align="center"><a href="https://nextcloud.com/">🔗</a></div> |
-| **[Teamwork](https://teamwork.com/)** | Commercial | Gestion de projets et collaboration | Alternative open source pour d’équipe | <div align="center"><a href="https://teamwork.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
