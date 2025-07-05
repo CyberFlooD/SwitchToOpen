@@ -14,14 +14,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **ClamAV** | Open Source | Détection de logiciels malveillants, scan des e-mails et fichiers | Antivirus open source utilisé pour scanner les e-mails, fichiers, et systèmes | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
-| **OpenAntiVirus Project** | Open Source | Création d'outils antivirus et de sécurité réseau | Projet pour développer des outils antivirus et de sécurité réseau | <div align="center"><a href="http://www.openantivirus.org/">🔗</a></div> |
-| **Linux Malware Detect (LMD)** | Open Source | Détection de malwares pour Linux | Spécialisé dans la détection de malwares ciblant les systèmes Linux | <div align="center"><a href="https://www.rfxn.com/projects/linux-malware-detect/">🔗</a></div> |
-| **Rootkit Hunter (rkhunter)** | Open Source | Détection de rootkits, backdoors, et exploits | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://rkhunter.sourceforge.net/">🔗</a></div> |
-| **chkrootkit** | Open Source | Détection de rootkits sur Linux | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://www.chkrootkit.org/">🔗</a></div> |
-| **Sophos Home for Linux** | Gratuit | Protection contre les malwares et menaces en temps réel | Antivirus gratuit pour les utilisateurs Linux | <div align="center"><a href="https://www.sophos.com/en-us/free-tools/sophos-anti-virus-for-linux">🔗</a></div> |
-| **Comodo Antivirus for Linux** | Gratuit | Protection contre les malwares sur serveurs et postes de travail | Version gratuite de l'antivirus Comodo pour Linux | <div align="center"><a href="https://www.comodo.com/home/internet-security/antivirus-for-linux.php">🔗</a></div> |
-| **F-Prot Antivirus for Linux** | Gratuit | Détection de virus, chevaux de Troie et autres menaces | Antivirus gratuit pour les systèmes Linux | <div align="center"><a href="https://www.f-prot.com/download/home/">🔗</a></div> |
+| **ClamAV** | GPLv2 | Détection de logiciels malveillants, scan des e-mails et fichiers | Antivirus open source utilisé pour scanner les e-mails, fichiers, et systèmes | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **OpenAntiVirus Project** | GPL | Création d'outils antivirus et de sécurité réseau | Projet pour développer des outils antivirus et de sécurité réseau | <div align="center"><a href="http://www.openantivirus.org/">🔗</a></div> |
+| **Linux Malware Detect (LMD)** | GPLv2 | Détection de malwares pour Linux | Spécialisé dans la détection de malwares ciblant les systèmes Linux | <div align="center"><a href="https://www.rfxn.com/projects/linux-malware-detect/">🔗</a></div> |
+| **Rootkit Hunter (rkhunter)** | GPL | Détection de rootkits, backdoors, et exploits | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://rkhunter.sourceforge.net/">🔗</a></div> |
+| **chkrootkit** | GPL | Détection de rootkits sur Linux | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://www.chkrootkit.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
