@@ -16,7 +16,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Bitwarden** | Open Source | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
+| **Bitwarden** | GPL v3 | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
 | **KeePass** | Open Source | Local, extensible | Gestionnaire local avec plugins | <div align="center"><a href="https://keepass.info/">🔗</a></div> |
 | **Padlock** | Open Source | Simple et léger | Gestionnaire de mots de passe simple | <div align="center"><a href="https://padlock.io/">🔗</a></div> |
 
@@ -31,7 +31,7 @@
 | **KeePassXC** | Open Source | Partage d'équipe | Fork de KeePass pour partager des coffres | <div align="center"><a href="https://keepassxc.org/">🔗</a></div> |
 | **Passbolt** | Open Source | Partage sécurisé | Gestionnaire pour les équipes | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
 | **Teampass** | Open Source | Gestion des utilisateurs et permissions | Solution pour entreprises | <div align="center"><a href="http://teampass.net/">🔗</a></div> |
-| **Vaultwarden** | Open Source | Version auto-hébergée de Bitwarden | Légère et pour petites équipes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+| **Vaultwarden** | GPL v3 | Version auto-hébergée de Bitwarden | Légère et pour petites équipes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -41,7 +41,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **HashiCorp Vault** | Open Source | Gestion des secrets et clés | Gestion des tokens, clés d'API | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
+| **OpenBao** | MPL 2.0 | Gestion des secrets et clés | Outils de gestion des mots de passe et des secrets | <div align="center"><a href="https://github.com/openbao/openbao">🔗</a></div> |
 | **CyberArk Conjur** | Open Source | Secrets pour DevOps | Gestion des accès privilégiés | <div align="center"><a href="https://www.conjur.org/">🔗</a></div> |
 | **Secrethub** | Open Source | Gestion de secrets CI/CD | Pour infrastructures cloud et DevOps | <div align="center"><a href="https://secrethub.io/">🔗</a></div> |
 | **Gopass** | Open Source | Gestion CLI de secrets | Basé sur GPG et Git | <div align="center"><a href="https://www.gopass.pw/">🔗</a></div> |
@@ -54,8 +54,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **HashiCorp Vault** | Open Source | Gestion des secrets | Accès, chiffrement, certificats | <div align="center"><a href="https://www.vaultproject.io/">🔗</a></div> |
-| **Bitwarden (self-hosted)** | Open Source | Auto-hébergé | Stockage et partage de mots de passe | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
+| **Bitwarden (self-hosted)** | AGPL v3  | Auto-hébergé | Stockage et partage de mots de passe | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
 | **Passbolt** | Open Source | Partage de mots de passe | Conçu pour les équipes, chiffrement complet | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
 | **KeePassXC** | Open Source | Multi-plateforme | Gestion locale de mots de passe | <div align="center"><a href="https://keepassxc.org/">🔗</a></div> |
 | **CyberArk Conjur** | Open Source | Sécurité DevOps | Gestion des secrets, accès | <div align="center"><a href="https://www.conjur.org/">🔗</a></div> |
@@ -65,7 +64,7 @@
 | **AWS Secrets Manager** | Open Source | Rotation des secrets | Supporte rotation, chiffrement | <div align="center"><a href="https://github.com/aws-samples/aws-secrets-manager-key-rotation">🔗</a></div> |
 | **Keycloak** | Open Source | Identités et accès | Authentification, fédération | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
 | **Psono** | Open Source | Mots de passe et secrets | Gestion et partage sécurisé | <div align="center"><a href="https://psono.com/">🔗</a></div> |
-| **Vaultwarden** | Open Source | Version légère | Auto-hébergée pour petits groupes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+| **Vaultwarden** | AGPL v3 | Version légère | Auto-hébergée pour petits groupes | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
