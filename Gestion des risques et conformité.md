@@ -3,8 +3,6 @@
   <img src="./Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
----
-
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Outils de gestion des risques](#gestion-risques)
 2. [📜 Outils de gestion de la conformité réglementaire](#gestion-conformite)
