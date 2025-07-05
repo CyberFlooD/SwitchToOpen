@@ -7,10 +7,11 @@
 1. [📂 Environnements de développement intégrés (IDE) et éditeurs de code](#ide-editeurs)
 2. [🔗 Systèmes de contrôle de version](#controle-de-version)
 3. [🔄 Intégration continue (CI) et déploiement continu (CD)](#ci-cd)
-4. [📦 Gestion des dépendances et des packages](#gestion-dependances)
-5. [🚀 Gestion des conteneurs et orchestration](#conteneurs-orchestration)
-6. [🛠️ Outils de gestion des tests automatisés](#tests-automatises)
-7. [💻 Conteneurisation et virtualisation](#conteneurisation-virtualisation)
+4. [⚙️ Gestion de configuration et Infrastructure as Code (IaC)](#gestion-configuration-iac)
+5. [📦 Gestion des dépendances et des packages](#gestion-dependances)
+6. [🚀 Gestion des conteneurs et orchestration](#conteneurs-orchestration)
+7. [🛠️ Outils de gestion des tests automatisés](#tests-automatises)
+8. [💻 Conteneurisation et virtualisation](#conteneurisation-virtualisation)
 
 ---
 
@@ -60,13 +61,31 @@
 
 ---
 
+## ⚙️ Gestion de configuration et Infrastructure as Code (IaC) <a id="gestion-configuration-iac"></a>
+
+| 🌟 **Outil**	| 🔑 **Type de licence**	| 🚀 **Fonctionnalités clés**	| 📝 **Description** | 🌐 **Lien Web**
+|---|---|---|---|---|
+|**Ansible**|	GPLv3	| Automatisation sans agent, gestion de configuration	| Outil simple et puissant d’automatisation IT, déploiement et gestion de configuration sans agent. |	<div align="center"><a href="https://www.ansible.com/">🔗</a></div> |
+|**Terraform**|	MPL-2.0	| Infrastructure as Code multi-cloud	| Outil d’orchestration d’infrastructures déclaratif, supporte de nombreux fournisseurs cloud et on-premises. |	<div align="center"><a href="https://www.terraform.io/">🔗</a></div> |
+|**Puppet**|	Apache License 2.0	| Gestion de configuration déclarative	| Plateforme mature pour automatiser la gestion et la configuration des infrastructures. |	<div align="center"><a href="https://puppet.com/">🔗</a></div> |
+|**Chef Infra**|	Apache License 2.0	| Gestion de configuration basée sur Ruby	| Outil d’automatisation pour gérer les configurations et déploiements complexes. |	<div align="center"><a href="https://www.chef.io/">🔗</a></div> |
+|**SaltStack (Salt)**|	Apache License 2.0	| Gestion de configuration et orchestration	| Outil d’automatisation et d’orchestration à grande échelle avec communication en temps réel. |	<div align="center"><a href="https://saltproject.io/">🔗</a></div> |
+|**Pulumi**|	Apache License 2.0	| Infrastructure as Code avec langages de programmation |	Permet de définir l’infrastructure via des langages comme TypeScript, Python, Go, et C#. |	<div align="center"><a href="https://www.pulumi.com/">🔗</a></div> |
+| **Packer** | MPL-2.0 | Construction des images système | Packer est un outil open source développé par HashiCorp, utilisé principalement pour automatiser la création d'images de machines virtuelles et de conteneurs. Il permet de définir des configurations (templates) pour générer des images reproductibles sur différentes plateformes (comme AWS, Azure, VMware, Docker, etc.) | <div align="center"><a href="https://github.com/hashicorp/packer">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
 ## 📦 Gestion des dépendances et des packages <a id="gestion-dependances"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
 | **Verdaccio** | MIT | Gestionnaire de packages npm | Gestionnaire de packages npm open source, auto-hébergeable | <div align="center"><a href="https://verdaccio.org/">🔗</a></div> |
 | **Pulp** | BSD 3-clause | Plateforme pour gérer des dépôts de contenu | Plateforme open source pour gérer des dépôts de contenu comme des packages et conteneurs | <div align="center"><a href="https://pulpproject.org/">🔗</a></div> |
-| **Composer** | MIT | Gestionnaire de dépendances PHP | Gestionnaire de dépendances pour PHP | <div align="center"><a href="https://getcomposer.org/">🔗</a></div> |
+| **Composer** | MIT | Gestionnaire de dépendances | Gestionnaire de dépendances pour PHP | <div align="center"><a href="https://getcomposer.org/">🔗</a></div> |
+| **Nexus** | OSS | Gestionnaire de dépendances et des packages | Gestionnaire d’artefacts multi-format | <div align="center"><a href="https://github.com/sonatype/nexus-public">🔗</a></div> |
+| **Harbor** | Apache License 2.0	 | Gestionnaire d’artefacts | Registry open source pour images de conteneurs, charts Helm, avec sécurité, scan, RBAC et réplication. | <div align="center"><a href="https://github.com/goharbor/harbor">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -105,5 +124,6 @@
 |---|---|---|---|---|
 | **Vagrant ≤ 2.3.6** | MIT | Outil d'optimisation de la virtualisation | Outil open source pour la construction et la gestion d'environnements virtualisés via des scripts | <div align="center"><a href="https://www.vagrantup.com/">🔗</a></div> |
 | **Vagrant ≥ 2.3.7** | Business Source License 1.1 (BSL)	(Non open-source!) | Outil d'optimisation de la virtualisation | Outil open source pour la construction et la gestion d'environnements virtualisés via des scripts | <div align="center"><a href="https://www.vagrantup.com/">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
