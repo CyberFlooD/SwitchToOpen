@@ -19,13 +19,14 @@
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
 | **[OpenProject](https://www.openproject.org/)** | GPLv3 | Gantt, tâches, suivi des ressources | Outil complet de gestion de projets | <div align="center"><a href="https://www.openproject.org/">🔗</a></div> |
-| **[Taiga](https://www.taiga.io/)** | Open Source | Gestion agile, tâches, sprints | Plateforme de gestion de projets agile | <div align="center"><a href="https://www.taiga.io/">🔗</a></div> |
-| **[Wekan](https://wekan.github.io/)** | Open Source | Kanban | Alternative open source à Trello | <div align="center"><a href="https://wekan.github.io/">🔗</a></div> |
-| **[Kanboard](https://kanboard.org/)** | Open Source | Kanban | Outil simple de gestion de projets | <div align="center"><a href="https://kanboard.org/">🔗</a></div> |
-| **[Focalboard](https://github.com/mattermost-community/focalboard)** | Open Source | Multilingue, auto-hébergé | Alternative open source à Trello | <div align="center"><a href="https://github.com/mattermost-community/focalboard">🔗</a></div> |
-| **[Restyaboard](https://restya.com/board/)** | Open Source | Multiples fonctionnalités | Alternative open source à Trello | <div align="center"><a href="https://restya.com/board/">🔗</a></div> |
-| **[Leantime](https://github.com/Leantime/leantime)** | Open Source | Adapté pour TDAH, dyslexie, autisme | Outil de gestion de projet | <div align="center"><a href="https://github.com/Leantime/leantime">🔗</a></div> |
+| **[Wekan](https://wekan.github.io/)** | MIT | Kanban | Alternative open source à Trello | <div align="center"><a href="https://wekan.github.io/">🔗</a></div> |
+| **[Kanboard](https://kanboard.org/)** | MIT | Kanban | Outil simple de gestion de projets | <div align="center"><a href="https://kanboard.org/">🔗</a></div> |
+| **[Focalboard](https://github.com/mattermost-community/focalboard)** | MIT | Multilingue, auto-hébergé | Alternative open source à Trello | <div align="center"><a href="https://github.com/mattermost-community/focalboard">🔗</a></div> |
+| **[Restyaboard](https://restya.com/board/)** | OSL-3.0 | Multiples fonctionnalités | Alternative open source à Trello | <div align="center"><a href="https://restya.com/board/">🔗</a></div> |
+| **[Leantime](https://github.com/Leantime/leantime)** | AGPLv3 | Adapté pour TDAH, dyslexie, autisme | Outil de gestion de projet | <div align="center"><a href="https://github.com/Leantime/leantime">🔗</a></div> |
 | **[ProjeQtOr](https://sourceforge.net/projects/projectorria/)** | AGPL-3.0-only | Outil de gestion de projet | OuOrganisateur de projet ouvert, complet, collaboratif et basé sur la qualité.  | <div align="center"><a href="https://sourceforge.net/projects/projectorria/">🔗</a></div> |
+| **[GanttProject](https://github.com/bardsoftware/ganttproject/tree/master)** | GPLv3 | Gantt, tâches, suivi des ressources | Outil complet de gestion de projets WBS | <div align="center"><a href="https://www.openproject.org/">🔗</a></div> |
+
 
 
 [🔝 Retour au sommaire](#sommaire)
@@ -36,10 +37,10 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🔗 **Lien Web** |
 |---|---|---|---|---|
-| **[Taiga](https://www.taiga.io/)** | Open Source | Scrum, Kanban | Gestion de projets agile | <div align="center"><a href="https://www.taiga.io/">🔗</a></div> |
-| **[Redmine](https://www.redmine.org/)** | Open Source | Modules pour Scrum, Kanban | Outil de gestion de projets | <div align="center"><a href="https://www.redmine.org/">🔗</a></div> |
-| **[Phabricator](https://phacility.com/phabricator/)** | Open Source | Workflows agiles | Suite d'outils pour gestion de projets logiciels | <div align="center"><a href="https://phacility.com/phabricator/">🔗</a></div> |
-| **[Orangescrum](https://www.orangescrum.org/)** | Open Source | Kanban, planification de sprints | Gestion de projets agile | <div align="center"><a href="https://www.orangescrum.org/">🔗</a></div> |
+| **[Taiga](https://www.taiga.io/)** | AGPLv3 | Scrum, Kanban | Gestion de projets agile | <div align="center"><a href="https://www.taiga.io/">🔗</a></div> |
+| **[Redmine](https://www.redmine.org/)** | GPLv2 | Modules pour Scrum, Kanban | Outil de gestion de projets | <div align="center"><a href="https://www.redmine.org/">🔗</a></div> |
+| **[Phabricator](https://phacility.com/phabricator/)** | Apache 2.0 | Workflows agiles | Suite d'outils pour gestion de projets logiciels | <div align="center"><a href="https://phacility.com/phabricator/">🔗</a></div> |
+| **[Orangescrum](https://www.orangescrum.org/)** | GPLv3 | Kanban, Scrum, Gantt | Gestion de projets agile | <div align="center"><a href="https://www.orangescrum.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
