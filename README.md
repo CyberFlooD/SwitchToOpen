@@ -9,7 +9,7 @@
   ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=license)
   ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github)
   ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
-  ![Updated](https://img.shields.io/github/last-commit/CyberFlooD/switchtoopen?style=for-the-badge&logo=github&label=Updated)
+  ![Last update](https://img.shields.io/github/last-commit/CyberFlooD/switchtoopen?label=Last%20update&color=informational&style=for-the-badge&logo=github)
 </p>
 
 
