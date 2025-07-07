@@ -20,7 +20,7 @@
 | **Duplicity** | GPLv2+ | Chiffrement et sauvegardes incrémentielles | Solution de sauvegarde open source avec chiffrement et sauvegardes incrémentielles | <div align="center"><a href="http://duplicity.nongnu.org/">🔗</a></div> |
 | **UrBackup** | AGPLv3	| Sauvegarde client/serveur avec restauration rapide | Solution open source de sauvegarde client/serveur avec restauration rapide | <div align="center"><a href="https://www.urbackup.org/">🔗</a></div> |
 | **Amanda** | Apache 2.0	| Adaptée aux grandes infrastructures | Solution open source pour la sauvegarde et la récupération, adaptée aux grandes infrastructures | <div align="center"><a href="https://www.amanda.org/">🔗</a></div> |
-| **Plakar** | ISC | Une solution de sauvegarde française | Plakar est une solution de sauvegarde française, conçue pour simplifier, sécuriser et optimiser la gestion des données, aussi bien pour les entreprises que pour les particuliers | <div align="center"><a href="https://www.amanda.org/">🔗</a></div> |
+| **Plakar** | ISC | Une solution de sauvegarde française | Plakar est une solution de sauvegarde française, conçue pour simplifier, sécuriser et optimiser la gestion des données, aussi bien pour les entreprises que pour les particuliers | <div align="center"><a href="https://github.com/PlakarKorp/plakar?tab=ISC-1-ov-file#readme">🔗</a></div> |
 
 
 [🔝 Retour au sommaire](#sommaire)
