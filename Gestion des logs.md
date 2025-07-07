@@ -3,8 +3,6 @@
   <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
----
-
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Collecte, analyse et gestion centralisée des logs](#collecte-logs)
 2. [🔍 Surveillance des événements et détection d'intrusions (SIEM)](#siem)
@@ -58,10 +56,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Kibana** | Open Source | Visualisation de logs | Interface pour Elasticsearch | <div align="center"><a href="https://www.elastic.co/kibana">🔗</a></div> |
-| **Grafana** | Open Source | Monitoring et visualisation | Utilisé avec Loki | <div align="center"><a href="https://grafana.com/">🔗</a></div> |
-| **Piwik PRO Analytics** | Open Source | Visualisation de données | Gestion des logs incluse | <div align="center"><a href="https://piwik.pro/">🔗</a></div> |
-| **GoAccess** | Open Source | Visualisation en temps réel | Logs d'accès web | <div align="center"><a href="https://goaccess.io/">🔗</a></div> |
+| **Kibana** | Elastic License | Visualisation de logs | Interface de visualisation et d’analyse pour Elasticsearch, idéale pour explorer, analyser et visualiser les logs | <div align="center"><a href="https://www.elastic.co/kibana">🔗</a></div> |
+| **Grafana** | AGPLv3 (core), Grafana Enterprise (commercial) | Monitoring et visualisation | Plateforme de monitoring et de visualisation multi-sources, extensible, utilisée notamment avec Loki pour les logs | <div align="center"><a href="https://grafana.com/">🔗</a></div> |
+| **GoAccess** | GPLv2 | Visualisation en temps réel | Analyseur de logs web en temps réel en ligne de commande ou interface web légère | <div align="center"><a href="https://goaccess.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -71,9 +68,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Promtail** | Open Source | Gestion des logs des conteneurs | Envoi vers Loki | <div align="center"><a href="https://grafana.com/docs/loki/latest/clients/promtail/">🔗</a></div> |
-| **Fluent Bit** | Open Source | Collecteur de logs léger | Pour environnements Kubernetes | <div align="center"><a href="https://fluentbit.io/">🔗</a></div> |
-| **Vector** | Open Source | Collecte et transformation des logs | Conçu pour environnements modernes | <div align="center"><a href="https://vector.dev/">🔗</a></div> |
-| **Filebeat** | Open Source | Agent léger pour logs | Pour conteneurs et systèmes | <div align="center"><a href="https://www.elastic.co/beats/filebeat">🔗</a></div> |
+| **Promtail** | AGPLv3 | Gestion des logs des conteneurs | Collecte les logs des pods/containers et les envoie vers Loki pour agrégation et visualisation | <div align="center"><a href="https://grafana.com/docs/loki/latest/clients/promtail/">🔗</a></div> |
+| **Fluent Bit** | Apache 2.0	 | Collecteur de logs léger | Collecteur de logs ultra-léger, optimisé pour Kubernetes et environnements cloud natifs | <div align="center"><a href="https://fluentbit.io/">🔗</a></div> |
+| **Vector** | MPL 2.0 | Collecte et transformation des logs | Plateforme moderne de collecte, transformation et routage des logs, compatible avec de nombreux systèmes | <div align="center"><a href="https://vector.dev/">🔗</a></div> |
+| **Filebeat** | Apache 2.0	 | Agent léger pour logs | Agent léger pour expédier les logs de conteneurs, systèmes et applications vers Elasticsearch ou Logstash | <div align="center"><a href="https://www.elastic.co/beats/filebeat">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
