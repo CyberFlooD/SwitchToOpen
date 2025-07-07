@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=license"/>
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/switchtoopen?style=for-the-badge&logo=github&label=Updated"/>
 </p>
 
 ## 🎯 Objectif du Projet
