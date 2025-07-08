@@ -25,7 +25,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **ClamAV** | GPL-2.0 | Détection et suppression des virus | Antivirus pour protéger les endpoints | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **ClamAV** | GPLv2 | Détection de logiciels malveillants, scan des e-mails et fichiers | Antivirus open source utilisé pour scanner les e-mails, fichiers, et systèmes | <div align="center"><a href="https://www.clamav.net/">🔗</a></div> |
+| **OpenAntiVirus Project** | GPL | Création d'outils antivirus et de sécurité réseau | Projet pour développer des outils antivirus et de sécurité réseau | <div align="center"><a href="http://www.openantivirus.org/">🔗</a></div> |
+| **Linux Malware Detect (LMD)** | GPLv2 | Détection de malwares pour Linux | Spécialisé dans la détection de malwares ciblant les systèmes Linux | <div align="center"><a href="https://www.rfxn.com/projects/linux-malware-detect/">🔗</a></div> |
+| **Rootkit Hunter (rkhunter)** | GPL | Détection de rootkits, backdoors, et exploits | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://rkhunter.sourceforge.net/">🔗</a></div> |
+| **chkrootkit** | GPL | Détection de rootkits sur Linux | Permet de vérifier la présence d'intrusions sur le système Linux | <div align="center"><a href="http://www.chkrootkit.org/">🔗</a></div> |
 | **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
@@ -40,6 +44,7 @@
 | **OPNsense** | BSD 2-Clause | Pare-feu avec IDS/IPS intégré | Pare-feu offrant des fonctionnalités de détection/prévention d'intrusions | <div align="center"><a href="https://opnsense.org/">🔗</a></div> |
 | **Snort** | GPLv2 | IDS/IPS | Système de détection et de prévention d'intrusions | <div align="center"><a href="https://www.snort.org/">🔗</a></div> |
 | **Suricata** | GPLv2 | IDS/IPS avancé | IDS/IPS avec des fonctionnalités avancées | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
+| **CrowdSec** | MIT | IPS collaboratif | Détection comportementale + blocage collaboratif via bouncer | <div align="center"><a href="https://suricata.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -61,11 +66,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **OpenVAS** | Open source | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
-| **Nikto** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
-| **Wapiti** | Open source | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
-| **ArcherySec** | Open source | Gestion des vulnérabilités et tests | Tests de sécurité automatisés et gestion des vulnérabilités | <div align="center"><a href="https://archerysec.github.io/archerysec/">🔗</a></div> |
-| **Drozer** | Open source | Sécurité des applications mobiles | Audits de sécurité des applications mobiles | <div align="center"><a href="https://github.com/WithSecureLabs/drozer">🔗</a></div> |
+| **OpenVAS** | GPLv2 | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
+| **Nikto** | GPLv2 | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
+| **Wapiti** | GPLv2 | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
+| **ArcherySec** | Apache 2.0 | Gestion des vulnérabilités et tests | Tests de sécurité automatisés et gestion des vulnérabilités | <div align="center"><a href="https://archerysec.github.io/archerysec/">🔗</a></div> |
+| **Drozer** | Apache 2.0 | Sécurité des applications mobiles | Audits de sécurité des applications mobiles | <div align="center"><a href="https://github.com/WithSecureLabs/drozer">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -75,9 +80,9 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Faraday** | Open source | Collaboration et gestion des vulnérabilités | Plateforme pour la gestion centralisée des vulnérabilités | <div align="center"><a href="https://faradaysec.com/">🔗</a></div> |
-| **DefectDojo** | Open source | Gestion des vulnérabilités | Outil pour centraliser et gérer les résultats des scans de vulnérabilités | <div align="center"><a href="https://www.defectdojo.org/">🔗</a></div> |
-| **Dradis** | Open source | Gestion des vulnérabilités et rapports | Plateforme pour la gestion des vulnérabilités et la génération de rapports de tests de sécurité | <div align="center"><a href="https://dradisframework.com/">🔗</a></div> |
+| **Faraday Community** | GPLv3	+ Version Pro payante | Collaboration et gestion des vulnérabilités | Plateforme pour la gestion centralisée des vulnérabilités | <div align="center"><a href="https://faradaysec.com/">🔗</a></div> |
+| **DefectDojo** | Clause | Gestion des vulnérabilités | Outil open source pour centraliser, gérer et suivre les résultats des scans de vulnérabilités, avec déduplication et reporting avancé | <div align="center"><a href="https://www.defectdojo.org/">🔗</a></div> |
+| **Dradis** | GPLv2 (Community Edition) | Gestion des vulnérabilités et rapports | Plateforme pour la gestion des vulnérabilités et la génération de rapports de tests de sécurité | <div align="center"><a href="https://dradisframework.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -98,9 +103,12 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **VeraCrypt** | Open source | Chiffrement de disque | Outil de chiffrement de disque complet | <div align="center"><a href="https://www.veracrypt.fr/">🔗</a></div> |
-| **LUKS** | Open source | Chiffrement de disque | Chiffrement des volumes sous Linux | <div align="center"><a href="https://gitlab.com/cryptsetup/cryptsetup">🔗</a></div> |
-| **Cryptomator** | Open source | Chiffrement de fichiers | Chiffrement de fichiers pour le cloud | <div align="center"><a href="https://cryptomator.org/">🔗</a></div> |
+| **VeraCrypt** | Apache 2.0	 | Chiffrement de disque | Outil de chiffrement de disque complet | <div align="center"><a href="https://www.veracrypt.fr/">🔗</a></div> |
+| **LUKS** | GPLv2 | Chiffrement de disque | Chiffrement des volumes sous Linux | <div align="center"><a href="https://gitlab.com/cryptsetup/cryptsetup">🔗</a></div> |
+| **Cryptomator** | GPLv3 | Chiffrement de fichiers | Chiffrement de fichiers pour le cloud | <div align="center"><a href="https://cryptomator.org/">🔗</a></div> |
+| **EncFS** | GPLv2 | Chiffrement de fichiers | Système de fichiers chiffré en espace utilisateur, compatible Linux et macOS | <div align="center"><a href="https://vgough.github.io/encfs/">🔗</a></div> |
+| **eCryptfs** | GPLv2 | Chiffrement de fichiers | Système de fichiers crypté empilé pour Linux, intégré au noyau Linux | <div align="center"><a href="https://ecryptfs.org/">🔗</a></div> |
+| **CryFS** | GPLv3 | Chiffrement de fichiers | Système de fichiers chiffré conçu pour le stockage cloud, protège la structure des dossiers | <div align="center"><a href="https://www.cryfs.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -110,9 +118,15 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Wazuh** | GPLv2, avec une exception explicite autorisant le lien avec OpenSSL. | HIDS, EDR, XDR, surveillance des endpoints et détection des menaces | Monitoring complet des endpoints | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
-| **OSSEC** | GPLv2 | Analyse des logs et détection des intrusions | Un système open source de détection d’intrusions basé sur l’hôte (HIDS) qui analyse en temps réel les journaux, contrôle l’intégrité des fichiers, surveille le registre Windows, détecte les rootkits et génère des alertes pour protéger les systèmes Linux, Windows, macOS, Solaris, etc. | <div align="center"><a href="https://www.ossec.net/">🔗</a></div> |
-| **OSSIM** | Open source | SIEM | AlienVault Open Source SIEM | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
+| **Wazuh** | Open Source | Détection des menaces, gestion des incidents | Plateforme SIEM open source pour la détection des menaces et la gestion des incidents | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
+| **OSSEC** | Open Source | Détection d'intrusion basée sur l'hôte (HIDS) | Système de détection d'intrusion gratuit et open source basé sur l'hôte | <div align="center"><a href="http://www.ossec.net">🔗</a></div> |
+| **ELK Stack** | Open Source | Collecte, analyse, visualisation des logs | Suite open source pour la collecte, l'analyse et la visualisation des logs, souvent utilisée comme SIEM | <div align="center"><a href="https://www.elastic.co/elk-stack">🔗</a></div> |
+| **AlienVault OSSIM** | Open Source | SIEM tout-en-un | Solution SIEM open source qui combine plusieurs outils de sécurité dans une seule plateforme | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
+| **Security Onion** | Open Source | Surveillance de sécurité | Distribution Linux open source pour la surveillance de la sécurité avec des fonctionnalités SIEM | <div align="center"><a href="https://securityonion.net/">🔗</a></div> |
+| **Prelude SIEM** | Open Source | Corrélation des événements de sécurité | SIEM open source axé sur la corrélation des événements de sécurité | <div align="center"><a href="https://www.prelude-siem.org/">🔗</a></div> |
+| **MozDef** | Open Source | Réponse aux incidents automatisée | SIEM open source développé par Mozilla pour automatiser la réponse aux incidents de sécurité | <div align="center"><a href="https://github.com/mozilla/MozDef">🔗</a></div> |
+| **SIEMonster** | Open Source | Surveillance des événements de sécurité | Solution SIEM open source scalable pour la surveillance des événements de sécurité | <div align="center"><a href="https://siemonster.com/">🔗</a></div> |
+| **OpenEDR** | Open Source | Endpoint Detection and Response (EDR) | C'est plutôt un EDR, gratuit et open source | <div align="center"><a href="https://www.openedr.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
