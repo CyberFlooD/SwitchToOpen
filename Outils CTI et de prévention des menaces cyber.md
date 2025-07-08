@@ -1,8 +1,16 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>🔒 Outils CTI et de prévention des menaces cyber</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🛰️ Outils CTI et de prévention des menaces Cyber</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-CTI%20%26%20Cyber%20Threat%20Intel-blue?style=for-the-badge&logo=cyberdefense"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [💻 Outils de Renseignement sur les menaces (CTI)](#outils-prevention)
@@ -22,6 +30,8 @@
 | **OnionSearch** | GPLv3 | Recherches dans le Dark Web, ajout de sources en .onion | Outil CLI open source permettant d’effectuer des recherches dans le Dark Web à partir de mots-clés, avec la possibilité d’ajouter des sources en .onion | <div align="center"><a href="https://github.com/megadose/OnionSearch">🔗</a></div> |
 | **Twint** | GPLv3 | Scraping de Twitter, analyse de sujets | Outil open source permettant de scraper Twitter afin d’analyser un sujet donné, utilisé dans le cadre de la CTI/OSINT | <div align="center"><a href="https://github.com/twintproject/twint">🔗</a></div> |
 | **Gephi** | CDDL 1.0 et GPLv3 | Analyse de données venant des réseaux sociaux | Outil open source pour l'analyse de données venant des réseaux sociaux | <div align="center"><a href="https://gephi.org/">🔗</a></div> |
+| **RansomLook** | GPLv3 | Surveillance et l’analyse des activités des groupes de ransomware | Outil de veille et d’OSINT (renseignement en sources ouvertes) destiné à suivre les attaques, fuites de données et revendications publiées par les cybercriminels | <div align="center"><a href="https://github.com/RansomLook/RansomLook">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -32,3 +42,11 @@
 | **Intelligence IPv4 Blocklist** | CC BY-NC 4.0 | Intelligence IPv4 Blocklist par Duggy Tuxy | La Liste d'adresses IP malveillantes (IPv4): Botnets, RaT, CVE, CVE, Scanners, à integrer dans les FW ou workflows CTI| <div align="center"><a href="https://github.com/duggytuxy/Intelligence_IPv4_Blocklist/tree/main">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---

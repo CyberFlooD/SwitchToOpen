@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>🔍 Moteurs de recherche</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Moteurs%20de%20recherche-006400?style=for-the-badge&logo=duckduckgo"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🌐 Moteurs de recherche spécialisés](#moteurs-specialises)
@@ -20,3 +28,11 @@
 | **Intelx** | <div align="center"><a href="http://intelx.io/">🔗</a></div> | Cartographie des réseaux WiFi. Wigle vous aide à identifier les réseaux WiFi dans le monde entier. Utile pour les recherches sur les vulnérabilités réseaux. |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---

@@ -1,16 +1,14 @@
 <h1 align="center">🤖 Réponse Automatisée aux Incidents (SOAR & Gestion des alertes)</h1>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SOAR-Automatisation-brightgreen?style=for-the-badge&logo=codecov"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-Open%20Source-informational?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Made%20by-Dudix❤️-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Catégorie-Réponse%20aux%20incidents%20(SOAR)-red?style=for-the-badge&logo=playwright"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
 </p>
-
----
-
-## Objectif
-
-Cette section regroupe les outils open source dédiés à la **gestion des incidents de sécurité**, à leur **automatisation (SOAR)**, à l’**enrichissement d’alertes**, et à la **collaboration entre analystes SOC**.
 
 ---
 
@@ -28,30 +26,8 @@ Cette section regroupe les outils open source dédiés à la **gestion des incid
 
 ---
 
-## 🔄 Cas d’usage
-
-- Centraliser les alertes de SIEM/Wazuh
-- Enrichir automatiquement les IOCs (IP, hash, URL)
-- Créer des **playbooks automatisés** (ex. : “IOC détecté → enrichment → blocage → création de cas”)
-- Coopération entre analystes SOC
-- Documentation et traçabilité des investigations
-
----
-
-## 🔗 À combiner avec
-
-- [📊 SIEM (Wazuh, ELK, OSSIM)](./Outils%20SIEM.md)
-- [🔍 CTI (MISP, OpenCTI)](./Outils%20CTI%20et%20de%20pr%C3%A9vention%20des%20menaces%20cyber.md)
-- [📈 Gestion des vulnérabilités (DefectDojo, Faraday)](./S%C3%A9curit%C3%A9.md)
-
----
-
 ## 🤝 Contributions
 
 Tu connais un outil open-source SOAR oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
-
-## 🖋️ Auteur
-
-Made with ❤️ by [Dudix Consulting](https://github.com/CyberFlooD)
