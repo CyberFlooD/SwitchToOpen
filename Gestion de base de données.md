@@ -1,9 +1,14 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>📚 Gestion de bases de données (BDD)</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🗄️ Gestion de bases de données (BDD)</h1>
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Bases%20de%20données-blue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📂 Systèmes de gestion de bases de données relationnelles (SGBDR)](#sgbdr)
@@ -130,5 +135,11 @@
 | **[PostgreSQL BDR](https://2ndquadrant.com/en/resources/bdr/)** | PostgreSQL License (=BSD) | Réplication multi-master | PostgreSQL BDR est une extension PostgreSQL sous licence PostgreSQL License (similaire à BSD), permettant une réplication multi-maître asynchrone adaptée aux déploiements distribués. | <div align="center"><a href="https://2ndquadrant.com/en/resources/bdr/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
