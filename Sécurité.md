@@ -7,19 +7,20 @@
 1. [🛡️ Antivirus et protection des endpoints](#antivirus)
 2. [🔥 Pare-feu et prévention des intrusions (IDS/IPS)](#pare-feu)
 3. [📊 Analyse de logs et monitoring](#analyse-logs)
-4. [🔍 Scanners de vulnérabilités](#scanners-vulnerabilites)
-5. [📈 Gestion des vulnérabilités](#gestion-vulnerabilites)
-6. [🔑 Cryptographie et gestion des clés](#cryptographie)
-7. [🛡️ Chiffrement de disque et protection des données](#chiffrement-disque)
-8. [🔎 Gestion des informations et événements de sécurité (SIEM)](#gestion-informations)
-9. [👤 Gestion des identités et accès (IAM)](#gestion-identités)
-10. [🔬 Forensic et réponse aux incidents](#forensic)
-11. [📋 Audit de sécurité et conformité](#audit-securite)
-12. [📧 Outils de protection des emails](#protection-emails)
-13. [🕵️ Création de honeypots](#honeypots)
-14. [💻 Renseignement sur les menaces (CTI)](#cti)
-15. [🚨 Liste d’IP malveillantes](#blockliste)
-16. [📋 Hygiène informatique](#hygiene)
+4. [🔍Outils d'analyse comportementale réseau (NDR)](#analyse-ndr)
+5. [🔍 Scanners de vulnérabilités](#scanners-vulnerabilites)
+6. [📈 Gestion des vulnérabilités](#gestion-vulnerabilites)
+7. [🔑 Cryptographie et gestion des clés](#cryptographie)
+8. [🛡️ Chiffrement de disque et protection des données](#chiffrement-disque)
+9. [🔎 Gestion des informations et événements de sécurité (SIEM)](#gestion-informations)
+10. [👤 Gestion des identités et accès (IAM)](#gestion-identités)
+11. [🔬 Forensic et réponse aux incidents](#forensic)
+12. [📋 Audit de sécurité et conformité](#audit-securite)
+13. [📧 Outils de protection des emails](#protection-emails)
+14. [🕵️ Création de honeypots](#honeypots)
+15. [💻 Renseignement sur les menaces (CTI)](#cti)
+16. [🚨 Liste d’IP malveillantes](#blockliste)
+17. [📋 Hygiène informatique](#hygiene)
 
 ---
 
@@ -63,6 +64,22 @@
 [🔝 Retour au sommaire](#sommaire)
 
 ---
+
+## 🔍 Outils d'analyse comportementale réseau (NDR) <a id="analyse-ndr"></a>
+
+| 🌟 **Outil** | 🔑 **Licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Zeek** (ex-Bro) | BSD | NTA, logs détaillés, détection comportementale | Analyseur réseau avancé, extrait et structure les métadonnées réseau pour la détection comportementale | <div align="center"><a href="https://zeek.org/">🔗</a></div> |
+| **Arkime** (ex-Moloch) | Apache 2.0 | Recherche sur captures PCAP | Indexation, analyse et navigation dans des fichiers PCAP à grande échelle | <div align="center"><a href="https://arkime.com/">🔗</a></div> |
+| **Stamus Security Platform (Community Edition)** | GPLv3 | Surcouche Suricata + UI | Dashboard avancé pour Suricata avec analyse comportementale, métadonnées et contexte enrichi | <div align="center"><a href="https://www.stamus-networks.com/open-source">🔗</a></div> |
+| **ntopng** | GPLv3 / Enterprise | Supervision temps réel, NetFlow, NTA | Outil graphique d’analyse réseau temps réel (trafic, protocoles, IPs, alertes, etc.) | <div align="center"><a href="https://www.ntop.org/products/traffic-analysis/ntop/">🔗</a></div> |
+| **Malcolm** | Open Source (MIT) | Framework complet de capture, analyse et recherche réseau | Intègre Zeek, Suricata, Arkime, Elasticsearch et Kibana pour créer une plateforme NDR open-source tout-en-un | <div align="center"><a href="https://github.com/idaholab/Malcolm">🔗</a></div> |
+| **DeepFlow** | Apache 2.0 | NTA moderne basé sur eBPF + AI | Analyse réseau comportementale pour cloud-native, intégration Grafana/Loki | <div align="center"><a href="https://github.com/deepflowio/deepflow">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
 
 ## 🔍 Scanners de vulnérabilités <a id="scanners-vulnerabilites"></a>
 
