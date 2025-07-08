@@ -42,3 +42,11 @@
 | **Intelligence IPv4 Blocklist** | CC BY-NC 4.0 | Intelligence IPv4 Blocklist par Duggy Tuxy | La Liste d'adresses IP malveillantes (IPv4): Botnets, RaT, CVE, CVE, Scanners, à integrer dans les FW ou workflows CTI| <div align="center"><a href="https://github.com/duggytuxy/Intelligence_IPv4_Blocklist/tree/main">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
