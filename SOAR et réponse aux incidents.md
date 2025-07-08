@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Cette section regroupe les outils open source dédiés à la **gestion des incidents de sécurité**, à leur **automatisation (SOAR)**, à l’**enrichissement d’alertes**, et à la **collaboration entre analystes SOC**.
 
