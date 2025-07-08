@@ -7,8 +7,8 @@
 1. [🛡️ Antivirus et protection des endpoints](#antivirus)
 2. [🔥 Pare-feu et prévention des intrusions (IDS/IPS)](#pare-feu)
 3. [📊 Analyse de logs et monitoring](#analyse-logs)
-4. [🔍 Gestion des vulnérabilités](#gestion-vulnerabilites)
-5. [📈 Plateformes de gestion et de visualisation des vulnérabilités](#plateformes-gestion)
+4. [🔍 Scanners de vulnérabilités](#scanners-vulnerabilites)
+5. [📈 Gestion des vulnérabilités](#gestion-vulnerabilites)
 6. [🔑 Cryptographie et gestion des clés](#cryptographie)
 7. [🛡️ Chiffrement de disque et protection des données](#chiffrement-disque)
 8. [🔎 Gestion des informations et événements de sécurité (SIEM)](#gestion-informations)
@@ -17,7 +17,9 @@
 11. [📋 Audit de sécurité et conformité](#audit-securite)
 12. [📧 Outils de protection des emails](#protection-emails)
 13. [🕵️ Création de honeypots](#honeypots)
-14. [📋 Hygiène informatique](#hygiene)
+14. [💻 Renseignement sur les menaces (CTI)](#cti)
+15. [🚨 Liste d’IP malveillantes](#blockliste)
+16. [📋 Hygiène informatique](#hygiene)
 
 ---
 
@@ -62,7 +64,7 @@
 
 ---
 
-## 🔍 Gestion des vulnérabilités <a id="gestion-vulnerabilites"></a>
+## 🔍 Scanners de vulnérabilités <a id="scanners-vulnerabilites"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
@@ -76,7 +78,7 @@
 
 ---
 
-## 📈 Plateformes de gestion et de visualisation des vulnérabilités <a id="plateformes-gestion"></a>
+## 📈 Gestion et visualisation des vulnérabilités <a id="gestion-vulnerabilites"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
@@ -200,6 +202,33 @@
 
 ---
 
+## 💻 Outils de Renseignement sur les menaces (CTI) <a id="cti"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **OpenCTI** | Apache 2.0 + Enterprise Edition | Gestion et partage des renseignements sur les menaces | Plateforme open source pour la gestion et le partage des renseignements sur les menaces | <div align="center"><a href="https://github.com/OpenCTI-Platform/opencti">🔗</a></div> |
+| **Malcat** | GPLv3 | Analyse de malwares et ingénierie inverse | Outil open source d'analyse de malwares et d'ingénierie inverse | <div align="center"><a href="https://malcat.fr/">🔗</a></div> |
+| **Cortex** | AGPLv3 | Réponse aux incidents, analyse automatisée | Outil de réponse aux incidents, souvent utilisé avec TheHive pour automatiser l'analyse des indicateurs | <div align="center"><a href="https://github.com/TheHive-Project/Cortex/?tab=readme-ov-file">🔗</a></div> |
+| **MISP** | AGPLv3 | Partage d'informations sur les menaces et les indicateurs de compromission | Plateforme open source pour le partage d'informations sur les menaces et les indicateurs de compromission | <div align="center"><a href="https://www.misp-project.org/">🔗</a></div> |
+| **GitLeaks** | MIT | Détection de fuites de code source, identification d'informations sensibles | Outil OSINT open source pour détecter les fuites de code source sur GitHub et identifier des informations sensibles (clés API, mots de passe) | <div align="center"><a href="https://github.com/gitleaks/gitleaks">🔗</a></div> |
+| **OnionSearch** | GPLv3 | Recherches dans le Dark Web, ajout de sources en .onion | Outil CLI open source permettant d’effectuer des recherches dans le Dark Web à partir de mots-clés, avec la possibilité d’ajouter des sources en .onion | <div align="center"><a href="https://github.com/megadose/OnionSearch">🔗</a></div> |
+| **Twint** | GPLv3 | Scraping de Twitter, analyse de sujets | Outil open source permettant de scraper Twitter afin d’analyser un sujet donné, utilisé dans le cadre de la CTI/OSINT | <div align="center"><a href="https://github.com/twintproject/twint">🔗</a></div> |
+| **Gephi** | CDDL 1.0 et GPLv3 | Analyse de données venant des réseaux sociaux | Outil open source pour l'analyse de données venant des réseaux sociaux | <div align="center"><a href="https://gephi.org/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🚨 Liste d’IP malveillantes <a id="blocklist"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Intelligence IPv4 Blocklist** | CC BY-NC 4.0 | Intelligence IPv4 Blocklist par Duggy Tuxy | La Liste d'adresses IP malveillantes (IPv4): Botnets, RaT, CVE, CVE, Scanners, à integrer dans les FW ou workflows CTI| <div align="center"><a href="https://github.com/duggytuxy/Intelligence_IPv4_Blocklist/tree/main">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
 ## 📋 Hygiène informatique personnelle <a id="hygiene"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
@@ -207,5 +236,7 @@
 | **Personal Security Checklist** | Open source, MIT, CC4.0 | Checklist, guide d’auto-évaluation de la posture cyber| Une checklist complète et accessible qui vous guide pas à pas pour renforcer votre posture cyber personnelle | <div align="center"><a href="[https://www.clamav.net/](https://digital-defense.io/)">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
 
 
