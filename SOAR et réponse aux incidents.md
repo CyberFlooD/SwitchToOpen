@@ -51,7 +51,3 @@ Cette section regroupe les outils open source dédiés à la **gestion des incid
 Tu connais un outil open-source SOAR oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
-
-## 🖋️ Auteur
-
-Made with ❤️ by [Dudix Consulting](https://github.com/CyberFlooD)
