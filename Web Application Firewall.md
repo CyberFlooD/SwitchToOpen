@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>🔥 Outils WAF</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🔥 Outils de pare-feu applicatif Web (WAF)</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-WAF%20(Web%20Application%20Firewall)-blue?style=for-the-badge&logo=modsecurity"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🛡️ WAF (Web Application Firewall)](#liste-waf)
@@ -21,5 +29,11 @@
 | **CrowdSec** | MIT | Système de défense collaborative | CrowdSec propose une solution WAF qui combine les avantages d’un pare-feu applicatif web traditionnel (filtrage, inspection du trafic HTTP/HTTPS, blocage des attaques web) avec ses propres capacités avancées de détection comportementale et de partage communautaire des menaces | <div align="center"><a href="https://github.com/crowdsecurity/crowdsec/tree/master">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
