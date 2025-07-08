@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>📑 Rapports</h1>
-    <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>📑 Rapports et outils de reporting</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Outils%20de%20Reporting-yellow?style=for-the-badge&logo=report"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Outils de génération de rapports](#outils-generation-rapports)
@@ -18,5 +26,11 @@
 | **Faraday** | Open Source | Rapports et gestion de vulnérabilités | Outil open source de génération de rapports et de gestion de vulnérabilités (fonctions limitées, est payant pour les fonctions plus avancées) | <div align="center"><a href="https://github.com/infobyte/faraday">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
