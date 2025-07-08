@@ -1,8 +1,16 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>📚 Gestion de projets</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🗂️ Gestion de projets</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Gestion%20de%20projets-yellow?style=for-the-badge&logo=trello"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 
 ## Sommaire 📖 <a id="sommaire"></a>
@@ -82,3 +90,11 @@
 | **[GanttProject](https://www.ganttproject.biz/)** | GPLv3 | Planning de projets, Gantt | GanttProject est un outil open source axé sur la planification de projets via des diagrammes de Gantt, la gestion des ressources et le suivi des risques. Il est simple à utiliser, multiplateforme, et adapté aux besoins de planification structurée | <div align="center"><a href="https://www.ganttproject.biz/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
