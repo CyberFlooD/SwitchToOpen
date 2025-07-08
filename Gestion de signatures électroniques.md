@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>📄 Logiciels de gestion de signatures électroniques</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🔏 Logiciels de gestion de signatures électroniques</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Signature%20électronique-blueviolet?style=for-the-badge&logo=wikidata"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [✒️ Logiciels de gestion de signatures électroniques](#logiciels-signatures)
@@ -19,3 +27,11 @@
 | **Iparapheur** | AGPLv3	 | Parapheur électronique et signature électronique | Iparapheur est un logiciel libre de parapheur électronique et de signature électronique principalement utilisé par les collectivités territoriales, administrations et organisations publiques pour la gestion, la validation et la signature sécurisée de documents numériques. | <div align="center"><a href="https://www.libriciel.fr/i-parapheur">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
