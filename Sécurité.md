@@ -118,13 +118,14 @@
 
 ---
 
-## 👤 Gestion des identités et accès (IAM) <a id="gestion-identites"></a>
+## 🔐 Plateformes de gestion d'identités (IAM) <a id="gestion-identités"></a>
 
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+| 🌐 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Keycloak** | Open source | Gestion des identités et accès | Gestion des authentifications et des autorisations | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
-| **Gluu** | Open source | IAM | Système IAM open source | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
-| **FreeIPA** | Open source | Gestion des identités | Authentification centralisée et sécurité pour Linux | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+|**Keycloak**| Apache 2.0 | Authentification unique (SSO), IAM | Solution open source complète pour l’authentification, l’autorisation, supporte OpenID Connect, OAuth2, SAML. Intégration facile avec LDAP/Active Directory.	 | <div align="center"><a href="https://www.keycloak.org/">🔗</a></div> |
+|**Gluu**| MIT | IAM, Authentification, Autorisation | Plateforme IAM open source avec SSO, MFA, gestion centralisée des identités, supporte OAuth2, OpenID Connect, SAML, SCIM. Plus gourmande en ressources que Keycloak.	 | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
+|**FreeIPA**| GPLv3 | Gestion centralisée des identités LDAP/Kerberos, gestion des hôtes, certificats	 | Solution IAM complète orientée Linux, intégrant LDAP, Kerberos, CA, gestion des politiques de sécurité, avec console web et CLI. | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+|**Authelia**| Apache 2.0 | Compagnon des reverse proxies (nginx, Traefik, HAProxy...) | Authelia est un serveur open-source d’authentification et d’autorisation qui joue le rôle de portail d’authentification unique (SSO) et de gestion des accès (IAM) pour les applications web. Il s’intègre principalement comme un compagnon des reverse proxies (nginx, Traefik, HAProxy, etc.) et permet de protéger l’accès à vos services web en appliquant des politiques d’accès fines et en imposant l’authentification à un ou deux facteurs selon vos besoins | <div align="center"><a href="https://github.com/authelia/authelia">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
