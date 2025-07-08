@@ -12,7 +12,7 @@
 6. [🔑 Cryptographie et gestion des clés](#cryptographie)
 7. [🛡️ Chiffrement de disque et protection des données](#chiffrement-disque)
 8. [🔎 Gestion des informations et événements de sécurité (SIEM)](#gestion-informations)
-9. [👤 Gestion des identités et accès (IAM)](#gestion-identites)
+9. [👤 Gestion des identités et accès (IAM)](#gestion-identités)
 10. [🔬 Forensic et réponse aux incidents](#forensic)
 11. [📋 Audit de sécurité et conformité](#audit-securite)
 12. [📧 Outils de protection des emails](#protection-emails)
