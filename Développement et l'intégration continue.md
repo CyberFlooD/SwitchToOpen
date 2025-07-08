@@ -135,3 +135,12 @@
 
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
