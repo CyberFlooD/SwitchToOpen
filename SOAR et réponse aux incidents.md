@@ -40,7 +40,7 @@ Cette section regroupe les outils open source dédiés à la **gestion des incid
 
 ## 🔗 À combiner avec
 
-- [📊 SIEM (Wazuh, ELK, OSSIM)]([./Outils%20SIEM.md)
+- [📊 SIEM (Wazuh, ELK, OSSIM)]([/Outils%20SIEM.md)
 - [🔍 CTI (MISP, OpenCTI)]([../cti-opencti](https://github.com/CyberFlooD/SwitchToOpen/blob/dev/Outils%20CTI%20et%20de%20pr%C3%A9vention%20des%20menaces%20cyber.md))
 - [📈 Gestion des vulnérabilités (DefectDojo, Faraday)]([../S%C3%A9curit%C3%A9.md#plateformes-gestion](https://github.com/CyberFlooD/SwitchToOpen/blob/dev/S%C3%A9curit%C3%A9.md#gestion-vulnerabilites))
 
