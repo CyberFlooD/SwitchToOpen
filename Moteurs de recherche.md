@@ -28,3 +28,11 @@
 | **Intelx** | <div align="center"><a href="http://intelx.io/">🔗</a></div> | Cartographie des réseaux WiFi. Wigle vous aide à identifier les réseaux WiFi dans le monde entier. Utile pour les recherches sur les vulnérabilités réseaux. |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
