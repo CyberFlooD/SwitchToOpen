@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>💾 Sauvegarde et récupération de données</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>💾 Sauvegarde et Restauration</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Sauvegarde%20%26%20Restauration-blue?style=for-the-badge&logo=icloud"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🛠️ Outils de sauvegarde complets](#outils-sauvegarde-complets)
@@ -63,6 +71,12 @@
 | **rsync** | GPLv3 | Synchronisation et sauvegarde | Outil de synchronisation et de sauvegarde open source, largement utilisé sous Linux/Unix | <div align="center"><a href="https://rsync.samba.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
 
