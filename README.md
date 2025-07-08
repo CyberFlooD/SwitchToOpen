@@ -2,13 +2,17 @@
 
 <p align="center">
 <img src="./Img/switchtoopen2.png" width="400"/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=license"/>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+
+
+  ![Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative)
+  ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=license)
+  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github)
+  ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+  ![Last update](https://img.shields.io/github/last-commit/CyberFlooD/switchtoopen?label=Last%20update&color=informational&style=for-the-badge&logo=github)
 </p>
+
+
 
 ## 🎯 Objectif du Projet
 

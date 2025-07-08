@@ -5,12 +5,12 @@
 </div>
 
 ## Sommaire 📖 <a id="sommaire"></a>
-1. [💻 Outils open source de prévention des menaces cyber](#outils-prevention)
+1. [💻 Outils de Renseignement sur les menaces (CTI)](#outils-prevention)
 2. [🚨 La blackliste d’IP malveillantes](#blocklist)
 
 ---
 
-## 💻 Outils open source de prévention des menaces cyber <a id="outils-prevention"></a>
+## 💻 Outils de Renseignement sur les menaces (CTI) <a id="outils-prevention"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
