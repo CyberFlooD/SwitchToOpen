@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>📈 Outils d'analytique et de Business Intelligence (BI)</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-BI%20%26%20Analytics-9cf?style=for-the-badge&logo=bar-chart"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Outils de Business Intelligence (BI)](#outils-bi)
@@ -78,3 +86,11 @@
 | **H2O.ai** | Open Source | Apprentissage automatique, analyse prédictive | Outil open source pour l'apprentissage automatique, l'analyse prédictive et le machine learning | <div align="center"><a href="https://www.h2o.ai/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
