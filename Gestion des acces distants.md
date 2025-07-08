@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>🌐 Gestion des accès distants sécurisés</h1>
-  <img src="Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Accès%20distants%20sécurisés-0078d4?style=for-the-badge&logo=protocols"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🔑 Bastions SSH (serveurs bastion)](#bastion-ssh)
@@ -36,3 +44,11 @@
 | **MeshCentral** | Apache License 2.0	 | Administration et contrôle à distance | MeshCentral est une plateforme open source d’administration et de contrôle à distance, accessible via une interface web et proposant chiffrement bout-en-bout, gestion multi-utilisateurs et prise en main à distance variée | <div align="center"><a href="https://meshcentral.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
