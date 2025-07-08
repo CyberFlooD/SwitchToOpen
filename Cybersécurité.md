@@ -93,11 +93,13 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **OpenVAS** | GPLv2 | Scanner de vulnérabilités | Scanner de vulnérabilités complet | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
+| **OpenVAS** | GPLv2 | Scanner de vulnérabilités | OpenVAS est un scanner de vulnérabilités libre, puissant et reconnu, idéal pour les audits de sécurité réseau et la gestion proactive des failles dans les environnements professionnels ou académiques | <div align="center"><a href="https://www.openvas.org/">🔗</a></div> |
 | **Nikto** | GPLv2 | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="https://cirt.net/Nikto2">🔗</a></div> |
 | **Wapiti** | GPLv2 | Scanner de vulnérabilités web | Scanner de vulnérabilités des applications web | <div align="center"><a href="http://wapiti.sourceforge.net/">🔗</a></div> |
 | **ArcherySec** | Apache 2.0 | Gestion des vulnérabilités et tests | Tests de sécurité automatisés et gestion des vulnérabilités | <div align="center"><a href="https://archerysec.github.io/archerysec/">🔗</a></div> |
 | **Drozer** | Apache 2.0 | Sécurité des applications mobiles | Audits de sécurité des applications mobiles | <div align="center"><a href="https://github.com/WithSecureLabs/drozer">🔗</a></div> |
+| **Sirius** | MIT | Scan de vulnérabilités, moteur modulaire | Sirius est un scanner de vulnérabilités généraliste, open source, conçu pour l’identification, l’analyse et la gestion des risques de sécurité sur les infrastructures réseau. Il se distingue par son moteur modulaire, son intégration avec d’autres scanners open source (Nmap, Nuclei, Rustscan), et son interface moderne orientée opérateur. Sirius propose une base de données de vulnérabilités enrichie par l’IA (VulnerabilityGPT), des analyses automatisées, et des fonctionnalités avancées pour la remédiation et la priorisation des failles | <div align="center"><a href="https://github.com/SiriusScan/Sirius">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
