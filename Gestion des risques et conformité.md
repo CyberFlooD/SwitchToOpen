@@ -1,7 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>🔐 Gestion des risques et conformité</h1>
-  <img src="./Img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>📋  Gestion des risques et conformité (GRC)</h1>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Risques%20%26%20Conformité-darkred?style=for-the-badge&logo=security"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Outils de gestion des risques](#gestion-risques)
@@ -64,3 +72,11 @@
 | **CISO Assistant** | AGPLv3 | Gestion des risques, audits et conformité | Outil complet pour CISO et responsables de la sécurité. Gestion de la cybersecurité avec gestion des risques, audits, conformité, tableaux de bord etc. Inclus de nombreuses normes et templates. | <div align="center"><a href="https://github.com/intuitem/ciso-assistant-community">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
