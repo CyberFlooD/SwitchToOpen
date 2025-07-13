@@ -27,6 +27,7 @@
 | **BunkerWeb** | AGPLv3 | WAF next-gen, reverse proxy | Proxy inverse tout en offrant des fonctionnalités de pare-feu d'applications Web | <div align="center"><a href="https://github.com/bunkerity/bunkerweb">🔗</a></div> |
 | **Vulture** | LGPLv3 | Haute performance basé sur les règles | Compatible avec les environnements à grande échelle | <div align="center"><a href="https://github.com/nbs-system/vulture-waf">🔗</a></div> |
 | **CrowdSec** | MIT | Système de défense collaborative | CrowdSec propose une solution WAF qui combine les avantages d’un pare-feu applicatif web traditionnel (filtrage, inspection du trafic HTTP/HTTPS, blocage des attaques web) avec ses propres capacités avancées de détection comportementale et de partage communautaire des menaces | <div align="center"><a href="https://github.com/crowdsecurity/crowdsec/tree/master">🔗</a></div> |
+| **SafeLine** | GPLv3 | Moteur d’analyse sémantique avancé, capable de détecter des attaques de type « zero-day » | SafeLine est une solution WAF puissante, moderne et accessible, idéale pour protéger vos applications web en toute autonomie. Son modèle de licence flexible va de l’usage personnel gratuit aux offres professionnelles, avec une configuration simple et un haut niveau de sécurité | <div align="center"><a href="https://github.com/nbs-system/vulture-waf">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
