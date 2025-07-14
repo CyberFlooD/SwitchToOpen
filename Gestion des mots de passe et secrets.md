@@ -26,6 +26,7 @@
 | **Bitwarden** | GPLv3 (serveur), clients sous GPLv3/MIT | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau, synchronisation cloud, auto-hébergement possible | <div align="center"><a href="https://bitwarden.com/">🔗</a></div> |
 | **KeePass** | GPLv2 | Local, extensible | Gestionnaire de mots de passe local, extensible via de nombreux plugins, stockage chiffré et portabilité | <div align="center"><a href="https://keepass.info/">🔗</a></div> |
 | **Padlock** | GPLv3 (core), AGPLv3 (serveur, apps web)	 | Simple et léger | Gestionnaire de mots de passe simple, open source, multiplateforme, synchronisation cloud optionnelle | <div align="center"><a href="https://padlock.io/">🔗</a></div> |
+| **Proton Pass** | GPL v3 | SaaS, multiplateforme | Gestionnaire de mots de passe avec applications mobiles et de bureau | <div align="center"><a href="https://proton.me/fr/pass">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -39,6 +40,7 @@
 | **Passbolt** | AGPLv3 | Partage sécurisé | Gestionnaire de mots de passe open source conçu pour les équipes, partage sécurisé et gestion fine des accès | <div align="center"><a href="https://www.passbolt.com/">🔗</a></div> |
 | **Teampass** | GPLv3 | Gestion des utilisateurs et permissions | Solution open source pour entreprises, gestion collaborative des mots de passe avec permissions granulaires | <div align="center"><a href="http://teampass.net/">🔗</a></div> |
 | **Vaultwarden** | GPL v3 | Version auto-hébergée de Bitwarden | Version légère et auto-hébergeable de Bitwarden, idéale pour petites équipes ou usage personnel | <div align="center"><a href="https://github.com/dani-garcia/vaultwarden">🔗</a></div> |
+| **Infisical** | MIT | Partage sécurisé | Gestion des secrets, certfificats, clés SSH ... | <div align="center"><a href="https://infisical.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
