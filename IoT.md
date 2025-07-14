@@ -14,7 +14,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Home Assistant** | Open Source | Contrôle des équipements de domotique | Plateforme auto-hébergeable pour contôlé localement ses équipments domotiques | <div align="center"><a href="https://www.home-assistant.io/">🔗</a></div> |
+| **Home Assistant** | Apache 2 | Contrôle des équipements de domotique | Plateforme auto-hébergeable pour contôlé localement ses équipments domotiques | <div align="center"><a href="https://www.home-assistant.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
