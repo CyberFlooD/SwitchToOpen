@@ -1,9 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>🌐 Virtualisation</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Virtualisation-9cf?style=for-the-badge&logo=proxmox"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🖥️ Hyperviseurs de type 1 (Bare-metal)](#hyperviseur-type-1)
@@ -19,11 +25,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Proxmox VE** | Open source | Support des conteneurs et des machines virtuelles KVM | Solution de virtualisation open source avec support des conteneurs et des machines virtuelles KVM | <div align="center"><a href="https://www.proxmox.com/en/proxmox-ve">🔗</a></div> |
-| **XCP-ng** | Open source | Gestion complète des machines virtuelles et du réseau | Hyperviseur open source basé sur XenServer | <div align="center"><a href="https://xcp-ng.org/">🔗</a></div> |
-| **KVM (Kernel-based Virtual Machine)** | Open source | Virtualisation native sous Linux | Technologie permettant d'exécuter des systèmes d'exploitation invités sur des serveurs | <div align="center"><a href="https://www.linux-kvm.org/">🔗</a></div> |
-| **Xen Project** | Open source | Exécution de plusieurs systèmes d'exploitation invités | Hyperviseur permettant d'exécuter plusieurs systèmes d'exploitation invités sur des serveurs physiques | <div align="center"><a href="https://xenproject.org/">🔗</a></div> |
-| **oVirt** | Open source | Gestion des datacenters | Plateforme de gestion de la virtualisation basée sur KVM | <div align="center"><a href="https://www.ovirt.org/">🔗</a></div> |
+| **Proxmox VE** | AGPLv3 | Support des conteneurs et des machines virtuelles KVM | Solution de virtualisation open source avec support des conteneurs et des machines virtuelles KVM | <div align="center"><a href="https://www.proxmox.com/en/proxmox-ve">🔗</a></div> |
+| **XCP-ng** | GPLv2 (Linux, Xen), LGPLv2+, BSD et autres licences libres selon composants | Gestion complète des machines virtuelles et du réseau | Hyperviseur open source basé sur XenServer | <div align="center"><a href="https://xcp-ng.org/">🔗</a></div> |
+| **KVM (Kernel-based Virtual Machine)** | GNU General Public License (GPL) | Virtualisation native sous Linux | Technologie permettant d'exécuter des systèmes d'exploitation invités sur des serveurs | <div align="center"><a href="https://www.linux-kvm.org/">🔗</a></div> |
+| **Xen Project** | GPLv2 | Exécution de plusieurs systèmes d'exploitation invités | Hyperviseur permettant d'exécuter plusieurs systèmes d'exploitation invités sur des serveurs physiques | <div align="center"><a href="https://xenproject.org/">🔗</a></div> |
+| **oVirt** | Apache License 2.0 | Gestion des datacenters | Plateforme de gestion de la virtualisation basée sur KVM | <div align="center"><a href="https://www.ovirt.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -79,5 +85,11 @@
 | **Cilium** | Open source | Connectivité et sécurité des réseaux de conteneurs | Solution pour la connectivité et la sécurité des réseaux de conteneurs | <div align="center"><a href="https://cilium.io/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
