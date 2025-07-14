@@ -15,8 +15,8 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **GLPI** | Open Source | Helpdesk, CMDB | Centralisation des équipements informatiques permettant une liaison avec la partie Helpdesk | <div align="center"><a href="https://glpi-project.org/fr/">🔗</a></div> |
-| **Netbox** | Open Source | IPAM, CMDB, remontée automatique | Combinaison d'un IPAM et d'une CMDB avec des possibilités d'automatisation des inventaires en utilisant Ansible | <div align="center"><a href="https://netboxlabs.com/docs/netbox/en/stable/">🔗</a></div> |
+| **GLPI** | 	GPLv3 | Helpdesk, CMDB | Centralisation des équipements informatiques permettant une liaison avec la partie Helpdesk | <div align="center"><a href="https://glpi-project.org/fr/">🔗</a></div> |
+| **Netbox** | Apache 2 | IPAM, CMDB, remontée automatique | Combinaison d'un IPAM et d'une CMDB avec des possibilités d'automatisation des inventaires en utilisant Ansible | <div align="center"><a href="https://netboxlabs.com/docs/netbox/en/stable/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -26,7 +26,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **PHPipam** | Open Source | IPAM, remontée automatique | Fournir une gestion d'adresse IP simple | <div align="center"><a href="https://phpipam.net/">🔗</a></div> |
-| **Netbox** | Open Source | IPAM, CMDB, remontée automatique | Combinaison d'un IPAM et d'une CMDB avec des possibilité d'automatisation des inventaires en utilisant Ansible | <div align="center"><a href="https://netboxlabs.com/docs/netbox/en/stable/">🔗</a></div> |
+| **PHPipam** | GPL v3 | IPAM, remontée automatique | Fournir une gestion d'adresse IP simple | <div align="center"><a href="https://phpipam.net/">🔗</a></div> |
+| **Netbox** | Apache 2 | IPAM, CMDB, remontée automatique | Combinaison d'un IPAM et d'une CMDB avec des possibilité d'automatisation des inventaires en utilisant Ansible | <div align="center"><a href="https://netboxlabs.com/docs/netbox/en/stable/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
