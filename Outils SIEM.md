@@ -1,9 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>🛡️ SIEM Open Source</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>🛡️ SIEM Open Source et détection de menaces</h1>
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-SIEM%20Open%20Source-darkblue?style=for-the-badge&logo=elasticstack"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🔎 Security information and event management open source](#siem-open-source)
@@ -28,6 +34,11 @@
 
 ---
 
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
 
 
 

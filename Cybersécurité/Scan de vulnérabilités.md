@@ -16,6 +16,7 @@
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
 | **Nuclei** | Open Source | Scanner de vulnérabilités | Plateforme pour détecter les vulnérabilités dans des applications, API, réseaux, DNS et des configurations cloud. | <div align="center"><a href="https://github.com/projectdiscovery/nuclei">🔗</a></div> |
+| **Nikto** | Open Source | Scanner de vulnérabilités | Scanner de vulnérabilités des applications web. | <div align="center"><a href="https://github.com/sullo/nikto">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -30,3 +31,6 @@
 [🔝 Retour au sommaire](#sommaire)
 
 ---
+
+  - [Nessus Essentials](https://www.tenable.com/downloads/nessus) - Scanner de vulnérabilités Communautaire de Tenable (16 IP max).
+

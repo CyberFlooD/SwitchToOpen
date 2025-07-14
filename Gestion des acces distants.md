@@ -1,8 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>🌐 Gestion des accès distants sécurisés</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
----
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Accès%20distants%20sécurisés-0078d4?style=for-the-badge&logo=protocols"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🔑 Bastions SSH (serveurs bastion)](#bastion-ssh)
@@ -14,10 +21,12 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Teleport** | Open Source | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
-| **OpenSSH** | Open Source | Contrôle et gestion des connexions SSH | Suite d'outils pour connexions SSH avec fonctionnalités de proxy SSH | <div align="center"><a href="https://www.openssh.com/">🔗</a></div> |
-| **Bastillion** | Open Source | Interface web pour SSH | Serveur d'accès centralisé avec gestion via interface web | <div align="center"><a href="http://www.bastillion.io/">🔗</a></div> |
-| **SSOwat** | Open Source | Proxy d'authentification unique | Authentification unique pour sécuriser les connexions SSH via YunoHost | <div align="center"><a href="https://github.com/YunoHost/SSOwat">🔗</a></div> |
+| **Teleport - Community Edition ≤ v15** | Apache 2.0 | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **Teleport - Community Edition ≥ v16** | Licence commerciale | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **Teleport - Code source (toutes versions)** | AGPLv3 | Centralisation des accès SSH/RDP | Serveur d'accès sécurisé open source pour environnements cloud et multi-cloud | <div align="center"><a href="https://goteleport.com/">🔗</a></div> |
+| **OpenSSH** | BSD | Contrôle et gestion des connexions SSH | Suite d’outils open source de référence pour l’accès SSH, elle propose le proxy SSH, le contrôle d’accès et la journalisation, largement utilisée pour bâtir des bastions personnalisés | <div align="center"><a href="https://www.openssh.com/">🔗</a></div> |
+| **Bastillion** | Apache 2.0	 | Interface web pour SSH | Bastillion fournit une interface web centralisée pour gérer les connexions SSH, les clés et les sessions, simplifiant l’administration des accès à distance | <div align="center"><a href="http://www.bastillion.io/">🔗</a></div> |
+| **SSOwat** | AGPLv3 | Proxy d'authentification unique | SSOwat est un proxy d’authentification unique (SSO) pour YunoHost, permettant de sécuriser et centraliser les accès SSH via une interface web et le contrôle des droits | <div align="center"><a href="https://github.com/YunoHost/SSOwat">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -27,11 +36,19 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Guacamole** | Open Source | Passerelle d'accès distant | Prise en charge de SSH, RDP, et VNC via navigateur web | <div align="center"><a href="https://guacamole.apache.org/">🔗</a></div> |
-| **rdesktop** | Open Source | Client RDP | Connexion sécurisée à des environnements Windows | <div align="center"><a href="https://www.rdesktop.org/">🔗</a></div> |
-| **Remmina** | Open Source | Gestion des connexions à distance | Prise en charge de SSH, RDP, VNC avec interface utilisateur | <div align="center"><a href="https://remmina.org/">🔗</a></div> |
-| **TigerVNC** | Open Source | Connexions VNC performantes | Serveur et client VNC pour l'accès distant avec meilleures performances | <div align="center"><a href="https://tigervnc.org/">🔗</a></div> |
-| **TightVNC** | Open Source | Contrôle de bureau à distance | Outil pour contrôler des postes de travail via Internet | <div align="center"><a href="https://www.tightvnc.com/">🔗</a></div> |
-| **MeshCentral** | Open Source | Administration et contrôle à distance | Interface web simple et chiffrement de bout en bout pour l'accès distant | <div align="center"><a href="https://meshcentral.com/">🔗</a></div> |
+| **Guacamole** | Apache License 2.0	 | Passerelle d'accès distant | Guacamole est une passerelle web open source permettant l’accès distant à des serveurs ou postes via RDP, SSH, VNC, Telnet ou Kubernetes, directement depuis un navigateur. Il centralise et sécurise les connexions sans nécessiter de client lourd, avec gestion des droits, enregistrement des sessions et intégration LDAP/AD | <div align="center"><a href="https://guacamole.apache.org/">🔗</a></div> |
+| **rdesktop** | GPLv3 | Client RDP | rdesktop est un client open source pour le protocole RDP, permettant de se connecter à des environnements Windows à distance. Il est léger, multiplateforme et adapté aux environnements Linux/Unix pour l’accès aux bureaux Windows | <div align="center"><a href="https://www.rdesktop.org/">🔗</a></div> |
+| **Remmina** | GPLv2+ | Gestion des connexions à distance | Remmina est un gestionnaire de connexions à distance open source, doté d’une interface graphique et prenant en charge RDP, SSH, VNC et d’autres protocoles. Il convient aux administrateurs et utilisateurs ayant besoin de gérer plusieurs connexions distantes depuis un seul outil | <div align="center"><a href="https://remmina.org/">🔗</a></div> |
+| **TigerVNC** | GPLv2 | Connexions VNC performantes | igerVNC est une solution open source performante pour l’accès distant via VNC, offrant à la fois un serveur et un client multiplateforme. Il met l’accent sur la performance, la sécurité et la compatibilité avec les standards VNC | <div align="center"><a href="https://tigervnc.org/">🔗</a></div> |
+| **TightVNC** | GPLv2 | Contrôle de bureau à distance | TightVNC est un outil open source de contrôle de bureau à distance via le protocole VNC, optimisé pour la bande passante réduite. Il permet de contrôler ou d’assister des postes à distance, notamment dans des contextes de support technique | <div align="center"><a href="https://www.tightvnc.com/">🔗</a></div> |
+| **MeshCentral** | Apache License 2.0	 | Administration et contrôle à distance | MeshCentral est une plateforme open source d’administration et de contrôle à distance, accessible via une interface web et proposant chiffrement bout-en-bout, gestion multi-utilisateurs et prise en main à distance variée | <div align="center"><a href="https://meshcentral.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
+
+---
