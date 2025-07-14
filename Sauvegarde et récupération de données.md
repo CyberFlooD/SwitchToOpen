@@ -37,8 +37,8 @@
 
 ## 🔄 Outils de récupération après sinistre (disaster recovery) <a id="outils-recuperation-sinistre"></a>
 
-| 🌟 **Outil** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
 | **Redo Rescue** | GPLv3 | Interface simple | Outil de récupération après sinistre et de sauvegarde open source avec une interface simple | <div align="center"><a href="https://redorescue.com/">🔗</a></div> |
 | **Clonezilla** | GPLv2	| Clonage de disque et partition | Outil de clonage de disque et de partition open source, idéal pour les récupérations après sinistre | <div align="center"><a href="https://clonezilla.org/">🔗</a></div> |
 | **Relax-and-Recover (ReaR)** | GPLv2	| Récupération et migration de systèmes | Outil open source pour la récupération après sinistre et la migration de systèmes | <div align="center"><a href="https://relax-and-recover.org/">🔗</a></div> |
@@ -50,8 +50,8 @@
 
 ## 💾 Sauvegarde des bases de données <a id="sauvegarde-bases-de-donnees"></a>
 
-| 🌟 **Outil** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
 | **Percona XtraBackup** | GPLv2 | Sauvegarde pour MySQL et MariaDB | Outil de sauvegarde pour les bases de données MySQL et MariaDB | <div align="center"><a href="https://www.percona.com/software/mysql-database/percona-xtrabackup">🔗</a></div> |
 | **pgBackRest** | MIT	| Robuste pour PostgreSQL | Solution open source robuste de sauvegarde et de récupération pour PostgreSQL | <div align="center"><a href="https://pgbackrest.org/">🔗</a></div> |
 | **Wal-G** | Apache 2.0	| Sauvegarde incrémentielle | Outil de sauvegarde incrémentielle pour PostgreSQL, MySQL et d'autres bases de données | <div align="center"><a href="https://github.com/wal-g/wal-g">🔗</a></div> |
@@ -63,13 +63,13 @@
 
 ## 🐧 Sauvegarde et récupération sur Linux/Unix <a id="sauvegarde-recuperation-linux"></a>
 
-| 🌟 **Outil** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
 | **Timeshift** | GPLv3 | Snapshots et restauration | Outil open source pour la création de snapshots et la restauration de systèmes Linux | <div align="center"><a href="https://github.com/teejee2008/timeshift">🔗</a></div> |
 | **Déjà Dup** | GPLv3 | Sauvegardes automatiques avec chiffrement | Solution open source pour les sauvegardes automatiques sur Linux avec chiffrement | <div align="center"><a href="https://wiki.gnome.org/Apps/DejaDup">🔗</a></div> |
 | **rsnapshot** | GPLv2 | Basé sur rsync | Outil de sauvegarde open source pour les systèmes Linux/Unix basé sur rsync | <div align="center"><a href="http://rsnapshot.org/">🔗</a></div> |
 | **rsync** | GPLv3 | Synchronisation et sauvegarde | Outil de synchronisation et de sauvegarde open source, largement utilisé sous Linux/Unix | <div align="center"><a href="https://rsync.samba.org/">🔗</a></div> |
-| **Bareos** | Sauvegarde et restauration | Outil de sauvegarde open source, permettant également de restaurer les données | <div align="center"><a href="https://www.bareos.com/frfr/">🔗</a></div> |
+| **Bareos** | AGPL-3.0 | Sauvegarde et restauration | Outil de sauvegarde open source, permettant également de restaurer les données | <div align="center"><a href="https://www.bareos.com/frfr/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
