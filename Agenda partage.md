@@ -15,7 +15,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| OpenLDAP | Open Source | Serveur de calendrier partagé | Implementation de CalDAV sur un serveur partagé distant | <div align="center"><a href="https://www.davical.org/">🔗</a></div> |
+| Davical | GPL | Serveur de calendrier partagé | Implementation de CalDAV sur un serveur partagé distant | <div align="center"><a href="https://www.davical.org/">🔗</a></div> |
 
 
 [🔝 Retour au sommaire](#sommaire)
