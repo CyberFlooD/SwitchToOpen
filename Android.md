@@ -14,7 +14,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **F-Droid** | Open Source | Catalogue d'applications libre | Plateforme pour les applications Android libres et open-source | <div align="center"><a href="https://f-droid.org/fr/">🔗</a></div> |
+| **F-Droid** | AGPL-3.0+ | Catalogue d'applications libre | Plateforme pour les applications Android libres et open-source | <div align="center"><a href="https://f-droid.org/fr/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
