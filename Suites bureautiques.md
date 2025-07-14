@@ -1,9 +1,15 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>💼 Suites bureautiques</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Catégorie-Suites%20bureautiques-9cf?style=for-the-badge&logo=libreoffice"/>
+  <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/last-commit/CyberFlooD/SwitchToOpen?label=Last%20Update&color=informational&style=for-the-badge&logo=github"/>
+</p>
+
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [🖥️ Suites bureautiques complètes](#suites-bureautiques-completes)
@@ -103,5 +109,11 @@
 | **Trilium Notes** | Open Source | Puissant et personnalisable | Outil de prise de notes open source, puissant et personnalisable | <div align="center"><a href="https://github.com/zadam/trilium">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🤝 Contributions
+
+Tu connais un outil open-source oublié ici ? Propose-le via **pull request** ou **issue** 💬
 
 ---
