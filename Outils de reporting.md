@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 | **SysReptor** | Commercial | Rapports de Pentest, modèles intégrés | Outil de rapport de Pentest, avec des modèles intégrés et une grande flexibilité | <div align="center"><a href="https://dudix.tech/sysreptor/">🔗</a></div> |
 | **Dradis** | Open Source | Collaboration en sécurité, reporting | Cadre open source pour la collaboration en sécurité et le reporting de pentest, centralisant les résultats et automatisant les rapports | <div align="center"><a href="https://dradis.com/ce/">🔗</a></div> |
-| **PownDoc** | Open Source | Rapports de Pentest en markdown | Outil open source de génération de rapports de Pentest en markdown avec des modèles personnalisables et une interface simple | <div align="center"><a href="https://github.com/toniblyx/pownboard">🔗</a></div> |
+| **PownDoc** | Open Source | Rapports de Pentest en markdown | Outil open source de génération de rapports de Pentest en markdown avec des modèles personnalisables et une interface simple | <div align="center"><a href="https://github.com/pwndoc/pwndoc">🔗</a></div> |
 | **Faraday** | Open Source | Rapports et gestion de vulnérabilités | Outil open source de génération de rapports et de gestion de vulnérabilités (fonctions limitées, est payant pour les fonctions plus avancées) | <div align="center"><a href="https://github.com/infobyte/faraday">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
