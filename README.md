@@ -52,6 +52,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Gestion des risques et conformité**](/Gestion%20des%20risques%20et%20conformit%C3%A9.md)
 - [**Messagerie et collaboration d'équipe**](/Messagerie%20et%20collaboration%20d'%C3%A9quipe.md)
 - [**Moteurs de recherche**](/Moteurs%20de%20recherche.md)
+- [**Outils de cartographie applicative**](/Outil%20de%20cartographie%20applicative.md)
 - [**Outils ERP et CRM**](/Outils%20ERP%20et%20CRM.md)
 - [**Outils SIEM**](/Outils%20SIEM.md)
 - [**Outils d'analytique et de business intelligence (BI)**](/Outils%20d'analytique%20et%20de%20business%20intelligence%20(BI).md)
