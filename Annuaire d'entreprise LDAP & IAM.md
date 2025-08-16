@@ -26,6 +26,9 @@
 |**389 Directory Server**| GPLv3 | Serveur d'annuaire LDAP | Performant, conçu pour grandes entreprises | <div align="center"><a href="https://directory.fedoraproject.org/">🔗</a></div> |
 |**Apache Directory Server**| GPLv3 + LGPLv2 ou Apache 2.0 pour certains plugins| Serveur d'annuaire LDAP | Interface graphique pour gestion LDAP | <div align="center"><a href="https://directory.apache.org/">🔗</a></div> |
 |**FreeIPA**| GPLv3 | Système de gestion d'identités et d'annuaire LDAP | Gestion des politiques de sécurité | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+|**SamnbaAD** | GPL | implémentation des protcoles SMB et AD pour Linux / Unix |  implémentation des protcoles SMB et AD pour Linux / Unix | <div align="center"><a href="https://www.samba.org/">🔗</a></div> |
+|**LemonLDAP-ng** | GPL 2.0+ | WebSSO modulaire | Gestion centralisée des droits  | <div align="center"><a href="https://lemonldap-ng.org/documentation/latest/">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
