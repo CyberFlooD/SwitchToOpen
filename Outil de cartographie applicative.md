@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Catégorie-LDAP%20%26%20IAM-blueviolet?style=for-the-badge&logo=keycloak"/>
+  <img src="https://img.shields.io/badge/Catégorie-Cartographie-blueviolet?style=for-the-badge&logo=keycloak"/>
   <img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=for-the-badge&logo=opensourceinitiative"/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=github"/>
