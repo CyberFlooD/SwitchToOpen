@@ -67,6 +67,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Supervision**](/Supervision.md)
 - [**Systèmes d'exploitation**](/Syst%C3%A8mes%20d'exploitation.md)
 - [**Systèmes de gestion de contenu (CMS)**](/Syst%C3%A8mes%20de%20gestion%20de%20contenu.md)
+- [**Tromperie sur les menaces**](/Cybers%C3%A9curit%C3%A9/Tromperie%20sur%20les%20menaces.md)
 - [**Virtualisation**](/Virtualisation.md)
 - [**Web Application Firewall (WAF)**](/Web%20Application%20Firewall.md)
 
