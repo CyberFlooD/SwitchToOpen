@@ -54,6 +54,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Moteurs de recherche**](/Moteurs%20de%20recherche.md)
 - [**Outils de cartographie applicative**](/Outil%20de%20cartographie%20applicative.md)
 - [**Outils ERP et CRM**](/Outils%20ERP%20et%20CRM.md)
+- [**Outils de lab d'entrainement**](/Cybers%C3%A9curit%C3%A9/Outils%20de%20lab%20d'entrainement.md)
 - [**Outils SIEM**](/Outils%20SIEM.md)
 - [**Outils d'analytique et de business intelligence (BI)**](/Outils%20d'analytique%20et%20de%20business%20intelligence%20(BI).md)
 - [**Outils DFIR**](Cybers%C3%A9curit%C3%A9/Outils%20DFIR.md)
