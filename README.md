@@ -53,6 +53,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Messagerie et collaboration d'équipe**](/Messagerie%20et%20collaboration%20d'%C3%A9quipe.md)
 - [**Moteurs de recherche**](/Moteurs%20de%20recherche.md)
 - [**Outils de cartographie applicative**](/Outil%20de%20cartographie%20applicative.md)
+- [**Outils de documentation**](/Outils%20de%20documentation.md)
 - [**Outils ERP et CRM**](/Outils%20ERP%20et%20CRM.md)
 - [**Outils de lab d'entrainement**](/Cybers%C3%A9curit%C3%A9/Outils%20de%20lab%20d'entrainement.md)
 - [**Outils SIEM**](/Outils%20SIEM.md)
