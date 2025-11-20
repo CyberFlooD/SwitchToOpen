@@ -27,8 +27,7 @@
 | **Rocket.Chat** | Open Source | Messagerie instantanée | Intégrations variées | <div align="center"><a href="https://rocket.chat/">🔗</a></div> |
 | **Element** | Open Source | Messagerie sécurisée | Basé sur le protocole Matrix | <div align="center"><a href="https://element.io/">🔗</a></div> |
 | **Zulip** | Open Source | Gestion par threads | Messagerie d'équipe | <div align="center"><a href="https://zulip.com/">🔗</a></div> |
-| Davical | GPLv2 | Serveur CalDAV / CardDAV | DAViCal est un serveur open source pour centraliser la gestion des calendriers et contacts selon les standards CalDAV et CardDAV.
-Il est utilisé principalement pour la synchronisation et le partage d’agendas et carnets d’adresses dans des organisations, avec un contrôle fin des accès et des permissions. | <div align="center"><a href="https://www.davical.org/">🔗</a></div> |
+| **Davical** | GPLv2 | Serveur CalDAV / CardDAV | DAViCal est un serveur open source pour centraliser la gestion des calendriers et contacts selon les standards CalDAV et CardDAV. Il est utilisé principalement pour la synchronisation et le partage d’agendas et carnets d’adresses dans des organisations, avec un contrôle fin des accès et des permissions. | <div align="center"><a href="https://www.davical.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
