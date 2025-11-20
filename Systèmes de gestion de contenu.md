@@ -40,7 +40,7 @@
 
 ---
 
-## 🛒 CMS pour e-Commerce <a id="cms-pour-le-e-commerce"></a>
+## 🛒 CMS pour e-Commerce <a id="cms-pour-e-commerce"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
