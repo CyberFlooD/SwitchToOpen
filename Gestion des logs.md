@@ -13,10 +13,9 @@
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📊 Collecte, analyse et gestion centralisée des logs](#collecte-logs)
-2. [🔍 Surveillance des événements et détection d'intrusions (SIEM)](#siem)
-3. [🛠️ Collecte et routage des logs](#collecte-routage)
-4. [📈 Monitoring et visualisation des logs](#monitoring-visualisation)
-5. [🚀 Outils de gestion des logs spécifiques aux environnements conteneurisés](#gestion-logs-conteneurises)
+2. [🛠️ Collecte et routage des logs](#collecte-routage)
+3. [📈 Monitoring et visualisation des logs](#monitoring-visualisation)
+4. [🚀 Outils de gestion des logs spécifiques aux environnements conteneurisés](#gestion-logs-conteneurises)
 
 ---
 
@@ -28,20 +27,6 @@
 | **ELK Stack** | Apache 2.0	 | Gestion complète des logs | L’ELK Stack (Elasticsearch, Logstash, Kibana) est la référence open source pour la collecte, l’analyse et la visualisation de logs, avec une grande flexibilité pour l’ingestion, le stockage et l’exploration de gros volumes de données | <div align="center"><a href="https://www.elastic.co/what-is/elk-stack">🔗</a></div> |
 | **Fluentd** | Apache 2.0	 | Collecteur de logs | Fluentd est un collecteur de logs open source, capable d’agréger, transformer et router les logs vers de multiples destinations, s’intégrant facilement dans des architectures distribuées et cloud natives | <div align="center"><a href="https://www.fluentd.org/">🔗</a></div> |
 | **Loki** | AGPLv3	 | Intégration avec Prometheus | Loki, développé par Grafana, est un système de gestion de logs optimisé pour les environnements cloud-native et Kubernetes, utilisant un index basé sur les labels pour une scalabilité et une efficacité de stockage accrues, avec intégration native à Grafana | <div align="center"><a href="https://grafana.com/oss/loki/">🔗</a></div> |
-
-[🔝 Retour au sommaire](#sommaire)
-
----
-
-## 🔍 Surveillance des événements et détection d'intrusions (SIEM) <a id="siem"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|---|
-| **Wazuh** | 	GPLv2 et Apache 2.0 (selon composant) | SIEM et détection des menaces | Wazuh est une plateforme open source gratuite de SIEM et XDR, combinant analyse de logs, détection d’intrusions, conformité et réponse aux incidents en temps réel. Elle est hautement évolutive, compatible multi-OS et cloud, et dispose d’une large communauté active | <div align="center"><a href="https://wazuh.com/">🔗</a></div> |
-| **OSSIM** | GPLv3 | Gestion des événements de sécurité | OSSIM (Open Source SIEM) d’AlienVault centralise la gestion des événements de sécurité, l’analyse de logs et la détection d’intrusions. Il intègre de nombreux outils open source pour la corrélation, la visualisation et la gestion des alertes | <div align="center"><a href="https://cybersecurity.att.com/products/ossim">🔗</a></div> |
-| **Prelude** | GPLv2	 | Détection d'intrusions | Prelude est un SIEM modulaire open source, spécialisé dans la détection d’intrusions multi-source et la corrélation d’événements. Il se distingue par son interopérabilité et son architecture évolutive adaptée aux environnements complexes | <div align="center"><a href="https://www.prelude-siem.org/">🔗</a></div> |
-| **Security Onion** | GPLv2 | Détection des menaces réseau | Security Onion est une distribution open source dédiée à la détection des menaces réseau, intégrant SIEM, IDS/IPS et outils de forensic. Elle offre une interface complète pour la surveillance, l’analyse et l’investigation des incidents de sécurité | <div align="center"><a href="https://securityonion.net/">🔗</a></div> |
-| **T-Guard** | AGPLv3 | Solution unifiée de sécurité | T-Guard est une solution open source unifiée de sécurité, combinant Wazuh, outils de DFIR et d’analyse réseau, pour une gestion centralisée des alertes et des incidents. Elle vise une intégration poussée et un pilotage simplifié de la sécurité opérationnelle | <div align="center"><a href="https://docs.tguard.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
