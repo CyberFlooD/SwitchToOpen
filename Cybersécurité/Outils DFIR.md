@@ -17,8 +17,11 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🛠️ **Fonctionnalités clés** | 📝 **Description**  | 🌐 **Lien Web** |  
 |---|---|---|---|---|
-| **Velociraptor**     | Affero General Public License | Analyse forensique et détection active des menaces sur les postes clients | outil de surveillance des endpoints, collecte d’artefacts et réponse aux incidents en temps réel                 | <div align="center"><a href="https://docs.velociraptor.app/docs/overview/">🔗</a></div>     |
-| **Autopsy**      |Apache License 2.0 (open source) | Outil graphique d'analyse forensique | plateforme open source d’investigation numérique qui permet l’analyse de disques, la recherche par mots clés, l’extraction de texte et la visualisation de fichiers dans le cadre d’enquêtes judiciaires. | <div align="center"><a href="https://github.com/sleuthkit/autopsy">🔗</a></div>     |
+| **TheHive** | AGPLv3 | Suite DFIR complète | Plateforme de gestion d’incidents, collaboration IR, suivi des cas. | <div align="center"><a href="https://thehive-project.org/">🔗</a></div> |
+| **DFIR-IRIS** | GPLv3 | Gestion complète d’incidents | Plateforme collaborative de gestion d’incidents, timeline, IOCs, workflow. | <div align="center"><a href="https://dfir-iris.org/">🔗</a></div> |
+| **GRR Rapid Response** | Apache 2.0 | Collecte & forensic à grande échelle | Framework Google pour investigation distante et analyse profonde des postes. | <div align="center"><a href="https://github.com/google/grr">🔗</a></div> |
+| **Velociraptor** | GPLv3 | Analyse forensique et détection active des menaces sur les postes clients | outil de surveillance des endpoints, collecte d’artefacts et réponse aux incidents en temps réel | <div align="center"><a href="https://docs.velociraptor.app/docs/overview/">🔗</a></div>     |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
