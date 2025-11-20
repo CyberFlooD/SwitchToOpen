@@ -14,7 +14,6 @@
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📂 Serveurs d'annuaires LDAP](#serveurs-ldap)
 2. [🔐 Plateformes de gestion d'identités (IAM)](#gestion-identités)
-3. [📂 Contrôleur de domaine](#domain-controller)
 
 ---
 
@@ -27,7 +26,7 @@
 |**389 Directory Server**| GPLv3 | Serveur d'annuaire LDAP | Performant, conçu pour grandes entreprises | <div align="center"><a href="https://directory.fedoraproject.org/">🔗</a></div> |
 |**Apache Directory Server**| GPLv3 + LGPLv2 ou Apache 2.0 pour certains plugins| Serveur d'annuaire LDAP | Interface graphique pour gestion LDAP | <div align="center"><a href="https://directory.apache.org/">🔗</a></div> |
 |**FreeIPA**| GPLv3 | Système de gestion d'identités et d'annuaire LDAP | Gestion des politiques de sécurité | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
-|**SamnbaAD** | GPL | implémentation des protcoles SMB et AD pour Linux / Unix |  implémentation des protcoles SMB et AD pour Linux / Unix | <div align="center"><a href="https://www.samba.org/">🔗</a></div> |
+|**SambaAD** | GPLv3 | Implémentation Open Source d’un contrôleur de domaine |  C’est l’alternative libre la plus aboutie à un contrôleur de domaine Microsoft, souvent utilisée dans les environnements mixtes Linux/Windows ou pour remplacer un DC Windows dans des petites/moyennes structures. | <div align="center"><a href="https://www.samba.org/">🔗</a></div> |
 |**LemonLDAP-ng** | GPL 2.0+ | WebSSO modulaire | Gestion centralisée des droits  | <div align="center"><a href="https://lemonldap-ng.org/documentation/latest/">🔗</a></div> |
 
 
@@ -46,14 +45,6 @@
 | **LemonLDAP::NG** | GPL | IAM, Authentification, Autorisation | Fédération d'identités | <div align="center"><a href="https://lemonldap-ng.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
-
----
-
-## 📂 Contrôleur de domaine <a id="domain-controller"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|---|
-| **Samba4-AD** | GPLv3 | Contrôleur de domaine | Contrôleur de domaine de type Active Dirctory sous Linux, adminstrable avec les outils RSAT | <div align="center"><a href="https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller">🔗</a></div> |
 
 ---
 
