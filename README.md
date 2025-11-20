@@ -33,12 +33,12 @@ Ce dépôt a vocation à devenir un référentiel central pour tous ceux qui sou
 
 ##
 
-Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline pour afficher la table des matières :
+Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline pour afficher le Sommaire :
 
 <img src="./outline-tip.png" alt="drawing" width="360" style="display: block;margin-left: auto;margin-right: auto;"/>
 
 
-## Inventaire
+## Sommaire
 - [**Annuaire d'entreprise**](/Annuaire%20d'entreprise%20LDAP%20&%20IAM.md)
 - [**Antivirus**](/Antivirus.md)
 - [**Cybersécurité**](/Cybersécurité.md)
