@@ -30,6 +30,7 @@
 | PmWiki | GPLv2 | Léger, simple, extensible | Un wiki orienté simplicité, avec un système de skins et d’extensions permettant de l’adapter à différents usages. | <div align="center"><a href="https://www.pmwiki.org/">🔗</a></div> |
 | Outline | BSD | Équipe, moderne, Slack & SSO | Knowledge base moderne et collaborative pour les entreprises. | <div align="center"><a href="https://www.getoutline.com/">🔗</a></div> |
 | TWiki | GPLv1 | Enterprise wiki, extensible | Wiki orienté entreprise avec gestion fine des permissions et modules. | <div align="center"><a href="https://twiki.org/">🔗</a></div> |
+| **AppFlowy** | AGPLv3 | Alternative open source à Notion | AppFlowy est un espace de travail open source inspiré de Notion. Contrairement à son équivalent propriétaire, AppFlowy met l’accent sur la souveraineté des données, le local-first et la transparence grâce à son code entièrement ouvert. | <div align="center"><a href="https://github.com/AppFlowy-IO/appflowy">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
