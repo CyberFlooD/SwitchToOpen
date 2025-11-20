@@ -14,6 +14,7 @@
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [📂 Serveurs d'annuaires LDAP](#serveurs-ldap)
 2. [🔐 Plateformes de gestion d'identités (IAM)](#gestion-identités)
+3. [📂 Contrôleur de domaine](#domain-controller)
 
 ---
 
@@ -26,6 +27,9 @@
 |**389 Directory Server**| GPLv3 | Serveur d'annuaire LDAP | Performant, conçu pour grandes entreprises | <div align="center"><a href="https://directory.fedoraproject.org/">🔗</a></div> |
 |**Apache Directory Server**| GPLv3 + LGPLv2 ou Apache 2.0 pour certains plugins| Serveur d'annuaire LDAP | Interface graphique pour gestion LDAP | <div align="center"><a href="https://directory.apache.org/">🔗</a></div> |
 |**FreeIPA**| GPLv3 | Système de gestion d'identités et d'annuaire LDAP | Gestion des politiques de sécurité | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
+|**SamnbaAD** | GPL | implémentation des protcoles SMB et AD pour Linux / Unix |  implémentation des protcoles SMB et AD pour Linux / Unix | <div align="center"><a href="https://www.samba.org/">🔗</a></div> |
+|**LemonLDAP-ng** | GPL 2.0+ | WebSSO modulaire | Gestion centralisée des droits  | <div align="center"><a href="https://lemonldap-ng.org/documentation/latest/">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -39,8 +43,17 @@
 |**Gluu**| MIT | IAM, Authentification, Autorisation | Plateforme IAM open source avec SSO, MFA, gestion centralisée des identités, supporte OAuth2, OpenID Connect, SAML, SCIM. Plus gourmande en ressources que Keycloak.	 | <div align="center"><a href="https://www.gluu.org/">🔗</a></div> |
 |**FreeIPA**| GPLv3 | Gestion centralisée des identités LDAP/Kerberos, gestion des hôtes, certificats	 | Solution IAM complète orientée Linux, intégrant LDAP, Kerberos, CA, gestion des politiques de sécurité, avec console web et CLI. | <div align="center"><a href="https://www.freeipa.org/">🔗</a></div> |
 |**Authelia**| Apache 2.0 | Compagnon des reverse proxies (nginx, Traefik, HAProxy...) | Authelia est un serveur open-source d’authentification et d’autorisation qui joue le rôle de portail d’authentification unique (SSO) et de gestion des accès (IAM) pour les applications web. Il s’intègre principalement comme un compagnon des reverse proxies (nginx, Traefik, HAProxy, etc.) et permet de protéger l’accès à vos services web en appliquant des politiques d’accès fines et en imposant l’authentification à un ou deux facteurs selon vos besoins | <div align="center"><a href="https://github.com/authelia/authelia">🔗</a></div> |
+| **LemonLDAP::NG** | GPL | IAM, Authentification, Autorisation | Fédération d'identités | <div align="center"><a href="https://lemonldap-ng.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 📂 Contrôleur de domaine <a id="domain-controller"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Samba4-AD** | GPLv3 | Contrôleur de domaine | Contrôleur de domaine de type Active Dirctory sous Linux, adminstrable avec les outils RSAT | <div align="center"><a href="https://wiki.samba.org/index.php/Setting_up_Samba_as_an_Active_Directory_Domain_Controller">🔗</a></div> |
 
 ---
 

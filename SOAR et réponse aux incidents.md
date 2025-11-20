@@ -22,7 +22,9 @@
 | **DFIR-IRIS** | GPLv3 | Investigation, forensic, timelines | Plateforme d’analyse post-incident, enrichissement de cas, génération de timelines, IR playbooks | <div align="center"><a href="https://dfir-iris.org/">🔗</a></div> |
 | **Fast Incident Response (FIR)** | GPLv3 | Ticketing et investigation d'incidents | Suivi d’incidents et de campagnes, adapté aux CERTs, avec intégration d’enrichissement IOC | <div align="center"><a href="https://github.com/certsocietegenerale/FIR">🔗</a></div> |
 | **IntelMQ** | GPLv3 | Traitement automatisé des flux CTI | Framework pour collecter, normaliser, enrichir et router automatiquement les alertes CTI | <div align="center"><a href="https://github.com/certtools/intelmq">🔗</a></div> |
-| **DFIRTrack** | MIT | Documentation post-incident | Base de données pour consigner les éléments d’incidents, systèmes affectés, timelines | <div align="center"><a href="https://github.com/dfirtrack/dfirtrack">🔗</a></div> |
+| **DFIRTrack** | MIT | Documentation post-incident | Base de données pour consigner les éléments d’incidents, systèmes affectés, timelines | <div align="center"><a href="https://github.com/dfirtrack/dfirtrack">🔗</a>
+| **Kanvas** | GPL 3.0 | Documentation de réponse aux incidents | outil de gestion des incidents (IR) doté d'une interface intuitive, développé en Python. Espace de travail unifié aux enquêteurs travaillant avec des tableurs SOD (Spreadsheet of Doom) ou similaires, leur permettant de réaliser des tâches clés sans avoir à jongler entre plusieurs applications. | <div align="center"><a href="https://github.com/WithSecureLabs/Kanvas">🔗</a> |
+</div> |
 
 ---
 

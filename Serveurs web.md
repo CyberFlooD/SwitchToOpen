@@ -20,6 +20,8 @@
 6. [🗄️ Serveurs de cache web](#serveurs-cache-web)
 7. [📄 Serveurs web légers pour des sites statiques](#serveurs-web-legers)
 8. [🛠️ Outils de gestion de serveurs web](#outils-gestion-serveurs-web)
+9. [🖼️ Dashboard](#dashboard)
+10. [ Outils de signature électronique](#outils-signature-electronique)
 
 ---
 
@@ -71,6 +73,7 @@
 | **Nginx** | Open Source | Polyvalent | Utilisé non seulement comme serveur HTTP, mais aussi comme proxy inverse et équilibrage de charge | <div align="center"><a href="https://www.nginx.com/">🔗</a></div> |
 | **Traefik** | Open Source | Microservices | Serveur open source de proxy inverse et d'équilibrage de charge spécialement conçu pour les environnements microservices et conteneurs | <div align="center"><a href="https://traefik.io/">🔗</a></div> |
 | **Varnish** | Open Source | Cache HTTP | Serveur de cache HTTP et proxy inverse conçu pour accélérer les sites web très fréquentés | <div align="center"><a href="https://varnish-cache.org/">🔗</a></div> |
+| **Nginx Proxy Manager** | Open Source | Reverse-Proxy | Exposition des services interne avec du SSL, auto-hébergé sur Docker | <div align="center"><a href="https://nginxproxymanager.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -109,6 +112,9 @@
 | **Jekyll** | Open Source | Statique, GitHub Pages | Outil open source pour la création de sites web statiques, souvent utilisé avec GitHub Pages | <div align="center"><a href="https://jekyllrb.com/">🔗</a></div> |
 | **Pelican** | Open Source | Python, statique | Générateur de sites statiques en Python, adapté aux blogs et aux documentations | <div align="center"><a href="https://blog.getpelican.com/">🔗</a></div> |
 | **Caddy** | Open Source | HTTPS automatique | Serveur web qui gère nativement les sites statiques avec HTTPS automatique | <div align="center"><a href="https://caddyserver.com/">🔗</a></div> |
+| **Docusaurus** | Open Source | Optimisé | Créer des sites, pour de la documentation, rapidement et interactivement | <div align="center"><a href="https://docusaurus.io/">🔗</a></div> |
+| **MkDocs** | Open Source | Simple, rapide | Créer des documentations en Markdown et YAML | <div align="center"><a href="https://www.mkdocs.org/">🔗</a></div> |
+| **Sphinx** | Open Source | Simple, rapide | Générateur de sites statiques en Python pour de la documentation | <div align="center"><a href="https://www.sphinx-doc.org/en/master/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
@@ -121,6 +127,31 @@
 | **Webmin** | Open Source | Gestion web | Interface web open source pour la gestion des serveurs Linux/Unix, avec gestion des serveurs web et des services | <div align="center"><a href="http://www.webmin.com/">🔗</a></div> |
 | **ISPConfig** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs web, DNS, bases de données et FTP | <div align="center"><a href="https://www.ispconfig.org/">🔗</a></div> |
 | **Ajenti** | Open Source | Panneau de contrôle | Panneau de contrôle open source pour la gestion des serveurs web et des applications | <div align="center"><a href="https://ajenti.org/">🔗</a></div> |
+| **Stork** | Open Source | Gestion multi-serveurs | Interface web open source pour gérer plusieurs serveurs DNS et DHCP | <div align="center"><a href="https://www.isc.org/stork/">🔗</a></div> |
+| **phpLDAPadmin** | Open Source | Gestion web | Interface web open source pour la gestion des serveurs LDAP | <div align="center"><a href="https://sourceforge.net/projects/phpldapadmin/">🔗</a></div> |
+| **Self Service Password** | Open Source | Gestion web | Interface web open source pour permettre à un utilisateur de changer son mot de passe sur un serveur LDAP | <div align="center"><a href="https://github.com/ltb-project/self-service-password">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 🖼️ Dashboard <a id="dashboard"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Homepage** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://gethomepage.dev/">🔗</a></div> |
+| **Homer** | Open Source | Dashboard d'applications | Créer une page web avec les applications du SI depuis un fichier YAML | <div align="center"><a href="https://github.com/bastienwirtz/homer">🔗</a></div> |
+| **Dashy** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://dashy.to/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## ✍️ Outils de signature électronique <a id="outils-signature-electronique"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Docuseal** | Open Source | Signature électronique | Plateforme auto-hébergée pour créer, envoyer et signer des documents | <div align="center"><a href="https://www.docuseal.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
