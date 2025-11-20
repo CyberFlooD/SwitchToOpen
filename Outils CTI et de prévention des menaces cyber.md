@@ -39,7 +39,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Intelligence IPv4 Blocklist** | CC BY-NC 4.0 | Intelligence IPv4 Blocklist par Duggy Tuxy | La Liste d'adresses IP malveillantes (IPv4): Botnets, RaT, CVE, CVE, Scanners, à integrer dans les FW ou workflows CTI| <div align="center"><a href="https://github.com/duggytuxy/Intelligence_IPv4_Blocklist/tree/main">🔗</a></div> |
+| **Data-Shield IPv4 Blocklist** | GPLv3 | Data-Shield IPv4 Blocklist par Duggy Tuxy | Data-Shield IPv4 Blocklist est une couche de protection supplémentaire contenant une liste d'adresses IP (version 4) dont les activités ont été détectées comme malveillantes.| <div align="center"><a href="https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist">🔗</a></div> <div align="center"><a href="https://gitea.com/duggytuxy/Data-Shield_IPv4_Blocklist">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
