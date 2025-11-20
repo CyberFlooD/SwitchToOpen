@@ -42,7 +42,6 @@
 | **VirtualBox (édition open source)** | Open source | Création et exécution de machines virtuelles | Permet de créer et exécuter des machines virtuelles sur des systèmes d'exploitation hôtes | <div align="center"><a href="https://www.virtualbox.org/">🔗</a></div> |
 | **GNOME Boxes** | Open source | Gestion des machines virtuelles | Interface simple pour la gestion des machines virtuelles, utilisant libvirt et KVM sous Linux | <div align="center"><a href="https://wiki.gnome.org/Apps/Boxes">🔗</a></div> |
 | **QEMU** | Open source | Émulation de différentes architectures | Émulateur permettant de virtualiser des systèmes d'exploitation ou d'émuler différentes architectures matérielles | <div align="center"><a href="https://www.qemu.org/">🔗</a></div> |
-| **VMware Player (version gratuite)** | Propriétaire | Exécution des machines virtuelles | Version gratuite de VMware pour exécuter des machines virtuelles | <div align="center"><a href="https://www.vmware.com/products/workstation-player.html">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
