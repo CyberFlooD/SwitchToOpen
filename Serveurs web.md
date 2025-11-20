@@ -21,7 +21,6 @@
 7. [📄 Serveurs web légers pour des sites statiques](#serveurs-web-legers)
 8. [🛠️ Outils de gestion de serveurs web](#outils-gestion-serveurs-web)
 9. [🖼️ Dashboard](#dashboard)
-10. [ Outils de signature électronique](#outils-signature-electronique)
 
 ---
 
@@ -142,16 +141,6 @@
 | **Homepage** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://gethomepage.dev/">🔗</a></div> |
 | **Homer** | Open Source | Dashboard d'applications | Créer une page web avec les applications du SI depuis un fichier YAML | <div align="center"><a href="https://github.com/bastienwirtz/homer">🔗</a></div> |
 | **Dashy** | Open Source | Dashboard d'applications | Interface web open source pour pour centraliser l'accès aux différentes ressources du SI | <div align="center"><a href="https://dashy.to/">🔗</a></div> |
-
-[🔝 Retour au sommaire](#sommaire)
-
----
-
-## ✍️ Outils de signature électronique <a id="outils-signature-electronique"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|---|
-| **Docuseal** | Open Source | Signature électronique | Plateforme auto-hébergée pour créer, envoyer et signer des documents | <div align="center"><a href="https://www.docuseal.com/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
