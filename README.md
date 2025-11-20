@@ -39,7 +39,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 
 
 ## Inventaire
-- [**Annuaire d'entreprise**](/Annuaire%20d'entreprise.md)
+- [**Annuaire d'entreprise**](/Annuaire%20d'entreprise%20LDAP%20&%20IAM.md)
 - [**Antivirus**](/Antivirus.md)
 - [**Cybersécurité**](/Cybersécurité.md)
 - [**Design graphique et multimédia**](/Design%20graphique%20et%20multim%C3%A9dia.md)
