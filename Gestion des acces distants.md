@@ -27,6 +27,7 @@
 | **OpenSSH** | BSD | Contrôle et gestion des connexions SSH | Suite d’outils open source de référence pour l’accès SSH, elle propose le proxy SSH, le contrôle d’accès et la journalisation, largement utilisée pour bâtir des bastions personnalisés | <div align="center"><a href="https://www.openssh.com/">🔗</a></div> |
 | **Bastillion** | Apache 2.0	 | Interface web pour SSH | Bastillion fournit une interface web centralisée pour gérer les connexions SSH, les clés et les sessions, simplifiant l’administration des accès à distance | <div align="center"><a href="http://www.bastillion.io/">🔗</a></div> |
 | **SSOwat** | AGPLv3 | Proxy d'authentification unique | SSOwat est un proxy d’authentification unique (SSO) pour YunoHost, permettant de sécuriser et centraliser les accès SSH via une interface web et le contrôle des droits | <div align="center"><a href="https://github.com/YunoHost/SSOwat">🔗</a></div> |
+| **Warpgate** | Apache 2.0 | Bastion SSH, HTTPS, MySQL et Postgres | Warpgate est un bastion zero-trust open source permettant de sécuriser et contrôler l’accès aux ressources critiques : serveurs SSH, clusters Kubernetes, bases Postgres ou postes RDP. | <div align="center"><a href="https://github.com/warp-tech/warpgate">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
