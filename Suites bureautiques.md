@@ -107,6 +107,7 @@
 | **Zim Wiki** | Open Source | Organisation en wiki | Bloc-notes open source pour organiser les notes sous forme de wiki | <div align="center"><a href="https://zim-wiki.org/">🔗</a></div> |
 | **Standard Notes** | Open Source | Sécurisé et chiffré | Outil de prise de notes sécurisé et chiffré, avec des extensions pour des fonctionnalités supplémentaires | <div align="center"><a href="https://standardnotes.org/">🔗</a></div> |
 | **Trilium Notes** | Open Source | Puissant et personnalisable | Outil de prise de notes open source, puissant et personnalisable | <div align="center"><a href="https://github.com/zadam/trilium">🔗</a></div> |
+| **AppFlowy** | AGPLv3 | Alternative open source à Notion | AppFlowy est un espace de travail open source inspiré de Notion. Contrairement à son équivalent propriétaire, AppFlowy met l’accent sur la souveraineté des données, le local-first et la transparence grâce à son code entièrement ouvert. | <div align="center"><a href="https://github.com/AppFlowy-IO/appflowy">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
