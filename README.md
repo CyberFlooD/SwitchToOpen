@@ -51,7 +51,6 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Gestion des logs**](/Gestion%20des%20logs.md)
 - [**Gestion des mots de passe**](/Gestion%20des%20mots%20de%20passe%20et%20secrets.md)
 - [**Gestion des risques et conformité**](/Gestion%20des%20risques%20et%20conformit%C3%A9.md)
-- [**Moteurs de recherche**](/Moteurs%20de%20recherche.md)
 - [**Outils de cartographie applicative**](/Outil%20de%20cartographie%20applicative.md)
 - [**Outils de collaboration d'équipe**](/Outils%20de%20collaboration%20d'%C3%A9quipe.md)
 - [**Outils d'inventaire**](/Outils%20d'inventaire.md)
