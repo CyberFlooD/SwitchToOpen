@@ -41,6 +41,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 ## Inventaire
 - [**Annuaire d'entreprise**](/Annuaire%20d'entreprise.md)
 - [**Antivirus**](/Antivirus.md)
+- [**Cybersécurité**](/Cybersécurité.md)
 - [**Design graphique et multimédia**](/Design%20graphique%20et%20multim%C3%A9dia.md)
 - [**Développement et d'intégration continue**](/D%C3%A9veloppement%20et%20d'int%C3%A9gration%20continue.md)
 - [**Gestion de base de données**](/Gestion%20de%20base%20de%20donn%C3%A9es.md)
