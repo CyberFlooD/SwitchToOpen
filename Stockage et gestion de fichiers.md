@@ -15,8 +15,7 @@
 1. [💾 Stockage et synchronisation de fichiers](#stockage-synchronisation)
 2. [🔐 Outils open source pour le partage sécurisé de fichiers](#outils-partage-securise)
 3. [🌐 Systèmes de fichiers distribués](#systemes-fichiers-distribues)
-4. [🛠️ Sauvegarde et récupération de données](#sauvegarde-recuperation)
-5. [🔒 Chiffrement de fichiers et protection des données](#chiffrement-protection)
+4. [🔒 Chiffrement de fichiers et protection des données](#chiffrement-protection)
 
 ---
 
@@ -62,19 +61,6 @@
 | **GlusterFS** | Open Source | Haute disponibilité | Système de fichiers distribué open source pour un stockage haute disponibilité | <div align="center"><a href="https://www.gluster.org/">🔗</a></div> |
 | **SeaweedFS** | Open Source | Grande échelle | Système de fichiers distribué pour des stockages de grande échelle | <div align="center"><a href="https://github.com/chrislusf/seaweedfs">🔗</a></div> |
 | **IPFS** | Open Source | Décentralisé, distribué | InterPlanetary File System – un système de fichiers distribué et décentralisé | <div align="center"><a href="https://ipfs.io/">🔗</a></div> |
-
-[🔝 Retour au sommaire](#sommaire)
-
----
-
-## 🛠️ Sauvegarde et récupération de données <a id="sauvegarde-recuperation"></a>
-
-| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
-|---|---|---|---|---|
-| **Bacula** | Open Source | Serveurs, postes de travail, cloud | Solution de sauvegarde open source pour les serveurs, postes de travail et cloud | <div align="center"><a href="https://www.bacula.org/">🔗</a></div> |
-| **Restic** | Open Source | Rapide, sécurisé | Outil de sauvegarde rapide, sécurisé et open source | <div align="center"><a href="https://restic.net/">🔗</a></div> |
-| **Duplicity** | Open Source | Sauvegarde chiffrée, incrémentielle | Sauvegarde chiffrée et incrémentielle pour le stockage à distance | <div align="center"><a href="http://duplicity.nongnu.org/">🔗</a></div> |
-| **BorgBackup** | Open Source | Déduplication, sécurisé | Solution de sauvegarde dédupliquée, sécurisée et efficace | <div align="center"><a href="https://www.borgbackup.org/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
