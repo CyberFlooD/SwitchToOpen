@@ -27,7 +27,7 @@
 13. [📧 Outils de protection des emails](#protection-emails)
 14. [🕵️ Création de honeypots](#honeypots)
 15. [💻 Renseignement sur les menaces (CTI)](#cti)
-16. [🚨 Liste d’IP malveillantes](#blockliste)
+16. [🚨 Liste d’IP malveillantes](#blocklist)
 17. [📋 Hygiène informatique](#hygiene)
 
 ---
