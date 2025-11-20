@@ -11,11 +11,11 @@
 </p>
 
 ## Sommaire 📖 <a id="sommaire"></a>
-1. [🛡️ Outils open source et gratuits d'antivirus et de détection de malwares](#outils-gratuits)
+1. [🛡️ Les Antivirus](#antivirus)
 
 ---
 
-## 🛡️ Outils open source et gratuits d'antivirus et de détection de malwares <a id="outils-gratuits"></a>
+## 🛡️ Les Antivirus <a id="antivirus"></a>
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
