@@ -45,7 +45,7 @@ Pour naviguer chacune des pages plus confortablement, cliquer l'icône outline p
 - [**Design graphique et multimédia**](/Design%20graphique%20et%20multim%C3%A9dia.md)
 - [**Développement et d'intégration continue**](/D%C3%A9veloppement%20et%20d'int%C3%A9gration%20continue.md)
 - [**Gestion de base de données**](/Gestion%20de%20base%20de%20donn%C3%A9es.md)
-- [**Gestion de logiciels de signatures électroniques**](/Gestion%20de%20signatures%20%C3%A9lectroniques.md)
+- [**Gestion de signatures électroniques**](/Gestion%20de%20signatures%20%C3%A9lectroniques.md)
 - [**Gestion de projet**](/Gestion%20de%20projet.md)
 - [**Gestion des acces distants**](/Gestion%20des%20acces%20distants.md)
 - [**Gestion des logs**](/Gestion%20des%20logs.md)
