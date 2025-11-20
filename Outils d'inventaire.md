@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>☑ Inventaire</h1>
-  <img src="img/switchtoopen1.png" alt="Description de l'image" width="150" height="150">
+  <h1>📑 Inventaire</h1>
 </div>
 
 ---
