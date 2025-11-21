@@ -13,9 +13,10 @@
 
 ## Sommaire 📖 <a id="sommaire"></a>
 1. [💬 Messageries d'équipe et collaboration](#echanges-collaboratif)
-2. [📧 Serveurs de messagerie (e-mails)](#serveurs-email)
-3. [📹 Outils de visioconférence](#visioconference)
-4. [💻 Serveurs de chat auto-hébergés](#chat-autoheberge)
+2. [💻 Serveurs de Groupeware](#groupeware)
+3. [📧 Serveurs de messagerie (e-mails)](#serveurs-email)
+4. [📹 Outils de visioconférence](#visioconference)
+5. [💻 Serveurs de chat auto-hébergés](#chat-autoheberge)
 
 ---
 
@@ -28,6 +29,18 @@
 | **Element** | Open Source | Messagerie sécurisée | Basé sur le protocole Matrix | <div align="center"><a href="https://element.io/">🔗</a></div> |
 | **Zulip** | Open Source | Gestion par threads | Messagerie d'équipe | <div align="center"><a href="https://zulip.com/">🔗</a></div> |
 | **Davical** | GPLv2 | Serveur CalDAV / CardDAV | DAViCal est un serveur open source pour centraliser la gestion des calendriers et contacts selon les standards CalDAV et CardDAV. Il est utilisé principalement pour la synchronisation et le partage d’agendas et carnets d’adresses dans des organisations, avec un contrôle fin des accès et des permissions. | <div align="center"><a href="https://www.davical.org/">🔗</a></div> |
+
+[🔝 Retour au sommaire](#sommaire)
+
+---
+
+## 📧 Serveurs de Groupeware <a id="groupeware"></a>
+
+| 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
+|---|---|---|---|---|
+| **Tiki Wiki (Tiki Wiki CMS Groupware)** | LGPL | CMS + Wiki + Groupware ultra-complet | Suite tout-en-un combinant CMS, Wiki, gestion documentaire, forums, formulaires, blogs, calendriers, gestion de fichiers, permissions avancées, workflows et plus de 500 fonctionnalités activables/désactivables. Très puissant pour les intranets, communautés, documentations ou knowledge centers. | <div align="center"><a href="https://tiki.org/">🔗</a></div> |
+| **HumHub** | AGPL |Réseau social d’entreprise / Intranet collaboratif | Plateforme sociale modulable pour créer un intranet moderne avec flux d’activité, espaces de travail, groupes, fichiers, modules, chat, notifications et marketplace. | <div align="center"><a href="https://www.humhub.com/">🔗</a></div> |
+| **Elgg** | GPLv2 | Réseau social | Très modulaire, permet de créer un réseau social d’entreprise avec groupes, blogs, fichiers, discussions, plugins. | <div align="center"><a href="https://elgg.org//">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
