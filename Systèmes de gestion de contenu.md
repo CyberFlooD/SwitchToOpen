@@ -74,6 +74,8 @@
 | **Hugo** | Apache 2.0 | Générateur de sites statiques rapide | Générateur de sites statiques open source rapide, idéal pour les blogs | <div align="center"><a href="https://gohugo.io/">🔗</a></div> |
 | **Jekyll** | MIT | Sites statiques, Markdown | CMS statique utilisé par GitHub Pages. | <div align="center"><a href="https://jekyllrb.com/">🔗</a></div> |
 | **Bludit** | MIT | Léger et facile à utiliser | CMS open source basé sur fichiers, rapide à déployer, idéal pour blogs ou sites simples, sans base de données. | <div align="center"><a href="https://www.bludit.com/">🔗</a></div> |
+| **299Ko** | MIT | CMS ultra-léger, sans base de données | 299Ko est un CMS français, léger et rapide. Inspiré du CMS 99ko, il conserve une philosophie axée sur la simplicité et la facilité d'utilisation. | <div align="center"><a href="https://299ko.ovh/">🔗</a></div> |
+
 
 [🔝 Retour au sommaire](#sommaire)
 
