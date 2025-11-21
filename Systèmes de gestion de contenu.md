@@ -75,6 +75,8 @@
 | **Jekyll** | MIT | Sites statiques, Markdown | CMS statique utilisé par GitHub Pages. | <div align="center"><a href="https://jekyllrb.com/">🔗</a></div> |
 | **Bludit** | MIT | Léger et facile à utiliser | CMS open source basé sur fichiers, rapide à déployer, idéal pour blogs ou sites simples, sans base de données. | <div align="center"><a href="https://www.bludit.com/">🔗</a></div> |
 | **299Ko** | MIT | CMS ultra-léger, sans base de données | 299Ko est un CMS français, léger et rapide. Inspiré du CMS 99ko, il conserve une philosophie axée sur la simplicité et la facilité d'utilisation. | <div align="center"><a href="https://299ko.ovh/">🔗</a></div> |
+| **ZwiiCMS** | GPLv3 | CMS léger, sans base de données | CMS français “flat-file” orienté simplicité, idéal pour créer rapidement un site vitrine ou associatif. Entièrement administrable via une interface intuitive, sans SQL. Intègre gestion de pages, thèmes, formulaires, utilisateurs, modules basiques et éditeur visuel. | <div align="center"><a href="https://zwiicms.fr/">🔗</a></div> |
+
 
 
 [🔝 Retour au sommaire](#sommaire)
