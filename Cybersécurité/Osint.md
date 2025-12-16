@@ -42,6 +42,7 @@
 - **[Dehashed](https://www.dehashed.com/)** : Moteur de recherche pour les bases de données piratées ou compromises, permettant de vérifier si des comptes ou mots de passe ont été exposés.
 - **[Have I Been Pwned](https://haveibeenpwned.com/)** : Service en ligne permettant de vérifier si une adresse e-mail ou un nom d'utilisateur a été impliqué dans une fuite de données.
 - **[Holehe](https://github.com/megadose/holehe)** : Outil permettant de vérifier si un e-mail est utilisé pour s'inscrire à différents services en ligne (utile pour le credential stuffing).
+- **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** : Free Infostealer Intelligence Toolset
 - **[LeakLooker](https://github.com/woj-ciech/LeakLooker)** : Outil de recherche pour découvrir des bases de données mal configurées ou exposées (Elasticsearch, MongoDB, etc.).
 
 ## OSINT sur l'historique web et les métadonnées
