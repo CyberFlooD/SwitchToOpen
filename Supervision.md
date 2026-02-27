@@ -63,7 +63,7 @@
 
 | 🌟 **Outil** | 🔑 **Type de licence** | 🚀 **Fonctionnalités clés** | 📝 **Description** | 🌐 **Lien Web** |
 |---|---|---|---|---|
-| **Yacht** | Open Source | Monitoring en temps réel, visualisations | Outil de monitoring pour les conteneurs Docker | <div align="center"><a href="https://yacht.sh/">🔗</a></div> |
+| **Yacht** | Open Source | Monitoring en temps réel, visualisations | Outil de monitoring pour les conteneurs Docker | <div align="center"><a href="https://dev.yacht.sh/">🔗</a></div> |
 
 [🔝 Retour au sommaire](#sommaire)
 
