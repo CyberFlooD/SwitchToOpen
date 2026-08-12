@@ -27,6 +27,7 @@
 |---|---|---|---|---|
 | **GIMP** | GPL-3.0-only | Édition d'images et retouche photo | Alternative à Photoshop pour l'édition d'images et la retouche photo | <div align="center"><a href="https://www.gimp.org/">🔗</a></div> |
 | **Inkscape** | GPLv3 | Conception graphique vectorielle | Alternative à Illustrator pour la conception graphique vectorielle | <div align="center"><a href="https://inkscape.org/">🔗</a></div> |
+| **ItsPaint** | MIT | Édition d'images et annotation de captures d'écran | Application native macOS de dessin et de retouche rapide, alternative légère à Paint et Skitch | <div align="center"><a href="https://github.com/joshlin2201/itspaint">🔗</a></div> |
 | **Krita** | GPLv3 | Dessin numérique et peinture | Outil open source pour le dessin numérique et la peinture | <div align="center"><a href="https://krita.org/">🔗</a></div> |
 | **Pencil2D** | GPLv2 | Animation 2D | Logiciel d'animation 2D simple et léger | <div align="center"><a href="https://www.pencil2d.org/">🔗</a></div> |
 
