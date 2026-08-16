@@ -14,7 +14,7 @@
 ## Collecte d'informations sur les domaines
 - **[whois](https://www.whois.com/)** : Outil permettant de récupérer des informations sur un domaine (propriétaire, registrar, dates d'enregistrement, etc.).
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)** : Outil open source de collecte de sous-domaines utilisant des sources publiques comme Google, DNSdumpster, et Virustotal.
-- **[Amass](https://github.com/OWASP/Amass)** : Framework open source pour la découverte de sous-domaines, la cartographie réseau et la collecte d'informations sur une infrastructure cible.
+- **[Amass](https://github.com/owasp-amass/amass)** : Framework open source pour la découverte de sous-domaines, la cartographie réseau et la collecte d'informations sur une infrastructure cible.
 - **[DNSRecon](https://github.com/darkoperator/dnsrecon)** : Outil de reconnaissance DNS qui collecte des informations DNS sur une cible, y compris les enregistrements de zones DNS.
 - **[MassDNS](https://github.com/blechschmidt/massdns)** : Outil de résolution DNS rapide pour découvrir des sous-domaines ou d'autres informations à partir de l'infrastructure DNS.
 - **[WebCheck](https://web-check.xyz/)** : Outil complet donnant une analyse détaillée sur un nom de domaine
@@ -37,6 +37,7 @@
 - **[Sherlock](https://github.com/sherlock-project/sherlock)** : Outil de reconnaissance qui permet de rechercher des pseudonymes d'utilisateurs sur plusieurs plateformes sociales (Twitter, Instagram, etc.).
 - **[Twint](https://github.com/twintproject/twint)** : Outil open source permettant de collecter des informations sur des comptes Twitter sans utiliser l'API Twitter officielle.
 - **[GHunt](https://github.com/mxrch/GHunt)** : Outil permettant de collecter des informations sur les comptes Google (Gmail, YouTube, etc.) à partir de sources publiques.
+- **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Recherche de fuites de données et de credential stuffing
 - **[Dehashed](https://www.dehashed.com/)** : Moteur de recherche pour les bases de données piratées ou compromises, permettant de vérifier si des comptes ou mots de passe ont été exposés.
